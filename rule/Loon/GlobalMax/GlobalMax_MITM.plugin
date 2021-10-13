@@ -1,0 +1,8 @@
+# NAME: GlobalMax MITM
+# AUTHOR: blackmatrix7
+# REPO: https://gitlab.com/blackmatrix7/ios_rule_script
+# UPDATED: 2021-11-25 00:50:24
+# MITM: 1
+
+[MITM]
+hostname = img.sina.com
