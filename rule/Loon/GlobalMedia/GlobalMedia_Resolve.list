@@ -1,16 +1,16 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-13 02:10:17
-# DOMAIN: 42
+# UPDATED: 2021-11-25 17:41:56
+# DOMAIN: 43
 # USER-AGENT: 65
 # DOMAIN-SUFFIX: 204
 # DOMAIN-KEYWORD: 22
 # IP-CIDR: 863
-# TOTAL: 1196
-DOMAIN,api.okzy.tv
+# TOTAL: 1197
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,apple.comscoreresearch.com
+DOMAIN,atv-ps.amazon.com
 DOMAIN,atv-ps.amazon.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
 DOMAIN,bcbolt446c5271-a.akamaihd.net
@@ -19,6 +19,7 @@ DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,content.jwplatform.com
 DOMAIN,edge.api.brightcove.com
+DOMAIN,fls-na.amazon.com
 DOMAIN,fls-na.amazon.com
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,hboasia1-i.akamaihd.net
@@ -40,12 +41,12 @@ DOMAIN,netflix.com.edgesuite.net
 DOMAIN,news-client.apple.com
 DOMAIN,news-edge.apple.com
 DOMAIN,news-events.apple.com
+DOMAIN,none
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,p.bstarstatic.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,players.brightcove.net
 DOMAIN,radio.itunes.apple.com
-DOMAIN,rpg.pic-imges.com
 DOMAIN,tv.applemusic.com
 DOMAIN,uts-api.itunes.apple.com
 DOMAIN,videos-f.jwpsrv.com

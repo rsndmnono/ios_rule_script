@@ -1,8 +1,0 @@
-# NAME: PlayStation4Upgrade
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 00:50:26
-# TOTAL: 0
-payload:
-  - DOMAIN,none
-  - DOMAIN-SUFFIX,ps4.update.playstation.net

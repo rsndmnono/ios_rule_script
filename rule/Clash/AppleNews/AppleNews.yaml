@@ -1,7 +1,7 @@
 # NAME: AppleNews
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-22 11:02:17
+# UPDATED: 2021-11-25 17:41:59
 # DOMAIN: 8
 # PROCESS-NAME: 1
 # DOMAIN-SUFFIX: 1
@@ -11,9 +11,9 @@ payload:
   - DOMAIN,gateway.icloud.com
   - DOMAIN,gspe1-ssl.ls.apple.com
   - DOMAIN,news-assets.apple.com
-  - DOMAIN,news-client-search.apple.com
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
+  - DOMAIN,none
   - DOMAIN-SUFFIX,apple.news
   - PROCESS-NAME,news

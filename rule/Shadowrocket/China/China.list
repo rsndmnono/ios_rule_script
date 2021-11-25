@@ -1,7 +1,7 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-22 16:06:59
+# UPDATED: 2021-11-25 17:42:04
 # DOMAIN-SUFFIX: 613
 # USER-AGENT: 32
 # DOMAIN: 12
@@ -17,9 +17,9 @@ DOMAIN,download.jetbrains.com
 DOMAIN,file-igamecj.akamaized.net
 DOMAIN,ip.istatmenus.app
 DOMAIN,mtalk.google.com
+DOMAIN,none
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,sms.imagetasks.com
-DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10089.cn
 DOMAIN-SUFFIX,115.com
@@ -667,9 +667,9 @@ USER-AGENT,*Vainglory*
 USER-AGENT,AdBlock*
 USER-AGENT,Best%20Trace*
 USER-AGENT,MegaWerewolf*
+USER-AGENT,MicroMessenger Client*
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,MicroMessenger*
-USER-AGENT,MicroMessengerClient*
 USER-AGENT,Microsoft*
 USER-AGENT,Moke*
 USER-AGENT,NeteaseMusic*

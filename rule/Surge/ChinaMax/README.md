@@ -1,18 +1,20 @@
-# ChinaMax
+# 国内网站/IP合集
 
 ## 前言
 
-本项目的ChinaMax规则由《规则生成器》自动整合与去重。
+本项目的国内网站/IP合集规则由《规则生成器》自动整合与去重。
 
 分流规则是互联网公共服务的域名和IP地址汇总，所有数据均收集自开源项目，仅为解决引用过多外部资源引起的规则重复问题，不代表我们支持或使用这些服务。
 
 请通过我国(中华人民共和国)合法的互联网出入口信道访问规则中的地址，并确保在使用过程中符合相关法律法规。
 
 ## 规则说明
-包含所有China、ChinaIPs、Mainland分组的规则，引用此规则后，不要再引用其他直连规则，否则可能造成大量规则重复。
+包含所有China、ChinaIPs、Mainland等类型的规则，定义为已收集的国内网站/IP合集。
+
+引用此规则后，不要再引用其他的国内规则，否则可能造成大量规则重复。
 
 ## MITM
-ChinaMax分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要使用MITM才能生效。
+国内网站/IP合集分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要使用MITM才能生效。
 
 程序已根据正则推导一份MITM的模块/复写/插件在当前目录中，推导结果可能存在冗余、遗漏或错误，仅供参考。
 
@@ -481,9 +483,9 @@ ChinaMax_Domain.list 请使用DOMAIN-SET。
 
 ## 数据来源
 
-本项目的ChinaMax复写规则的数据来自以下链接，通常已涵盖所有数据来源的复写规则。
+本项目的国内网站/IP合集复写规则的数据来自以下链接，通常已涵盖所有数据来源的复写规则。
 
-如果你正在使用这些复写规则，建议不要与本项目的ChinaMax复写规则混合使用，以免造成规则重复。
+如果你正在使用这些复写规则，建议不要与本项目的国内网站/IP合集复写规则混合使用，以免造成规则重复。
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/360.list
