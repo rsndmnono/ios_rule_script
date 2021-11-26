@@ -1,53 +1,28 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 17:41:50
+# UPDATED: 2021-11-27 02:10:40
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 36
-# DOMAIN-SUFFIX: 33844
-# USER-AGENT: 88
-# DOMAIN-KEYWORD: 74
-# IP-CIDR: 1221
-# IP-CIDR6: 38
+# DOMAIN: 11
+# DOMAIN-SUFFIX: 33605
+# USER-AGENT: 77
+# DOMAIN-KEYWORD: 71
+# IP-CIDR: 1196
+# IP-CIDR6: 31
 # PROCESS-NAME: 59
 # URL-REGEX: 8
-# TOTAL: 35368
-ad.10010.com
-akmcdnoversea-tw.inter.ptqy.gitv.tv
-analytics.95516.com
-analytics.strava.com
-ap-oversea-tls.agora.io
-ap-oversea.agora.io
-ap-oversea2.agora.io
-app.adjust.com
-bdtj.tagtic.cn
+# TOTAL: 35058
 blizzard.nefficient.co.kr
 cdn77.scoreuniverse.com
-chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
 clubhouse.pubnubapi.com
 deutschewelle.h-cdn.com
 edge.cwtv-vod-ext.top.comcast.net
 elib.maruzen.co.jp
-fairplay.l.qq.com
 faronics.kayako.com
 i.jeded.com
-imap-mail.outlook.com
-log.mmstat.com
-mobileso.bz.mgtv.com
-msg.umeng.com
-msg.umengcloud.com
-none
-outlook.office365.com
 p.bstarstatic.com
 pchomeonline.com.tw
-picanalysis.vivo.com.cn
-report-oversea.agora.io
-smtp-mail.outlook.com
-smtp.office365.com
-sycm.mmstat.com
-tracking.miui.com
 widgets.stripst.com
-xivanalysis.com
 ..bmw
 ..cisco
 ..fox
@@ -1050,7 +1025,6 @@ xivanalysis.com
 .3322buyu.com
 .332551.com
 .33275jb.com
-.33331.com
 .333337cp.com
 .33339.com
 .3333buyu.com
@@ -1867,7 +1841,6 @@ xivanalysis.com
 .70911h.com
 .70966a.com
 .70966c.com
-.71.am.com
 .710118.com
 .710a9.com
 .711.nets.hk
@@ -2317,7 +2290,6 @@ xivanalysis.com
 .91sp.v3p.co
 .91stw.net
 .91tianlu.com
-.91vpn.com
 .91vps.club
 .91ybb.com
 .920share.com
@@ -2730,7 +2702,6 @@ xivanalysis.com
 .acevpn.com
 .acextv.site
 .acg.ci
-.acg.tv
 .acg12.com
 .acg18.me
 .acg18.org
@@ -2745,11 +2716,8 @@ xivanalysis.com
 .acgnx.se
 .acgpy.com
 .acgpy.net
-.acgvideo.com
 .achievementanalytics.com
-.acl4.ssr
 .aclweb.org
-.acm.org
 .acmedia365.com
 .acmetoy.com
 .acmvalidations.com
@@ -2759,7 +2727,6 @@ xivanalysis.com
 .acpica.com
 .acproxy.com
 .acrobat.com
-.acs.org
 .actfortibet.org
 .actimes.com.au
 .actiongirls.com
@@ -2825,7 +2792,6 @@ xivanalysis.com
 .admin.bodog18.com
 .admissionsessayhelp.com
 .admob.com
-.adnmb2.com
 .adonispauli.com
 .adoos.com
 .ador.sg
@@ -2980,7 +2946,6 @@ xivanalysis.com
 .aing01.com
 .aint2late.com
 .aiot7.com
-.aip.org
 .aiph.net
 .air-nike-shoes.com
 .air-watch.com
@@ -3164,7 +3129,6 @@ xivanalysis.com
 .alice.xfu.jp
 .alicejapan.co.jp
 .alicesoft.com
-.alicloud.com
 .aliengu.com
 .alifaan.ovh
 .alifta.com
@@ -3363,7 +3327,6 @@ xivanalysis.com
 .amebaownd.com
 .amebaowndme.com
 .ameblo.jp
-.amemv.com
 .amentrix.co.uk
 .america.gov
 .american.edu
@@ -3434,7 +3397,6 @@ xivanalysis.com
 .ampproject.org
 .amrc.org.hk
 .amrita.edu
-.ams.org
 .ams02.space
 .amtb-taipei.org
 .amvs22.com
@@ -3527,7 +3489,6 @@ xivanalysis.com
 .anhqv.es
 .anidom.com
 .anime-sharing.com
-.animebytes.tv
 .animecrazy.net
 .animedreaming.tv
 .animeshippuuden.com
@@ -3545,7 +3506,6 @@ xivanalysis.com
 .annikasorenstam.com
 .annoyer.com
 .annstores.net
-.annualreviews.org
 .anobii.com
 .anon-v.com
 .anonasurf.com
@@ -3649,9 +3609,7 @@ xivanalysis.com
 .api.feedbin.com
 .api.jomego.com
 .api.lm1188.com
-.api.mgtv.com
 .api.mixpanel.com
-.api.mob.app.letv.com
 .api.news
 .api.ott.pm
 .api.phantom.avira-vpn.com
@@ -3956,7 +3914,6 @@ xivanalysis.com
 .appule.com
 .appye.com
 .apress.com
-.aps.org
 .apsense.com
 .aptoide.com
 .apture.com
@@ -4037,7 +3994,6 @@ xivanalysis.com
 .asagaku.com
 .asahi.com
 .ascar.io
-.ascelibrary.org
 .asciimw.jp
 .asda
 .asdfg.jp
@@ -4084,8 +4040,6 @@ xivanalysis.com
 .askynz.net
 .aslbeauty.byethost7.com
 .asm.com.ar
-.asm.org
-.asme.org
 .asnebula.cf
 .asp-cc.com
 .asp.net
@@ -4103,7 +4057,6 @@ xivanalysis.com
 .assortednotions.com
 .asstr.org
 .assult.com
-.astm.org
 .astrill.com
 .astrill4u.com
 .astrium
@@ -4335,7 +4288,6 @@ xivanalysis.com
 .awayoutgame.com
 .awc7.com
 .aweencore.com
-.awesome-hd.me
 .awetv.com
 .awk.so
 .awn1.icu
@@ -4457,7 +4409,6 @@ xivanalysis.com
 .b2216.com
 .b2235.com
 .b22399.com
-.b23.tv
 .b235.com
 .b2655.com
 .b296.com
@@ -5290,12 +5241,6 @@ xivanalysis.com
 .bijakids.com
 .bild.de
 .bilet.intercity.pl
-.biliapi.com
-.biliapi.net
-.biligame.com
-.biligame.net
-.biliintl.com
-.bilivideo.com
 .biliworld.com
 .bill-safe.com
 .bill2-software.com
@@ -5459,7 +5404,6 @@ xivanalysis.com
 .blazor.net
 .blbest.xyz
 .bldaily.com
-.bldimg.com
 .bldlive.com
 .ble.soas.ac.uk
 .blender.org
@@ -5630,13 +5574,11 @@ xivanalysis.com
 .blr335.com
 .bls.gov
 .blubrry.com
-.blue-city.com
 .blue9.com.au
 .blueangellive.com
 .bluecloud.pw
 .bluecoat.me
 .blued.cn
-.blued.com
 .bluedart.com
 .bluedgames.cn
 .bluedgames.com
@@ -5690,7 +5632,6 @@ xivanalysis.com
 .bmh001.com
 .bmia.org
 .bmicapa.org
-.bmj.com
 .bml.info
 .bms
 .bmw-abudhabi.com
@@ -6211,7 +6152,6 @@ xivanalysis.com
 .bowenpress.com
 .bowsersinsidestory.com
 .box.com
-.box.hyds360.com
 .box.net
 .boxcn.net
 .boxee.tv
@@ -6336,7 +6276,6 @@ xivanalysis.com
 .brkmd.com
 .broadbook.com
 .broadcast.co.nz
-.broadcasthe.net
 .broadpressinc.com
 .brocaproject.com
 .brockbbs.com
@@ -6661,7 +6600,6 @@ xivanalysis.com
 .byt707.com
 .byt909.com
 .byte.co
-.byteoversea.com
 .bytes.com
 .bytextv.com
 .byyzgtapp.com
@@ -6810,7 +6748,6 @@ xivanalysis.com
 .cahr.org.tw
 .cai8wan.com
 .caige.a2020.com
-.caihongqi.com
 .caijinglengyan.com
 .caime.xyz
 .caiyutw.com
@@ -6843,7 +6780,6 @@ xivanalysis.com
 .cam4.jp
 .cam4.sg
 .camaleonjuguetes.cl
-.cambridge.org
 .cambridgedigital.net
 .cambridgemaths.org
 .cambridgeschoolshakespeare.com
@@ -6883,7 +6819,6 @@ xivanalysis.com
 .canon
 .canon-cee.com
 .canon-cmos-sensors.com
-.canon-cna.com
 .canon-ebm.com.hk
 .canon-emea.com
 .canon-emirates.ae
@@ -7008,7 +6943,6 @@ xivanalysis.com
 .cartoonsexx.net
 .cartoonsqueen.com
 .carxzp.com
-.cas.org
 .casacam.net
 .casadabike.com.br
 .casadeltibetbcn.org
@@ -7186,7 +7120,6 @@ xivanalysis.com
 .cdn-apple.com
 .cdn-main.plus500.com
 .cdn-terapeak.com
-.cdn.angruo.com
 .cdn.cms-twdigitalassets.com
 .cdn.entelectonline.co.za
 .cdn.hkwesi22222.xyz
@@ -7335,7 +7268,6 @@ xivanalysis.com
 .chattingcat.com
 .chaturbate.com
 .chay.cl
-.chdbits.co
 .cheap-beats-by-dre.net
 .cheap-beatsbydre.com
 .cheap-nike.com
@@ -7730,11 +7662,9 @@ xivanalysis.com
 .cl.yyq.im
 .clapaftis.com
 .clarionproject.org
-.clarivate.com
 .claro.com.co
 .classicalguitarblog.net
 .classicnike.com
-.classix-unlimited.co.uk
 .clb.org.hk
 .clco.cc
 .cleanadulthost.com
@@ -7934,7 +7864,6 @@ xivanalysis.com
 .cngun.net
 .cnineu.com
 .cnitter.com
-.cnki.net
 .cnm999.com
 .cnn.com
 .cnn.io
@@ -7948,7 +7877,6 @@ xivanalysis.com
 .cnnphilippines.com
 .cnnpoint.com
 .cnnpolitics.com
-.cnpmjs.org
 .cnpoco.com
 .cnpolitics.org
 .cnproxy.com
@@ -8220,7 +8148,6 @@ xivanalysis.com
 .cq99.us
 .cqcorea.com
 .cqhczx.com
-.cqvip.com
 .cqyos.tk
 .cr
 .cr7.one
@@ -8418,7 +8345,6 @@ xivanalysis.com
 .ctfriend.net
 .ctgop.org
 .ctitv.com.tw
-.ctldl.windowsupdate.com
 .ctowc.org
 .cts.com.tw
 .ctunnel.com
@@ -8518,7 +8444,6 @@ xivanalysis.com
 .cytode.us
 .cyworld.com
 .cz
-.cz.cc
 .czhangxu.com
 .d-fukyu.com
 .d.070790.com
@@ -8672,7 +8597,6 @@ xivanalysis.com
 .danielriquelme.cl
 .danilo.to
 .danke4china.net
-.danlan.org
 .danlancare.cn
 .danlancare.com
 .danlanlove.cn
@@ -9061,7 +8985,6 @@ xivanalysis.com
 .digi-ateljee.be
 .digibet.com
 .digicert.cn
-.digicert.com
 .digikey
 .digiland.tw
 .digisfera.com
@@ -9083,7 +9006,6 @@ xivanalysis.com
 .dilber.se
 .dilcdn.com
 .dilidili.wang
-.dililitv.com
 .dimassatrio.web.id
 .dingchin.com.tw
 .dinsound.net
@@ -9275,7 +9197,6 @@ xivanalysis.com
 .divxea.cf
 .diy
 .dizdiaz.com.ar
-.dizhensubao.getui.com
 .dizhidizhi.com
 .dizhuzhishang.com
 .dj2111.com
@@ -9330,7 +9251,6 @@ xivanalysis.com
 .dndbeyond.com
 .dnes.bg
 .dnitv.com
-.dnl-09.geo.kaspersky.com
 .dnp
 .dns-dns.com
 .dns-doh-no-safe-search.dnsforfamily.com
@@ -9850,7 +9770,6 @@ xivanalysis.com
 .dynvpn.com
 .dysfz.cc
 .dyslexiala.com
-.dytt.net
 .dywu.sp8126.com
 .dz
 .dz.adj.idv.tw
@@ -10123,7 +10042,6 @@ xivanalysis.com
 .ebookforipad.com
 .ebooks-share.net
 .ebookservice.tw
-.ebscohost.com
 .ebtcbank.com
 .ebuyheadphones.com
 .ec
@@ -10214,7 +10132,6 @@ xivanalysis.com
 .eevpn.com
 .efcc.org.hk
 .eff.org
-.effecthub.com
 .effers.com
 .effies.com
 .efhc.mx
@@ -10328,7 +10245,6 @@ xivanalysis.com
 .embs.org
 .emcs.org
 .emediate.eu
-.emerald.com
 .emerck
 .emerson
 .emersonbrookforest.org
@@ -10389,7 +10305,6 @@ xivanalysis.com
 .eng.collectivehealth.com
 .engadget.com
 .engagedaily.org
-.engineeringvillage.com
 .englandproxy.co.uk
 .english.astroawani.com
 .english.moc.gov.tw
@@ -10632,7 +10547,6 @@ xivanalysis.com
 .exactom.com
 .exacttarget.com
 .examity.com
-.example
 .exascale-tech.com
 .exblog.co.jp
 .exblog.jp
@@ -10698,7 +10612,6 @@ xivanalysis.com
 .ezua.com
 .f-droid.org
 .f.2fine.de
-.f.video.weibocdn.com
 .f.wheredreams.com
 .f1155.com
 .f1286.com
@@ -11279,7 +11192,6 @@ xivanalysis.com
 .firecams.com
 .firech.at
 .fireemblemawakening.com
-.firefox.com
 .firefox.com.cn
 .firefoxfan.com
 .firefoxusercontent.com
@@ -11419,7 +11331,6 @@ xivanalysis.com
 .fontexplorerx.com
 .fonts.com
 .fonts.net
-.fonts.proxy.ustclug.org
 .fontshop.com
 .fontsinuse.com
 .food
@@ -11470,7 +11381,6 @@ xivanalysis.com
 .forumosa.com
 .forums-free.com
 .forums.catholic.com
-.forums.mihoyo.com
 .forums.tripwireinteractive.com
 .forusex.com
 .forwarddemocracy.com
@@ -11747,7 +11657,6 @@ xivanalysis.com
 .freechina.tech.blog
 .freechinaforum.org
 .freechinaradio.com
-.freechinaweibo.com
 .freecodecamp.org
 .freeddns.com
 .freeddns.org
@@ -11851,7 +11760,6 @@ xivanalysis.com
 .freewebproxy.us
 .freewebs.com
 .freewechat.com
-.freeweibo.com
 .freewww.biz
 .freewww.info
 .freexhamster.com
@@ -12064,7 +11972,6 @@ xivanalysis.com
 .fury.dev
 .fury.help
 .fury.io
-.fus.cdn.krcom.cn
 .fusion.net
 .fuskator.com
 .futhead.com
@@ -12131,7 +12038,6 @@ xivanalysis.com
 .g.libnull.com
 .g.page
 .g.starmoe.xyz
-.g.zmirrordemo.com
 .g00gle.pw
 .g0v.social
 .g211202.comuf.com
@@ -12275,7 +12181,6 @@ xivanalysis.com
 .gaywatch.com
 .gayxmens.com
 .gazecafe.com
-.gazellegames.net
 .gazotube.com
 .gb
 .gb.igg.biz
@@ -12587,7 +12492,6 @@ xivanalysis.com
 .giga-web.jp
 .giga69.co
 .gigabyte.cn
-.gigabyte.com
 .gigacircle.com
 .gigadomo.com
 .giganews.com
@@ -12614,7 +12518,6 @@ xivanalysis.com
 .gitbook.com
 .gitbook.io
 .gitbooks.io
-.gitlab-assets.oss-cn-hongkong.aliyuncs.com
 .gitlab-static.net
 .gitlab.com
 .gitlab.io
@@ -13234,7 +13137,6 @@ xivanalysis.com
 .hanunyi.com
 .hanwitprecision.com
 .hao.news
-.hao123img.com
 .hao8tv.com
 .haodiao.org
 .haoli747.com
@@ -13330,22 +13232,16 @@ xivanalysis.com
 .hdarea.co
 .hdatmos.club
 .hdbd.us
-.hdbits.org
-.hdchina.org
 .hdcity.city
 .hdd.biz.st
 .hddirectv.com
-.hddolby.com
 .hdfans.org
 .hdfc
 .hdfcbank
-.hdhome.org
 .hdlt.me
 .hdpost.top
 .hdroute.org
 .hdrplusdata.org
-.hdsky.me
-.hdslb.com
 .hdstreet.club
 .hdtime.org
 .hdtvb.net
@@ -13571,7 +13467,6 @@ xivanalysis.com
 .hilive.tv
 .hiload.com
 .hilton
-.himalaya.com
 .himalaya2020.com
 .himalayan-foundation.org
 .himalayanconsensus.org
@@ -13602,7 +13497,6 @@ xivanalysis.com
 .hitremixes.com
 .hitun.io
 .hiveminds.net
-.hiwifi.com
 .hizb-ut-tahrir.info
 .hizb-ut-tahrir.org
 .hizbuttahrir.org
@@ -13818,7 +13712,6 @@ xivanalysis.com
 .holymountaincn.com
 .holyshit.com
 .holyspiritspeaks.org
-.home.arpa
 .home.hicworks.idv.tw
 .home.mihk.tv
 .home.nzcity.co.nz
@@ -14316,7 +14209,6 @@ xivanalysis.com
 .iblist.com
 .iblogserv-f.net
 .ibm
-.ibm.com
 .ibm.eu
 .ibm.net
 .ibm.us
@@ -14329,7 +14221,6 @@ xivanalysis.com
 .ibros.org
 .ibtimes.com
 .ibvpn.com
-.ibytedtos.com
 .ibyteimg.com
 .ic.ac.uk
 .icahn.mssm.edu
@@ -14342,7 +14233,6 @@ xivanalysis.com
 .icecast.org
 .icerocket.com
 .icevil.webege.com
-.icevirtuallibrary.com
 .icgirls.com
 .icij.org
 .icili.net
@@ -14442,7 +14332,6 @@ xivanalysis.com
 .ieee-tems.org
 .ieee-uffc.org
 .ieee-vics.org
-.ieee.org
 .ieee.tv
 .ieeeaps.org
 .ieeecsc.org
@@ -14562,7 +14451,6 @@ xivanalysis.com
 .im.tv
 .im099.com
 .im88.tw
-.im9.com
 .imac-apple.com
 .imac-applecomputer.com
 .imac.co
@@ -14607,7 +14495,6 @@ xivanalysis.com
 .imdj.imdj3001pankou.com
 .imes-yabotiyu.tianjiugong.com
 .imessage.tv
-.imf.org
 .img.ahri-plus.com
 .img.bipics.net
 .img.ly
@@ -15039,7 +14926,6 @@ xivanalysis.com
 .intralot.it
 .intuit
 .intunewiki.com
-.invalid
 .inversionesmatulic.cl
 .invidio.us
 .invidious.fdn.fr
@@ -15054,18 +14940,14 @@ xivanalysis.com
 .ioe.com
 .ioffergift.com
 .ionic.cf
-.iop.org
 .ios-icloud.com
 .iosinthecar.com
 .iotinactionevents.com
 .iownyour.biz
 .iownyour.org
 .ioxoxi.club
-.ip138.com
 .ip5000.com
 .ip5001.co
-.ip6-localhost
-.ip6-loopback
 .ip6.static.sl-reverse.com
 .ip6263.com
 .ip73.com
@@ -15171,7 +15053,6 @@ xivanalysis.com
 .ipvanish.com
 .ipvm.com
 .iq
-.iq.com
 .iqlink1.us
 .iqlinkus.com
 .iqlinkus.net
@@ -15444,7 +15325,6 @@ xivanalysis.com
 .jailbreaked.net
 .jakubpejzl.me
 .jamaat.org
-.jamanetwork.com
 .jamescyoung.com
 .jamestabor.com
 .jamestown.org
@@ -15570,7 +15450,6 @@ xivanalysis.com
 .jhalderm.com
 .jhanssen.org
 .jhpeng.com
-.jhu.edu
 .ji5755.com
 .jiangweiping.com
 .jiaoyou8.com
@@ -15581,7 +15460,6 @@ xivanalysis.com
 .jie.idv.tw
 .jiehua.cz
 .jiehua.tv
-.jiepang.com
 .jieshibaobao.com
 .jiezhi888.com
 .jigglegifs.com
@@ -15603,7 +15481,6 @@ xivanalysis.com
 .jingsim.org
 .jingzhoushi1.xyz
 .jinhai.de
-.jinhui163.w5-e2.ezwebtest.com
 .jinkela.pw
 .jinma123.net
 .jinnaju.com
@@ -15711,7 +15588,6 @@ xivanalysis.com
 .joneame.net
 .jonimitchell.com
 .jonward.com
-.joox.com
 .jorn.net
 .jos.com
 .joshinweb.jp
@@ -15739,7 +15615,6 @@ xivanalysis.com
 .jpmorgan
 .jpmorganchase
 .jpopforum.net
-.jpopsuki.eu
 .jprs
 .jpyule.com
 .jquery.com
@@ -15773,7 +15648,6 @@ xivanalysis.com
 .jshint.com
 .jsok369.com
 .jsproxy.tk
-.jstor.org
 .jtbc.joins.com
 .jtfx.mobi
 .jtvnw.net
@@ -15939,7 +15813,6 @@ xivanalysis.com
 .karagarga.in
 .karayou.com
 .karbon.to
-.karger.com
 .karirbdl.com
 .karkhung.com
 .karmapa-teachings.org
@@ -15975,7 +15848,6 @@ xivanalysis.com
 .kechara.com
 .keecha.com
 .keepandshare.com
-.keepfrds.com
 .keepital.com
 .keepmovingwithmovefree.com
 .keepsolid.com
@@ -16156,7 +16028,6 @@ xivanalysis.com
 .kmcf.kinmen.gov.tw
 .kmh.gov.tw
 .kmplayer.com
-.kms.03k.org
 .kmuh.org.tw
 .kn
 .kn3.net
@@ -16282,7 +16153,6 @@ xivanalysis.com
 .kugo.cc
 .kui.name
 .kujsq.com
-.kuke.com
 .kuki.idv.tw
 .kukuku.cc
 .kukuku.uk
@@ -16372,7 +16242,6 @@ xivanalysis.com
 .lamrim.com
 .lamyig.com
 .lamyig1.com
-.lan
 .lanavaja.cl
 .lancaster
 .lancia
@@ -16572,7 +16441,6 @@ xivanalysis.com
 .lego
 .legsjapan.com
 .lehaofa.com
-.leike.cc
 .leirentv.ca
 .leisurecafe.ca
 .leisurepro.com
@@ -16718,7 +16586,6 @@ xivanalysis.com
 .libgen.life
 .libgen.me
 .libgen.rs
-.libguides.com
 .libo15.com
 .library.pressdisplay.com
 .libraryinformationtechnology.com
@@ -16922,15 +16789,10 @@ xivanalysis.com
 .lobsangwangyal.com
 .lobsterbay.hk
 .lobstertube.com
-.local
 .localbitcoins.com
 .localbitcoins.net
 .localbitcoinschain.com
-.localdomain
 .localdomain.ws
-.localhost
-.localhost.ptlogin2.qq.com
-.localhost.sec.qq.com
 .localizejs.com
 .localizestatus.com
 .localmedia.org
@@ -17169,7 +17031,6 @@ xivanalysis.com
 .m-orig.discoverhongkong.com
 .m-power.com
 .m-sport.co.uk
-.m-team.cc
 .m.0000hg.com
 .m.10611.com
 .m.12manapp.com
@@ -17348,7 +17209,6 @@ xivanalysis.com
 .madonna-av.com
 .madrau.com
 .madshi.net
-.madsrevolution.net
 .madthumbs.com
 .madvr.com
 .madvr.net
@@ -17480,7 +17340,6 @@ xivanalysis.com
 .mango
 .mango.com
 .mangovpn.com
-.manhuaren.com
 .maniash.com
 .manicur4ik.ru
 .manilastandard.net
@@ -17682,6 +17541,7 @@ xivanalysis.com
 .mcdonalds.ca
 .mcdonalds.co.uk
 .mcdonalds.com
+.mcdonalds.com.cn
 .mcdonalds.com.hk
 .mcdonalds.hk
 .mcdonalds.it
@@ -18267,7 +18127,6 @@ xivanalysis.com
 .mitramandalajaya.id
 .mitsubishi
 .mittromney.com
-.miwifi.com
 .mix.com
 .mixcloud.com
 .mixer.com
@@ -18371,7 +18230,6 @@ xivanalysis.com
 .moeerolibrary.com
 .moefuns.com
 .moefuns.vip
-.moegirl.org
 .moess.cc
 .mofa.gov.tw
 .mofa168.com
@@ -18517,7 +18375,6 @@ xivanalysis.com
 .morazzia.com
 .morbell.com
 .moreheadphones.com
-.morethan.tv
 .morlive.com
 .morningsun.org
 .moromie-av.com
@@ -18594,7 +18451,6 @@ xivanalysis.com
 .mpettis.com
 .mpfinance.com
 .mpfive.com
-.mpg.de
 .mpinews.com
 .mpnevolution.com
 .mponline.hk
@@ -18661,8 +18517,6 @@ xivanalysis.com
 .msft.info
 .msft.net
 .msftauth.net
-.msftconnecttest.com
-.msftncsi.com
 .msftnet.org
 .msg.vg
 .msgamesresearch.com
@@ -18737,7 +18591,6 @@ xivanalysis.com
 .murmur.tw
 .murmurcn.com
 .murtadho.com.br
-.muscdn.com
 .musemagazine.it
 .musescore.com
 .mushymush.tv
@@ -18793,7 +18646,6 @@ xivanalysis.com
 .my.jumpthewall.net
 .my.now-ip.net
 .my.roboforexcn.com
-.my.router
 .my.shadowsocksr.vip
 .my.tranzact.com
 .my03.com
@@ -18816,7 +18668,6 @@ xivanalysis.com
 .myaccountglobalcash.com
 .myactimes.com
 .myanniu.com
-.myanonamouse.net
 .myappleid.com
 .myaudiocast.com
 .myav.com.tw
@@ -18903,7 +18754,6 @@ xivanalysis.com
 .myftp.info
 .myftp.name
 .myftp.org
-.myfun.com
 .mygalgame.com
 .mygod.tk
 .myguide.hk
@@ -18920,7 +18770,6 @@ xivanalysis.com
 .myhpsupport.com
 .myhulu.com
 .myicloud.net
-.myilibrary.com
 .myiphide.com
 .myipod.net
 .myjs.tw
@@ -19068,7 +18917,6 @@ xivanalysis.com
 .nanyang.com
 .nanyang.com.my
 .nanyangpost.com
-.nanyangpt.com
 .nanzao.com
 .naol.ca
 .naol.cc
@@ -19099,7 +18947,6 @@ xivanalysis.com
 .nationwide.com
 .natura
 .naturalvoices.com
-.nature.com
 .naughtyamerica.com
 .naughtyblog.org
 .naughtymag.com
@@ -19149,7 +18996,6 @@ xivanalysis.com
 .nchrd.org
 .ncn.org
 .ncol.com
-.ncore.cc
 .nd.joyphoto.ro
 .nd065287.deflanid.com
 .nde.de
@@ -19911,7 +19757,6 @@ xivanalysis.com
 .nvidia.co.jp
 .nvidia.co.kr
 .nvidia.co.uk
-.nvidia.com
 .nvidia.com.au
 .nvidia.com.br
 .nvidia.com.mx
@@ -20064,7 +19909,6 @@ xivanalysis.com
 .odnoklassniki.ru
 .odprava.si
 .odysee.com
-.oecd-ilibrary.org
 .oed.com
 .oeea.org
 .oex.com
@@ -20250,7 +20094,6 @@ xivanalysis.com
 .oogami.name
 .oogate.com
 .ooguy.com
-.ooklaserver.net
 .ooni.org
 .ooo-sex.com
 .ooo16.net
@@ -20262,7 +20105,6 @@ xivanalysis.com
 .op.gg
 .ope99.com
 .open
-.open.cd
 .open.com.hk
 .open.firstory.me
 .openai.com
@@ -20290,7 +20132,6 @@ xivanalysis.com
 .openmaps.org
 .openmine.cl
 .openproxy.co.uk
-.openresty.org
 .openssl.org
 .openstreetmap.com
 .openstreetmap.net
@@ -20390,7 +20231,6 @@ xivanalysis.com
 .orzistic.org
 .osakamotion.net
 .osakihsieh.tw
-.osapublishing.org
 .osdn.net
 .osfoora.com
 .osha.gov
@@ -20418,9 +20258,7 @@ xivanalysis.com
 .otzo.com
 .ouchmonkey.com
 .ouo.io
-.oup.com
 .ouplaw.com
-.ourbits.club
 .ourbluecity.cn
 .ourbluecity.com
 .ourdearamy.com
@@ -20444,7 +20282,6 @@ xivanalysis.com
 .outvye.com.au
 .over-blog.com
 .overapple.com
-.overcast.fm
 .overdaily.org
 .overdrive.com
 .overplay.net
@@ -20452,7 +20289,6 @@ xivanalysis.com
 .overwall.org
 .ovh
 .ovi.com
-.ovid.com
 .ovpn.com
 .ovpn.se
 .ow.ly
@@ -20464,15 +20300,12 @@ xivanalysis.com
 .owltail.com
 .ox.ac.uk
 .oxfordaasc.com
-.oxfordartonline.com
-.oxfordbibliographies.com
 .oxfordclinicalpsych.com
 .oxforddnb.com
 .oxfordfirstsource.com
 .oxfordhandbooks.com
 .oxfordlawtrove.com
 .oxfordmedicine.com
-.oxfordmusiconline.com
 .oxfordpoliticstrove.com
 .oxfordre.com
 .oxfordreference.com
@@ -20500,7 +20333,6 @@ xivanalysis.com
 .p-bogty.kg811.com
 .p-cdn.us
 .p.inkcat.net
-.p.to
 .p.w3cx.us
 .p0133.com
 .p0136.com
@@ -20631,7 +20463,6 @@ xivanalysis.com
 .palpung.org.tw
 .paltalk.com
 .pamperedchef
-.pan.diemoe.net
 .panagistics.com
 .panasonic
 .panasonic.com
@@ -20703,7 +20534,6 @@ xivanalysis.com
 .passionhdfan.com
 .passiontimes.hk
 .passport.net
-.passthepopcorn.me
 .paste.ee
 .pastebin.com
 .pastel.ink
@@ -20823,7 +20653,6 @@ xivanalysis.com
 .pegasusvpn.com
 .peggo.co
 .pegle.com
-.peiluyou.com
 .peing.net
 .pekingduck.org
 .pelicanpointhoa.com
@@ -20915,7 +20744,6 @@ xivanalysis.com
 .phapluan.org
 .pharmacie-grand-littoral.fr
 .phayul.com
-.phicomm.me
 .philborges.com
 .philips
 .philly.com
@@ -21095,7 +20923,6 @@ xivanalysis.com
 .pki-posta.ch
 .pki-poste.ch
 .pki.goog
-.pkulaw.com
 .pl
 .placemix.com
 .placesdocs.com
@@ -21127,10 +20954,7 @@ xivanalysis.com
 .playshow.io
 .playshowtv.com
 .playstation
-.playstation.com
 .playstation.com.hk
-.playstation.net
-.playstationnetwork.com
 .playtube.pk
 .playvalorant.com
 .playvid.com
@@ -21158,7 +20982,6 @@ xivanalysis.com
 .pmates.com
 .pmo.gov.sg
 .pn
-.pnas.org
 .pnc
 .pniehus.de
 .po09s0272.vooreeno.com
@@ -21393,7 +21216,6 @@ xivanalysis.com
 .private.com
 .privatebrowsingmyths.com
 .privatedns.org
-.privatehd.to
 .privatehomeclips.com
 .privateinternetaccess.com
 .privatemarketplaces.net
@@ -21443,7 +21265,6 @@ xivanalysis.com
 .propellerads.com
 .proptiger.com
 .propub.li
-.proquest.com
 .pros.ee
 .prosiben.de
 .prostores.com
@@ -21568,7 +21389,6 @@ xivanalysis.com
 .pt.vgo118.com
 .pt2.org
 .ptbtm.com
-.pterclub.com
 .pthome.net
 .pts.org.tw
 .ptsbao.club
@@ -21854,7 +21674,6 @@ xivanalysis.com
 .qualtrics.com
 .quanben-xiaoshuo.com
 .quannengshen.org
-.quantil.com
 .quantumbooter.net
 .quantumidiot.com
 .quatrowireless.com
@@ -21906,7 +21725,6 @@ xivanalysis.com
 .qvodzy.org
 .qx.net
 .qxbbs.org
-.qy.net
 .qy521.vip
 .qz.com
 .r-project.org
@@ -22013,7 +21831,6 @@ xivanalysis.com
 .rarbg.is
 .rarbg.link
 .rarbg.me
-.rarbg.to
 .rarbg.unblocked.vc
 .rarbgaccess.org
 .rarbgaccessed.org
@@ -22182,7 +21999,6 @@ xivanalysis.com
 .red-dragonrising.com
 .red-lang.org
 .red5.co.uk
-.redacted.ch
 .redballoonsolidarity.org
 .redboardcircuits.com
 .redbubble.com
@@ -22205,7 +22021,6 @@ xivanalysis.com
 .redhotlabs.com
 .redimec.com.ar
 .redir.fd.f-secure.com
-.redirect.networkbench.com
 .redis.io
 .redislabs.com
 .redken
@@ -22479,7 +22294,6 @@ xivanalysis.com
 .rosinstrument.com
 .rotten.com
 .roupacaipira.com
-.routerlogin.com
 .routledgehandbooks.com
 .royalcams.com
 .royalluxurywatch.com
@@ -22498,7 +22312,6 @@ xivanalysis.com
 .rrrxv.com
 .rrtis.com
 .rryqp.cc
-.rsc.org
 .rscihoops.com
 .rscredito.com.br
 .rsdlmonitor.com
@@ -22644,7 +22457,6 @@ xivanalysis.com
 .safevpn.net
 .safeway
 .saffrontech.com
-.sagepub.com
 .sagitario.com.ar
 .sahabatsetiasmartone.com
 .sahajayoga.ie
@@ -22846,7 +22658,6 @@ xivanalysis.com
 .schmidt
 .schneider-electric.com
 .schneiderhome.us
-.scholar.glgoo.com
 .scholarpedia.org
 .scholarsatrisk.org
 .scholarsglobe.com
@@ -22856,9 +22667,7 @@ xivanalysis.com
 .schwarzgroup
 .sci.hubg.org
 .sciencedaily.com
-.sciencedirect.com
 .sciencedirectassets.com
-.sciencemag.org
 .sciencenets.com
 .scientificamerican.com
 .scientificlinux.org
@@ -22878,7 +22687,6 @@ xivanalysis.com
 .scoop.sh
 .scope.co.id
 .scopemarkets.com
-.scopus.com
 .scor
 .scoreland.com
 .scotchbrand.com
@@ -23183,7 +22991,6 @@ xivanalysis.com
 .shanghainationalparty.com
 .shangrila
 .shanmao.tv
-.shaogood.com
 .shapeservices.com
 .share.playbabies.net
 .share.wordshare.in
@@ -23213,7 +23020,6 @@ xivanalysis.com
 .shellmix.com
 .shemalez.com
 .shendiantong.com
-.shengxueb.w305-e0.ezwebtest.com
 .shenlan.gq
 .shenlaoxi.com
 .shenpoker.com
@@ -23322,7 +23128,6 @@ xivanalysis.com
 .shwchurch3.com
 .si
 .si.shop.tm
-.siam.org
 .sibmarino.com.br
 .sibnet.ru
 .sibreal.org
@@ -23399,7 +23204,6 @@ xivanalysis.com
 .singtao.com.au
 .singtaobooks.com
 .singtaola.com
-.singtaonet.com
 .singtaonewscorp.com
 .singtaoopo.com
 .singtaousa.com
@@ -23409,7 +23213,6 @@ xivanalysis.com
 .sinnerland.com
 .sino-monthly.com
 .sinoants.com
-.sinoca.com
 .sinocast.com
 .sinocism.com
 .sinoinsider.com
@@ -23564,7 +23367,6 @@ xivanalysis.com
 .smartonerobotics.com
 .smartonesolutions.com.hk
 .smartonesolutions.hk
-.smartproxy.me
 .smartsimcha.com
 .smartsource.com
 .smartydns.com
@@ -23615,7 +23417,6 @@ xivanalysis.com
 .snowlionpub.com
 .snowpear.com
 .snowpick.co.il
-.snssdk.com
 .so-net.net.tw
 .soasta-dswb.com
 .sobees.com
@@ -23642,7 +23443,6 @@ xivanalysis.com
 .sockslist.net
 .socrec.org
 .sod.co.jp
-.sod99.com
 .sodichan.com
 .soft4fun.net
 .softbank
@@ -23730,7 +23530,6 @@ xivanalysis.com
 .sony.co.nz
 .sony.co.th
 .sony.co.uk
-.sony.com
 .sony.com.ar
 .sony.com.au
 .sony.com.bo
@@ -23789,7 +23588,6 @@ xivanalysis.com
 .sonyclassics.com
 .sonydesign.com
 .sonydna.com
-.sonyentertainmentnetwork.com
 .sonyged.com.cn
 .sonyglobalsolutions.jp
 .sonykigyo.jp
@@ -23911,7 +23709,6 @@ xivanalysis.com
 .spiceworks.com
 .spiceworksstatic.com
 .spideroak.com
-.spiedigitallibrary.org
 .spiegel
 .spiegel-online.de
 .spiegel.de
@@ -23966,10 +23763,7 @@ xivanalysis.com
 .spring.net
 .spring4u.info
 .springboardplatform.com
-.springer.com
-.springerlink.com
 .springernature.com
-.springsunday.net
 .sprinklesapp.com
 .sprint.com
 .sprint0.net
@@ -24597,7 +24391,6 @@ xivanalysis.com
 .symantec.com
 .symauth.com
 .symcb.com
-.symcd.com
 .synaptic.net
 .sync2it.com
 .syncback.com
@@ -24719,7 +24512,6 @@ xivanalysis.com
 .tandberg-china.com
 .tandberg.com
 .tandf.co.uk
-.tandfonline.com
 .tandtfamily.org
 .tangalan.ga
 .tangben.com
@@ -24838,7 +24630,6 @@ xivanalysis.com
 .teamamericany.com
 .teamneedforspeed.com
 .teamskeet.com
-.teamviewer.com
 .teapartycommunity.com
 .tearapeak.com
 .techatbloomberg.com
@@ -24914,7 +24705,6 @@ xivanalysis.com
 .tenacy.link
 .tenbyfotolia.com
 .tenco.cc
-.tendawifi.com
 .tenderfield.com.au
 .tengbo9885.com
 .tenor.com
@@ -24938,7 +24728,6 @@ xivanalysis.com
 .terrapeak.com
 .tesco.co.uk
 .tesco.com
-.test
 .test-idc-3.fjla37itnf5dpsen.com
 .test-wiki-01.site88.net
 .test.domain888.pw
@@ -25421,7 +25210,6 @@ xivanalysis.com
 .tj900.com
 .tjmaxx
 .tjmaxx.com
-.tjupt.org
 .tjx
 .tk
 .tkb008.xyz
@@ -25567,7 +25355,6 @@ xivanalysis.com
 .toshiba
 .total
 .totalvpn.com
-.totheglory.im
 .totogeeks.com
 .totoxtv.com
 .totw.us
@@ -25661,8 +25448,6 @@ xivanalysis.com
 .treasureweb.net
 .treasurysource.bokf.com
 .treemall.com.tw
-.trello.com
-.trellocdn.com
 .trementina.ml
 .trendhunter.com
 .trendsmap.com
@@ -26242,7 +26027,6 @@ xivanalysis.com
 .umcbc.ca
 .umcconnections.org
 .umeinc.com
-.umi.im
 .umich.edu
 .ummah.com
 .umnet.com
@@ -26250,7 +26034,6 @@ xivanalysis.com
 .umyaquene.gq
 .un.com
 .un.na.tl
-.un.org
 .unafotocondios.com
 .unanimis.ro
 .unblock-proxy.com
@@ -26298,7 +26081,6 @@ xivanalysis.com
 .unfiltered.news
 .unherd.com
 .unholyknight.com
-.uni-bielefeld.de
 .uni-pak.com.au
 .uni.cc
 .unicode.org
@@ -26315,7 +26097,6 @@ xivanalysis.com
 .unitrans.ucdavis.edu
 .unity.cn
 .unity.com
-.unity3d.com
 .unitychina.cn
 .unityedu.cn
 .unityedu.com
@@ -26458,7 +26239,6 @@ xivanalysis.com
 .usman.com.pk
 .usmc.mil
 .usmgtcgov.tw
-.usocctn.com
 .uspto.gov
 .ustibetcommittee.org
 .ustinka.org
@@ -26537,8 +26317,6 @@ xivanalysis.com
 .v-tea.com
 .v.dvd99.xyz
 .v.gd
-.v.smtcdns.com
-.v.smtcdns.net
 .v1.t168.ml
 .v1.truth.gq
 .v147.iqi.asu.su
@@ -27368,7 +27146,6 @@ xivanalysis.com
 .vpro.com
 .vpro.net
 .vpscn.net
-.vpser.net
 .vraiesagesse.net
 .vrbangers.com
 .vrchat.net
@@ -27402,7 +27179,6 @@ xivanalysis.com
 .vultryhw.com
 .vultur.com
 .vuvuzela.io
-.vv.video.qq.com
 .vv2069.pw
 .vv611.net
 .vv711.net
@@ -27563,7 +27339,6 @@ xivanalysis.com
 .wanbet.com
 .wanderinghorse.net
 .wanetusa.org
-.wanfangdata.com
 .wangafu.net
 .wangchengxi.com
 .wangjinbo.org
@@ -27734,7 +27509,6 @@ xivanalysis.com
 .weboas.is
 .webobjects.com
 .webobjects.net
-.webofknowledge.com
 .webofscience.com
 .webok.tw
 .weboproxy.com
@@ -27774,8 +27548,6 @@ xivanalysis.com
 .weetok.com
 .wefightcensorship.org
 .wefong.com
-.weiboleak.com
-.weibosuite.com
 .weide8.com
 .weihuo.org
 .weijingsheng.org
@@ -27817,7 +27589,6 @@ xivanalysis.com
 .westernshugdensociety.org
 .westernwolves.com
 .westkit.net
-.westlaw.com
 .westlawchina.com
 .westperry.org
 .westpoint.edu
@@ -27826,8 +27597,6 @@ xivanalysis.com
 .wetinim.com
 .wetplace.com
 .wetpussygames.com
-.wetv.vip
-.wetvinfo.com
 .weverse.io
 .wevpn.com
 .wevxv.com
@@ -27856,7 +27625,6 @@ xivanalysis.com
 .whatisairwatch.com
 .whatisscientology.org
 .whatisworkspaceone.com
-.whatsonweibo.com
 .whatthefox.com
 .wheatseeds.org
 .wheel-soft.com
@@ -27961,7 +27729,6 @@ xivanalysis.com
 .wildfireapp.com
 .wildhardsex.com
 .wildsides.com
-.wiley.com
 .williamhiggins.com
 .williamhill
 .williamhill.com
@@ -28143,7 +27910,6 @@ xivanalysis.com
 .world-for-fun.com
 .world-rights.org
 .world2be.com
-.worldbank.org
 .worldbull.com
 .worldcat.org
 .worldcoinpay.com
@@ -28158,7 +27924,6 @@ xivanalysis.com
 .worldofwarcraft.com
 .worldpay.com
 .worldpress.com
-.worldscientific.com
 .worldsecureemail.com
 .worldsecuresystems.com
 .worldsex.com
@@ -28732,7 +28497,6 @@ xivanalysis.com
 .www.801667.com
 .www.8090chao.com
 .www.80sf.com
-.www.80txt.com
 .www.8138138.com
 .www.8168yx.com
 .www.82299.com
@@ -28878,7 +28642,6 @@ xivanalysis.com
 .www.aerilon.com
 .www.aeromatasia.com
 .www.aevpn.com
-.www.aex88.com
 .www.afa.gov.tw
 .www.afreewebdirectory.com
 .www.afrsmartinvestor.com.au
@@ -29004,7 +28767,6 @@ xivanalysis.com
 .www.astray.com
 .www.astrid.com
 .www.astro.org
-.www.aswetalk.net
 .www.atimes.com
 .www.atlanticcouncil.org
 .www.atlantico.com
@@ -29257,7 +29019,6 @@ xivanalysis.com
 .www.btbtt.co
 .www.btcchina.net
 .www.btkitty.net
-.www.btsmth.com
 .www.bud.hkpc.org
 .www.buda.idv.tw
 .www.budaedu.org.hk
@@ -29471,7 +29232,6 @@ xivanalysis.com
 .www.cna.asia
 .www.cnbetway.com
 .www.cncurrent.com
-.www.cnepub.com
 .www.cnfree.com
 .www.cnhelloavgirls.com
 .www.cnki.net.in
@@ -29684,7 +29444,6 @@ xivanalysis.com
 .www.dynamic-proxy.com
 .www.dynasys.org
 .www.dynit.it
-.www.dytt8.com
 .www.dyvip18.com
 .www.dyvip70.com
 .www.dzcp3555.com
@@ -29730,11 +29489,9 @@ xivanalysis.com
 .www.ecbuystore.net
 .www.echinanews.com.tw
 .www.eclipsewebmedia.com
-.www.ecocn.org
 .www.economic.taichung.gov.tw
 .www.economist.net
 .www.ecotibet.org
-.www.ed2000.com
 .www.eddid.com.hk
 .www.eddie.idv.tw
 .www.edf818.com
@@ -30326,13 +30083,11 @@ xivanalysis.com
 .www.humanrightsdefenders.org
 .www.hunjie.ca
 .www.huobi.br.com
-.www.huobi.io
 .www.huobi.pr
 .www.huola15.com
 .www.hurriyet.com
 .www.hustlertube.com
 .www.hustvpn.com
-.www.hutong-school.com
 .www.hw58888.com
 .www.hwadzan.com
 .www.hwadzan.net
@@ -30423,7 +30178,6 @@ xivanalysis.com
 .www.ipredator.com
 .www.iprivo.com
 .www.ipsxtv.site
-.www.iqucai.com
 .www.iri.org
 .www.ironchariots.org
 .www.ironman.com
@@ -30944,7 +30698,6 @@ xivanalysis.com
 .www.moyu4.com
 .www.moyuvpn.net
 .www.mp3quran.net
-.www.mp4ba.com
 .www.mr006.com
 .www.ms3388.com
 .www.ms569.com
@@ -30971,7 +30724,6 @@ xivanalysis.com
 .www.mxvpn.com
 .www.my-expat-network.com
 .www.my188.com
-.www.my285.com
 .www.myactimes.com.au
 .www.myaircover.com
 .www.myanmarinvestmentsummit.com
@@ -31014,7 +30766,6 @@ xivanalysis.com
 .www.ndc.gov.tw
 .www.ndrive.com
 .www.negociecoins.com.br
-.www.neihan8.com
 .www.nelnet.com
 .www.nema.org
 .www.netignition.com
@@ -31401,7 +31152,6 @@ xivanalysis.com
 .www.remotevpn.net
 .www.renrenyum.com
 .www.repaik.com
-.www.repian.com
 .www.reporter.bz
 .www.resilientsystems.com
 .www.restorerpvision.com
@@ -31532,7 +31282,6 @@ xivanalysis.com
 .www.sexypattycake.com
 .www.sf590.com
 .www.sg505.com
-.www.sgchinese.com
 .www.sgreenvpn.com
 .www.sgwin123.com
 .www.sgwritings.com
@@ -31920,7 +31669,6 @@ xivanalysis.com
 .www.tsa.gov.tw
 .www.tsdm.love
 .www.tsdm.me
-.www.tsdm.net
 .www.tsecy.com
 .www.tsemrinpoche.com
 .www.tsgh.ndmctsgh.edu.tw
@@ -32281,7 +32029,6 @@ xivanalysis.com
 .www.xinzhumin.com
 .www.xiongmao8.com
 .www.xitenow.com
-.www.xiu8.com
 .www.xiumima.com
 .www.xizibook.com
 .www.xj1992.com
@@ -32324,7 +32071,6 @@ xivanalysis.com
 .www.xxshe.xyz
 .www.xxxredsex.com
 .www.xyz1943.idv.tw
-.www.xzcblog.com
 .www.y-cymro.com
 .www.y66v.com
 .www.y68.com
@@ -32334,7 +32080,6 @@ xivanalysis.com
 .www.y685588.com
 .www.y6880.com
 .www.y68kk.com
-.www.yabo.com
 .www.yabo260.com
 .www.yacy.net
 .www.yah.idv.tw
@@ -32351,7 +32096,6 @@ xivanalysis.com
 .www.yes146.com
 .www.yes365.cc
 .www.yg27.com
-.www.ygdy8.net
 .www.yh6601.net
 .www.yh998.com
 .www.yicaivip7.com
@@ -32444,8 +32188,6 @@ xivanalysis.com
 .www.zhuang13.net
 .www.zhuatube.com
 .www.zihru.com.tw
-.www.zimuku.net
-.www.zimuzu.com
 .www.zinio.com.tw
 .www.zionladder.com
 .www.ziyuanhai.com
@@ -32661,7 +32403,6 @@ xivanalysis.com
 .xian618.com
 .xian918.com
 .xian926.com
-.xianba.net
 .xianchawang.net
 .xiang-ya.tw
 .xiangyangs1.xyz
@@ -32881,7 +32622,6 @@ xivanalysis.com
 .xp1024.com
 .xp301.com
 .xp303.com
-.xp9365.com
 .xpdo.net
 .xpeeps.com
 .xperia
@@ -33366,7 +33106,6 @@ xivanalysis.com
 .yipub.com
 .yivarlden.com
 .yiyechat.com
-.yiyuanjy.w185-e0.ezwebtest.com
 .yizhihongxing.com
 .yizhihongxingss.com
 .yj1122.com
@@ -33487,7 +33226,6 @@ xivanalysis.com
 .ysapp1.com
 .ysapp4.com
 .ysb88.com
-.yshyqxx.com
 .ysixdesign.com
 .ysku.in
 .ysmall.yitabangs.com
@@ -33769,7 +33507,6 @@ xivanalysis.com
 .zodgame.us
 .zodgame.xyz
 .zoe.com
-.zoho.com
 .zoho.com.au
 .zoho.eu
 .zoho.in
@@ -33817,7 +33554,6 @@ xivanalysis.com
 .zsh.org
 .zspeeder.me
 .zsrhao.com
-.zte.home
 .ztunnel.com
 .zuckerberg.com
 .zuckerberg.net

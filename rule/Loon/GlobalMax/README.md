@@ -9,9 +9,13 @@
 请通过我国(中华人民共和国)合法的互联网出入口信道访问规则中的地址，并确保在使用过程中符合相关法律法规。
 
 ## 规则说明
-包含所有的Proxy、Global等分组的规则，指已收集的境外网站/IP的合集。注意！会含有大量可以直接访问的网站/IP。
+包含所有的Proxy、Global等分组的规则，指已收集的在国外(和国内)有提供服务的网站/IP的合集。
 
-引用此规则后，不要再引用其他的同类型的规则，否则会造成大量重复。
+注意！可能会含有大量可以直接访问或国内的网站/IP。
+
+目前把所有的China类型规则进行了排除，但是并不能确保国内所有的网站和服务都已被移除。例如包含McDonalds的子规则，可能会将麦当劳中国的域名mcdonalds.com.cn包括进去。
+
+实验性规则，谨慎选择使用！！
 
 ## MITM
 境外网站/IP合集分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要使用MITM才能生效。
@@ -20,18 +24,18 @@
 
 ## 规则统计
 
-总计规则：35309 条。
+总计规则：34999 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN | 36 |
-| DOMAIN-SUFFIX | 33844 |
-| USER-AGENT | 88 |
-| DOMAIN-KEYWORD | 74 |
-| IP-CIDR | 1221 |
-| IP-CIDR6 | 38 |
+| DOMAIN | 11 |
+| DOMAIN-SUFFIX | 33605 |
+| USER-AGENT | 77 |
+| DOMAIN-KEYWORD | 71 |
+| IP-CIDR | 1196 |
+| IP-CIDR6 | 31 |
 | URL-REGEX | 8 |
 ## 配置说明
 
@@ -153,8 +157,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 - Dell
 
 - DigiCert
-
-- Direct
 
 - Discord
 
@@ -289,8 +291,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 - Kantv
 
 - LG
-
-- Lan
 
 - LastFM
 
@@ -548,6 +548,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 除非特殊需求，否则不建议重复引用。
 
+当前分流规则，已排除以下规则：
+
+- ChinaMax
+
 ## 数据来源
 
 本项目的境外网站/IP合集复写规则的数据来自以下链接，通常已涵盖所有数据来源的复写规则。
@@ -555,7 +559,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 如果你正在使用这些复写规则，建议不要与本项目的境外网站/IP合集复写规则混合使用，以免造成规则重复。
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
-- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
@@ -580,7 +583,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Whatsapp.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Wikipedia.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
-- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
 - https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Cloudflare.list
 - https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Global.list
 - https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/GlobalMedia.list
@@ -591,7 +593,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 - https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/PayPal.list
 - https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Telegram.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Unbreak.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Clubhouse.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Cryptocurrency.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Discord.list
@@ -652,9 +653,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/encoreTVB.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/myTV-SUPER.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/niconico.list
-- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/GMedia.list
-- https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/LAN.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Optional/Netflix.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Optional/PayPal.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Optional/Spotify.list
@@ -869,13 +868,10 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/momoshop.list
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
-- https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/lancidr.txt
-- https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/private.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/telegramcidr.txt
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/gfw.txt
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/greatfire.txt
-- https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/private.txt
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt
 - https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/telegramcidr.txt
 - https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Download.list
@@ -891,7 +887,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Proxy/Proxy.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Synology/Synology.list
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/Twitter/Twitter.list
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/WhiteList/WhiteList.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/AsianMedia.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Global.list
 - https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/GlobalMedia.list
@@ -922,7 +917,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/SNS/PotatoChat.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/SNS/Telegram.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/SNS/Twitter.list
-- https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Unbreak.list
 - https://raw.githubusercontent.com/tengyuankoo/qx/main/Clubhouse.list
 - https://raw.githubusercontent.com/tengyuankoo/qx/main/Clubhouse_IP.list
 

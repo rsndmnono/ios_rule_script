@@ -29,9 +29,9 @@
 | USER-AGENT | 65 |
 | DOMAIN-SUFFIX | 73932 |
 | DOMAIN | 79 |
-| IP-CIDR | 6157 |
+| IP-CIDR | 6152 |
 | DOMAIN-KEYWORD | 14 |
-| IP-CIDR6 | 5586 |
+| IP-CIDR6 | 5591 |
 | URL-REGEX | 1 |
 ## 配置说明
 

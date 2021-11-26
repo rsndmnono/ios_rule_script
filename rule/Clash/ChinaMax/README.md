@@ -24,9 +24,9 @@
 | DOMAIN-SUFFIX | 73932 |
 | PROCESS-NAME | 6 |
 | DOMAIN | 79 |
-| IP-CIDR | 6157 |
+| IP-CIDR | 6152 |
 | DOMAIN-KEYWORD | 14 |
-| IP-CIDR6 | 5586 |
+| IP-CIDR6 | 5591 |
 ## 配置说明
 
 实时版：程序定时更新，更新频率高，能尽快同步数据源变化，适合希望尝鲜的人。

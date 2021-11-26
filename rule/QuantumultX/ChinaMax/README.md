@@ -24,9 +24,9 @@
 | USER-AGENT | 65 |
 | HOST-SUFFIX | 73932 |
 | HOST | 79 |
-| IP-CIDR | 6157 |
+| IP-CIDR | 6152 |
 | HOST-KEYWORD | 14 |
-| IP6-CIDR | 5586 |
+| IP6-CIDR | 5591 |
 ## 配置说明
 
 实时版：程序定时更新，更新频率高，能尽快同步数据源变化，适合希望尝鲜的人。
