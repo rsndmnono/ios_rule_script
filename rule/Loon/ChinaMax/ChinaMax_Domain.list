@@ -1,16 +1,16 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-27 02:10:42
+# UPDATED: 2021-11-28 02:10:42
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # USER-AGENT: 65
 # DOMAIN-SUFFIX: 73932
 # DOMAIN: 79
-# IP-CIDR: 6152
+# IP-CIDR: 6156
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5591
 # URL-REGEX: 1
-# TOTAL: 85834
+# TOTAL: 85838
 265.com
 2mdn.net
 adservice.google.com

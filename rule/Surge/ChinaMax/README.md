@@ -20,7 +20,7 @@
 
 ## 规则统计
 
-总计规则：85840 条。
+总计规则：85844 条。
 
 各类型规则统计：
 
@@ -30,7 +30,7 @@
 | DOMAIN-SUFFIX | 73932 |
 | PROCESS-NAME | 6 |
 | DOMAIN | 79 |
-| IP-CIDR | 6152 |
+| IP-CIDR | 6156 |
 | DOMAIN-KEYWORD | 14 |
 | IP-CIDR6 | 5591 |
 | URL-REGEX | 1 |

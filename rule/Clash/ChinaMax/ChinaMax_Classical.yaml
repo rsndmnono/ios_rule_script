@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-27 02:10:43
+# UPDATED: 2021-11-28 02:10:44
 # DOMAIN-SUFFIX: 73932
 # PROCESS-NAME: 6
 # DOMAIN: 79
-# IP-CIDR: 6152
+# IP-CIDR: 6156
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5591
-# TOTAL: 85774
+# TOTAL: 85778
 payload:
   - DOMAIN,265.com
   - DOMAIN,2mdn.net
@@ -79518,6 +79518,8 @@ payload:
   - IP-CIDR,43.228.148.0/22,no-resolve
   - IP-CIDR,43.228.152.0/22,no-resolve
   - IP-CIDR,43.228.188.0/22,no-resolve
+  - IP-CIDR,43.228.204.0/22,no-resolve
+  - IP-CIDR,43.228.240.0/22,no-resolve
   - IP-CIDR,43.228.64.0/21,no-resolve
   - IP-CIDR,43.228.76.0/22,no-resolve
   - IP-CIDR,43.229.136.0/21,no-resolve
@@ -80147,9 +80149,11 @@ payload:
   - IP-CIDR,67.198.192.0/23,no-resolve
   - IP-CIDR,67.198.195.0/24,no-resolve
   - IP-CIDR,67.198.199.0/24,no-resolve
+  - IP-CIDR,67.198.201.0/24,no-resolve
   - IP-CIDR,67.198.207.0/24,no-resolve
   - IP-CIDR,67.198.208.0/24,no-resolve
   - IP-CIDR,67.198.221.0/24,no-resolve
+  - IP-CIDR,67.198.222.0/24,no-resolve
   - IP-CIDR,67.198.235.0/24,no-resolve
   - IP-CIDR,67.198.239.0/24,no-resolve
   - IP-CIDR,67.198.244.0/24,no-resolve
