@@ -1,10 +1,10 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 17:42:03
+# UPDATED: 2021-11-29 02:09:59
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 101
-# TOTAL: 104
+# DOMAIN-SUFFIX: 98
+# TOTAL: 101
 payload:
   - DOMAIN-SUFFIX,52pt.site
   - DOMAIN-SUFFIX,aidoru-online.me
@@ -35,9 +35,7 @@ payload:
   - DOMAIN-SUFFIX,discfan.net
   - DOMAIN-SUFFIX,dxdhd.com
   - DOMAIN-SUFFIX,eastgame.org
-  - DOMAIN-SUFFIX,empornium.is
   - DOMAIN-SUFFIX,empornium.me
-  - DOMAIN-SUFFIX,empornium.sx
   - DOMAIN-SUFFIX,et8.org
   - DOMAIN-SUFFIX,exoticaz.to
   - DOMAIN-SUFFIX,filelist.io
@@ -98,7 +96,6 @@ payload:
   - DOMAIN-SUFFIX,sdbits.org
   - DOMAIN-SUFFIX,sjtu.edu.cn
   - DOMAIN-SUFFIX,skyey2.com
-  - DOMAIN-SUFFIX,skyeysnow.com
   - DOMAIN-SUFFIX,soulvoice.club
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org

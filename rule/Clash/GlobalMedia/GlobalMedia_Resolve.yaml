@@ -1,13 +1,12 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 17:42:02
+# UPDATED: 2021-11-29 02:09:59
 # DOMAIN: 43
 # DOMAIN-SUFFIX: 204
 # DOMAIN-KEYWORD: 22
 # IP-CIDR: 863
-# PROCESS-NAME: 3
-# TOTAL: 1135
+# TOTAL: 1132
 payload:
   - DOMAIN,apm-misaka.biliapi.net
   - DOMAIN,apple.comscoreresearch.com
@@ -1141,6 +1140,3 @@ payload:
   - IP-CIDR,96.23.20.74/32
   - IP-CIDR,96.23.20.78/32
   - IP-CIDR,96.4.63.99/32
-  - PROCESS-NAME,com.google.android.apps.youtube.music
-  - PROCESS-NAME,com.google.android.youtube.tvmusicroot
-  - PROCESS-NAME,com.vanced.android.apps.youtube.music

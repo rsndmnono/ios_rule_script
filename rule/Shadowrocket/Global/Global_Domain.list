@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 17:42:06
+# UPDATED: 2021-11-29 02:10:00
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 32057
+# DOMAIN-SUFFIX: 32058
 # USER-AGENT: 48
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 129
 # URL-REGEX: 1
-# TOTAL: 32308
+# TOTAL: 32309
 amp.akamaized.net
 api-p.videomarket.jp
 blizzard.nefficient.co.kr
@@ -17854,6 +17854,7 @@ widgets.stripst.com
 .mystrikingly.com
 .mysupervisor.org
 .mytalkbox.com
+.myteamspeak.com
 .mytesa.org
 .mythicentertainment.com
 .mythicentertainment.net

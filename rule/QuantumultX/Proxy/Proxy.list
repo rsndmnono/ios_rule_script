@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 17:41:52
+# UPDATED: 2021-11-29 02:09:56
 # HOST: 32
-# HOST-SUFFIX: 32275
+# HOST-SUFFIX: 32276
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 32438
+# TOTAL: 32439
 HOST,amp.akamaized.net,Proxy
 HOST,api-p.videomarket.jp,Proxy
 HOST,blizzard.nefficient.co.kr,Proxy
@@ -17986,6 +17986,7 @@ HOST-SUFFIX,myssx.com,Proxy
 HOST-SUFFIX,mystrikingly.com,Proxy
 HOST-SUFFIX,mysupervisor.org,Proxy
 HOST-SUFFIX,mytalkbox.com,Proxy
+HOST-SUFFIX,myteamspeak.com,Proxy
 HOST-SUFFIX,mytesa.org,Proxy
 HOST-SUFFIX,mythicentertainment.com,Proxy
 HOST-SUFFIX,mythicentertainment.net,Proxy

@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 17:42:03
+# UPDATED: 2021-11-29 02:09:59
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 70
 # DOMAIN-KEYWORD: 27
@@ -2728,7 +2728,6 @@ yxhd.hori-gz.com
 .beacon.lycos.com
 .beacon.netflix.com
 .beacon.nuskin.com
-.beacon.qq.com
 .beacon.toyota.co.jp
 .beacon.www.theguardian.com
 .beacons.brandads.net
@@ -3722,6 +3721,7 @@ yxhd.hori-gz.com
 .counter.search.bg
 .counter.sina.com.cn
 .counter.theconversation.edu.au
+.counter.tovarro.com
 .counter.yesky.com
 .counter.zerohedge.com
 .countersys.cn
@@ -5414,6 +5414,7 @@ yxhd.hori-gz.com
 .geo.connexionsecure.com
 .geo.frtya.com
 .geo.frtyd.com
+.geo.gorillanation.com
 .geo.hltv.org
 .geo.homepage-web.com
 .geo.metronews.ca
@@ -6270,6 +6271,7 @@ yxhd.hori-gz.com
 .idianfang.com
 .idm-su.baidu.com
 .idoc58.com
+.idt.id-news.net
 .idx.m.hub.sandai.net
 .ie8eamus.com
 .ie8q.cn
@@ -9022,7 +9024,6 @@ yxhd.hori-gz.com
 .pcsoftwords.dftoutiao.com
 .pcvideoaliyun.titan.mgtv.com
 .pcvideoyd.titan.mgtv.com
-.pcweb-v1.log.mgtv.com
 .pcweb.v1.mgtv.com
 .pcxzo.pluto.sogou.com
 .pd-news.com
@@ -9867,7 +9868,6 @@ yxhd.hori-gz.com
 .rp.hpplay.cn
 .rpaulfrank.com
 .rplog.baidu.com
-.rps-p2.rockpapershotgun.com
 .rpt.anchorfree.net
 .rqd.qq.com
 .rqgsf.com
@@ -10696,7 +10696,6 @@ yxhd.hori-gz.com
 .stbt.coupons.com
 .stdl.qq.com
 .stdst.cn
-.steadfastsystem.com
 .steelhousemedia.com
 .steepto.com
 .stervapoimenialena.info
@@ -11031,6 +11030,7 @@ yxhd.hori-gz.com
 .test-www.douyin.com
 .test.ott.youku.com
 .test.surepush.cn
+.testcddc.atclouddev.net
 .testin.cn
 .testplus.cn
 .testself.vip
@@ -11158,6 +11158,7 @@ yxhd.hori-gz.com
 .tlp5.mimale.com
 .tm-offers.gamingadult.com
 .tmcs.net
+.tmgr.ccmbg.com
 .tmisc.home.news.cn
 .tmmjgcp.cn
 .tmrmixer.cn
@@ -11218,6 +11219,7 @@ yxhd.hori-gz.com
 .tracelog.www.alibaba.com
 .track.24heures.ch
 .track.58.com
+.track.adintend.com
 .track.bazonline.ch
 .track.bcvcmedia.com
 .track.berliner-kurier.de
@@ -11747,14 +11749,12 @@ yxhd.hori-gz.com
 .v02u9.cn
 .v066b5.cn
 .v1-feed.idreamsky.com
-.v1-play.log.mgtv.com
 .v1.0594529.com
 .v1.kwpewga.cn
 .v1.phb123.com
 .v1.taksh.cn
 .v2.fm.n.duokanbox.com
 .v2.hunantv.com
-.v2.log.mgtv.com
 .v3iy0h.cn
 .v44i.cn
 .v4dwkcv.com

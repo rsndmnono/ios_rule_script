@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 17:41:58
+# UPDATED: 2021-11-29 02:09:57
 # DOMAIN: 70
 # DOMAIN-KEYWORD: 27
 # DOMAIN-SUFFIX: 13218
@@ -2728,7 +2728,6 @@ payload:
   - DOMAIN-SUFFIX,beacon.lycos.com
   - DOMAIN-SUFFIX,beacon.netflix.com
   - DOMAIN-SUFFIX,beacon.nuskin.com
-  - DOMAIN-SUFFIX,beacon.qq.com
   - DOMAIN-SUFFIX,beacon.toyota.co.jp
   - DOMAIN-SUFFIX,beacon.www.theguardian.com
   - DOMAIN-SUFFIX,beacons.brandads.net
@@ -3722,6 +3721,7 @@ payload:
   - DOMAIN-SUFFIX,counter.search.bg
   - DOMAIN-SUFFIX,counter.sina.com.cn
   - DOMAIN-SUFFIX,counter.theconversation.edu.au
+  - DOMAIN-SUFFIX,counter.tovarro.com
   - DOMAIN-SUFFIX,counter.yesky.com
   - DOMAIN-SUFFIX,counter.zerohedge.com
   - DOMAIN-SUFFIX,countersys.cn
@@ -5414,6 +5414,7 @@ payload:
   - DOMAIN-SUFFIX,geo.connexionsecure.com
   - DOMAIN-SUFFIX,geo.frtya.com
   - DOMAIN-SUFFIX,geo.frtyd.com
+  - DOMAIN-SUFFIX,geo.gorillanation.com
   - DOMAIN-SUFFIX,geo.hltv.org
   - DOMAIN-SUFFIX,geo.homepage-web.com
   - DOMAIN-SUFFIX,geo.metronews.ca
@@ -6270,6 +6271,7 @@ payload:
   - DOMAIN-SUFFIX,idianfang.com
   - DOMAIN-SUFFIX,idm-su.baidu.com
   - DOMAIN-SUFFIX,idoc58.com
+  - DOMAIN-SUFFIX,idt.id-news.net
   - DOMAIN-SUFFIX,idx.m.hub.sandai.net
   - DOMAIN-SUFFIX,ie8eamus.com
   - DOMAIN-SUFFIX,ie8q.cn
@@ -9022,7 +9024,6 @@ payload:
   - DOMAIN-SUFFIX,pcsoftwords.dftoutiao.com
   - DOMAIN-SUFFIX,pcvideoaliyun.titan.mgtv.com
   - DOMAIN-SUFFIX,pcvideoyd.titan.mgtv.com
-  - DOMAIN-SUFFIX,pcweb-v1.log.mgtv.com
   - DOMAIN-SUFFIX,pcweb.v1.mgtv.com
   - DOMAIN-SUFFIX,pcxzo.pluto.sogou.com
   - DOMAIN-SUFFIX,pd-news.com
@@ -9867,7 +9868,6 @@ payload:
   - DOMAIN-SUFFIX,rp.hpplay.cn
   - DOMAIN-SUFFIX,rpaulfrank.com
   - DOMAIN-SUFFIX,rplog.baidu.com
-  - DOMAIN-SUFFIX,rps-p2.rockpapershotgun.com
   - DOMAIN-SUFFIX,rpt.anchorfree.net
   - DOMAIN-SUFFIX,rqd.qq.com
   - DOMAIN-SUFFIX,rqgsf.com
@@ -10696,7 +10696,6 @@ payload:
   - DOMAIN-SUFFIX,stbt.coupons.com
   - DOMAIN-SUFFIX,stdl.qq.com
   - DOMAIN-SUFFIX,stdst.cn
-  - DOMAIN-SUFFIX,steadfastsystem.com
   - DOMAIN-SUFFIX,steelhousemedia.com
   - DOMAIN-SUFFIX,steepto.com
   - DOMAIN-SUFFIX,stervapoimenialena.info
@@ -11031,6 +11030,7 @@ payload:
   - DOMAIN-SUFFIX,test-www.douyin.com
   - DOMAIN-SUFFIX,test.ott.youku.com
   - DOMAIN-SUFFIX,test.surepush.cn
+  - DOMAIN-SUFFIX,testcddc.atclouddev.net
   - DOMAIN-SUFFIX,testin.cn
   - DOMAIN-SUFFIX,testplus.cn
   - DOMAIN-SUFFIX,testself.vip
@@ -11158,6 +11158,7 @@ payload:
   - DOMAIN-SUFFIX,tlp5.mimale.com
   - DOMAIN-SUFFIX,tm-offers.gamingadult.com
   - DOMAIN-SUFFIX,tmcs.net
+  - DOMAIN-SUFFIX,tmgr.ccmbg.com
   - DOMAIN-SUFFIX,tmisc.home.news.cn
   - DOMAIN-SUFFIX,tmmjgcp.cn
   - DOMAIN-SUFFIX,tmrmixer.cn
@@ -11218,6 +11219,7 @@ payload:
   - DOMAIN-SUFFIX,tracelog.www.alibaba.com
   - DOMAIN-SUFFIX,track.24heures.ch
   - DOMAIN-SUFFIX,track.58.com
+  - DOMAIN-SUFFIX,track.adintend.com
   - DOMAIN-SUFFIX,track.bazonline.ch
   - DOMAIN-SUFFIX,track.bcvcmedia.com
   - DOMAIN-SUFFIX,track.berliner-kurier.de
@@ -11747,14 +11749,12 @@ payload:
   - DOMAIN-SUFFIX,v02u9.cn
   - DOMAIN-SUFFIX,v066b5.cn
   - DOMAIN-SUFFIX,v1-feed.idreamsky.com
-  - DOMAIN-SUFFIX,v1-play.log.mgtv.com
   - DOMAIN-SUFFIX,v1.0594529.com
   - DOMAIN-SUFFIX,v1.kwpewga.cn
   - DOMAIN-SUFFIX,v1.phb123.com
   - DOMAIN-SUFFIX,v1.taksh.cn
   - DOMAIN-SUFFIX,v2.fm.n.duokanbox.com
   - DOMAIN-SUFFIX,v2.hunantv.com
-  - DOMAIN-SUFFIX,v2.log.mgtv.com
   - DOMAIN-SUFFIX,v3iy0h.cn
   - DOMAIN-SUFFIX,v44i.cn
   - DOMAIN-SUFFIX,v4dwkcv.com

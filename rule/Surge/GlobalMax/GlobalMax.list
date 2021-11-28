@@ -1,7 +1,7 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-27 02:10:40
+# UPDATED: 2021-11-29 02:09:56
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 11
 # DOMAIN-SUFFIX: 33605
@@ -9,9 +9,9 @@
 # DOMAIN-KEYWORD: 71
 # IP-CIDR: 1196
 # IP-CIDR6: 31
-# PROCESS-NAME: 59
+# PROCESS-NAME: 56
 # URL-REGEX: 8
-# TOTAL: 35058
+# TOTAL: 35055
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-KEYWORD,.blogspot.
@@ -1408,8 +1408,6 @@ PROCESS-NAME,com.cw.fullepisodes.android
 PROCESS-NAME,com.cw.seed.android
 PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
 PROCESS-NAME,com.disney.disneyplus
-PROCESS-NAME,com.google.android.apps.youtube.music
-PROCESS-NAME,com.google.android.youtube.tvmusicroot
 PROCESS-NAME,com.hbo.hbonow
 PROCESS-NAME,com.hulu.plus
 PROCESS-NAME,com.italkbbtv.phone
@@ -1420,7 +1418,6 @@ PROCESS-NAME,com.spotify.music
 PROCESS-NAME,com.tencent.ibg.joox
 PROCESS-NAME,com.tencent.qqlivei18n
 PROCESS-NAME,com.tencent.qqlivei18n.us
-PROCESS-NAME,com.vanced.android.apps.youtube.music
 PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.viu.phone
 PROCESS-NAME,com.vuclip.viu

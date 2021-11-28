@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 17:41:52
+# UPDATED: 2021-11-29 02:09:56
 # HOST: 32
-# HOST-SUFFIX: 32057
+# HOST-SUFFIX: 32058
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 129
 # IP6-CIDR: 4
-# TOTAL: 32311
+# TOTAL: 32312
 HOST,amp.akamaized.net,Global
 HOST,api-p.videomarket.jp,Global
 HOST,blizzard.nefficient.co.kr,Global
@@ -17853,6 +17853,7 @@ HOST-SUFFIX,myssx.com,Global
 HOST-SUFFIX,mystrikingly.com,Global
 HOST-SUFFIX,mysupervisor.org,Global
 HOST-SUFFIX,mytalkbox.com,Global
+HOST-SUFFIX,myteamspeak.com,Global
 HOST-SUFFIX,mytesa.org,Global
 HOST-SUFFIX,mythicentertainment.com,Global
 HOST-SUFFIX,mythicentertainment.net,Global

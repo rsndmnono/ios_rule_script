@@ -1,7 +1,7 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 17:41:50
+# UPDATED: 2021-11-29 02:09:56
 # HOST: 70
 # HOST-KEYWORD: 27
 # HOST-SUFFIX: 13218
@@ -2727,7 +2727,6 @@ HOST-SUFFIX,beacon.livefyre.com,AdvertisingLite
 HOST-SUFFIX,beacon.lycos.com,AdvertisingLite
 HOST-SUFFIX,beacon.netflix.com,AdvertisingLite
 HOST-SUFFIX,beacon.nuskin.com,AdvertisingLite
-HOST-SUFFIX,beacon.qq.com,AdvertisingLite
 HOST-SUFFIX,beacon.toyota.co.jp,AdvertisingLite
 HOST-SUFFIX,beacon.www.theguardian.com,AdvertisingLite
 HOST-SUFFIX,beacons.brandads.net,AdvertisingLite
@@ -3721,6 +3720,7 @@ HOST-SUFFIX,counter.rian.ru,AdvertisingLite
 HOST-SUFFIX,counter.search.bg,AdvertisingLite
 HOST-SUFFIX,counter.sina.com.cn,AdvertisingLite
 HOST-SUFFIX,counter.theconversation.edu.au,AdvertisingLite
+HOST-SUFFIX,counter.tovarro.com,AdvertisingLite
 HOST-SUFFIX,counter.yesky.com,AdvertisingLite
 HOST-SUFFIX,counter.zerohedge.com,AdvertisingLite
 HOST-SUFFIX,countersys.cn,AdvertisingLite
@@ -5413,6 +5413,7 @@ HOST-SUFFIX,geo.cliphunter.com,AdvertisingLite
 HOST-SUFFIX,geo.connexionsecure.com,AdvertisingLite
 HOST-SUFFIX,geo.frtya.com,AdvertisingLite
 HOST-SUFFIX,geo.frtyd.com,AdvertisingLite
+HOST-SUFFIX,geo.gorillanation.com,AdvertisingLite
 HOST-SUFFIX,geo.hltv.org,AdvertisingLite
 HOST-SUFFIX,geo.homepage-web.com,AdvertisingLite
 HOST-SUFFIX,geo.metronews.ca,AdvertisingLite
@@ -6269,6 +6270,7 @@ HOST-SUFFIX,identified.cn,AdvertisingLite
 HOST-SUFFIX,idianfang.com,AdvertisingLite
 HOST-SUFFIX,idm-su.baidu.com,AdvertisingLite
 HOST-SUFFIX,idoc58.com,AdvertisingLite
+HOST-SUFFIX,idt.id-news.net,AdvertisingLite
 HOST-SUFFIX,idx.m.hub.sandai.net,AdvertisingLite
 HOST-SUFFIX,ie8eamus.com,AdvertisingLite
 HOST-SUFFIX,ie8q.cn,AdvertisingLite
@@ -9021,7 +9023,6 @@ HOST-SUFFIX,pcommaging.site,AdvertisingLite
 HOST-SUFFIX,pcsoftwords.dftoutiao.com,AdvertisingLite
 HOST-SUFFIX,pcvideoaliyun.titan.mgtv.com,AdvertisingLite
 HOST-SUFFIX,pcvideoyd.titan.mgtv.com,AdvertisingLite
-HOST-SUFFIX,pcweb-v1.log.mgtv.com,AdvertisingLite
 HOST-SUFFIX,pcweb.v1.mgtv.com,AdvertisingLite
 HOST-SUFFIX,pcxzo.pluto.sogou.com,AdvertisingLite
 HOST-SUFFIX,pd-news.com,AdvertisingLite
@@ -9866,7 +9867,6 @@ HOST-SUFFIX,rp.gwallet.com,AdvertisingLite
 HOST-SUFFIX,rp.hpplay.cn,AdvertisingLite
 HOST-SUFFIX,rpaulfrank.com,AdvertisingLite
 HOST-SUFFIX,rplog.baidu.com,AdvertisingLite
-HOST-SUFFIX,rps-p2.rockpapershotgun.com,AdvertisingLite
 HOST-SUFFIX,rpt.anchorfree.net,AdvertisingLite
 HOST-SUFFIX,rqd.qq.com,AdvertisingLite
 HOST-SUFFIX,rqgsf.com,AdvertisingLite
@@ -10695,7 +10695,6 @@ HOST-SUFFIX,stattrack.0catch.com,AdvertisingLite
 HOST-SUFFIX,stbt.coupons.com,AdvertisingLite
 HOST-SUFFIX,stdl.qq.com,AdvertisingLite
 HOST-SUFFIX,stdst.cn,AdvertisingLite
-HOST-SUFFIX,steadfastsystem.com,AdvertisingLite
 HOST-SUFFIX,steelhousemedia.com,AdvertisingLite
 HOST-SUFFIX,steepto.com,AdvertisingLite
 HOST-SUFFIX,stervapoimenialena.info,AdvertisingLite
@@ -11030,6 +11029,7 @@ HOST-SUFFIX,tesla.oscaro.com,AdvertisingLite
 HOST-SUFFIX,test-www.douyin.com,AdvertisingLite
 HOST-SUFFIX,test.ott.youku.com,AdvertisingLite
 HOST-SUFFIX,test.surepush.cn,AdvertisingLite
+HOST-SUFFIX,testcddc.atclouddev.net,AdvertisingLite
 HOST-SUFFIX,testin.cn,AdvertisingLite
 HOST-SUFFIX,testplus.cn,AdvertisingLite
 HOST-SUFFIX,testself.vip,AdvertisingLite
@@ -11157,6 +11157,7 @@ HOST-SUFFIX,tl875f.cn,AdvertisingLite
 HOST-SUFFIX,tlp5.mimale.com,AdvertisingLite
 HOST-SUFFIX,tm-offers.gamingadult.com,AdvertisingLite
 HOST-SUFFIX,tmcs.net,AdvertisingLite
+HOST-SUFFIX,tmgr.ccmbg.com,AdvertisingLite
 HOST-SUFFIX,tmisc.home.news.cn,AdvertisingLite
 HOST-SUFFIX,tmmjgcp.cn,AdvertisingLite
 HOST-SUFFIX,tmrmixer.cn,AdvertisingLite
@@ -11217,6 +11218,7 @@ HOST-SUFFIX,tr.werkenntwen.de,AdvertisingLite
 HOST-SUFFIX,tracelog.www.alibaba.com,AdvertisingLite
 HOST-SUFFIX,track.24heures.ch,AdvertisingLite
 HOST-SUFFIX,track.58.com,AdvertisingLite
+HOST-SUFFIX,track.adintend.com,AdvertisingLite
 HOST-SUFFIX,track.bazonline.ch,AdvertisingLite
 HOST-SUFFIX,track.bcvcmedia.com,AdvertisingLite
 HOST-SUFFIX,track.berliner-kurier.de,AdvertisingLite
@@ -11746,14 +11748,12 @@ HOST-SUFFIX,v00087.com,AdvertisingLite
 HOST-SUFFIX,v02u9.cn,AdvertisingLite
 HOST-SUFFIX,v066b5.cn,AdvertisingLite
 HOST-SUFFIX,v1-feed.idreamsky.com,AdvertisingLite
-HOST-SUFFIX,v1-play.log.mgtv.com,AdvertisingLite
 HOST-SUFFIX,v1.0594529.com,AdvertisingLite
 HOST-SUFFIX,v1.kwpewga.cn,AdvertisingLite
 HOST-SUFFIX,v1.phb123.com,AdvertisingLite
 HOST-SUFFIX,v1.taksh.cn,AdvertisingLite
 HOST-SUFFIX,v2.fm.n.duokanbox.com,AdvertisingLite
 HOST-SUFFIX,v2.hunantv.com,AdvertisingLite
-HOST-SUFFIX,v2.log.mgtv.com,AdvertisingLite
 HOST-SUFFIX,v3iy0h.cn,AdvertisingLite
 HOST-SUFFIX,v44i.cn,AdvertisingLite
 HOST-SUFFIX,v4dwkcv.com,AdvertisingLite

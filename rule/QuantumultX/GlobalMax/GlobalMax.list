@@ -1,7 +1,7 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-27 02:10:41
+# UPDATED: 2021-11-29 02:09:56
 # HOST: 11
 # HOST-SUFFIX: 33605
 # USER-AGENT: 77
@@ -18828,6 +18828,7 @@ HOST-SUFFIX,myssx.com,GlobalMax
 HOST-SUFFIX,mystrikingly.com,GlobalMax
 HOST-SUFFIX,mysupervisor.org,GlobalMax
 HOST-SUFFIX,mytalkbox.com,GlobalMax
+HOST-SUFFIX,myteamspeak.com,GlobalMax
 HOST-SUFFIX,mytesa.org,GlobalMax
 HOST-SUFFIX,mythicentertainment.com,GlobalMax
 HOST-SUFFIX,mythicentertainment.net,GlobalMax
@@ -23279,7 +23280,6 @@ HOST-SUFFIX,skyassets.com,GlobalMax
 HOST-SUFFIX,skyav.me,GlobalMax
 HOST-SUFFIX,skybet.com,GlobalMax
 HOST-SUFFIX,skyey2.com,GlobalMax
-HOST-SUFFIX,skyeysnow.com,GlobalMax
 HOST-SUFFIX,skygo.co.nz,GlobalMax
 HOST-SUFFIX,skyking.com.tw,GlobalMax
 HOST-SUFFIX,skyking.net-tv.tw,GlobalMax

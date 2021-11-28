@@ -24,7 +24,7 @@
 
 ## 规则统计
 
-总计规则：35058 条。
+总计规则：35055 条。
 
 各类型规则统计：
 
@@ -36,7 +36,7 @@
 | DOMAIN-KEYWORD | 71 |
 | IP-CIDR | 1196 |
 | IP-CIDR6 | 31 |
-| PROCESS-NAME | 59 |
+| PROCESS-NAME | 56 |
 | URL-REGEX | 8 |
 ## 配置说明
 

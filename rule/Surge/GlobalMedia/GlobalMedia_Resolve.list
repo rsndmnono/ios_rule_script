@@ -1,14 +1,13 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 17:41:49
+# UPDATED: 2021-11-29 02:09:55
 # DOMAIN: 43
 # USER-AGENT: 65
 # DOMAIN-SUFFIX: 204
 # DOMAIN-KEYWORD: 22
 # IP-CIDR: 863
-# PROCESS-NAME: 3
-# TOTAL: 1200
+# TOTAL: 1197
 DOMAIN,apm-misaka.biliapi.net
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,atv-ps.amazon.com
@@ -1206,6 +1205,3 @@ USER-AGENT,com.kktv.ios.kktv*
 USER-AGENT,discovery+*
 USER-AGENT,encoreTVB*
 USER-AGENT,mytv*
-PROCESS-NAME,com.google.android.apps.youtube.music
-PROCESS-NAME,com.google.android.youtube.tvmusicroot
-PROCESS-NAME,com.vanced.android.apps.youtube.music

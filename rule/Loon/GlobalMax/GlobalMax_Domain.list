@@ -1,7 +1,7 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-27 02:10:42
+# UPDATED: 2021-11-29 02:09:57
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 11
 # DOMAIN-SUFFIX: 33605
@@ -18830,6 +18830,7 @@ widgets.stripst.com
 .mystrikingly.com
 .mysupervisor.org
 .mytalkbox.com
+.myteamspeak.com
 .mytesa.org
 .mythicentertainment.com
 .mythicentertainment.net
@@ -23281,7 +23282,6 @@ widgets.stripst.com
 .skyav.me
 .skybet.com
 .skyey2.com
-.skyeysnow.com
 .skygo.co.nz
 .skyking.com.tw
 .skyking.net-tv.tw

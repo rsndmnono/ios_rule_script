@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-27 02:10:43
+# UPDATED: 2021-11-29 02:09:59
 # DOMAIN: 11
 # DOMAIN-SUFFIX: 33605
 # DOMAIN-KEYWORD: 71
 # IP-CIDR: 1196
 # IP-CIDR6: 31
-# PROCESS-NAME: 59
-# TOTAL: 34973
+# PROCESS-NAME: 56
+# TOTAL: 34970
 payload:
   - DOMAIN,blizzard.nefficient.co.kr
   - DOMAIN,cdn77.scoreuniverse.com
@@ -18829,6 +18829,7 @@ payload:
   - DOMAIN-SUFFIX,mystrikingly.com
   - DOMAIN-SUFFIX,mysupervisor.org
   - DOMAIN-SUFFIX,mytalkbox.com
+  - DOMAIN-SUFFIX,myteamspeak.com
   - DOMAIN-SUFFIX,mytesa.org
   - DOMAIN-SUFFIX,mythicentertainment.com
   - DOMAIN-SUFFIX,mythicentertainment.net
@@ -23280,7 +23281,6 @@ payload:
   - DOMAIN-SUFFIX,skyav.me
   - DOMAIN-SUFFIX,skybet.com
   - DOMAIN-SUFFIX,skyey2.com
-  - DOMAIN-SUFFIX,skyeysnow.com
   - DOMAIN-SUFFIX,skygo.co.nz
   - DOMAIN-SUFFIX,skyking.com.tw
   - DOMAIN-SUFFIX,skyking.net-tv.tw
@@ -34937,8 +34937,6 @@ payload:
   - PROCESS-NAME,com.cw.seed.android
   - PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
   - PROCESS-NAME,com.disney.disneyplus
-  - PROCESS-NAME,com.google.android.apps.youtube.music
-  - PROCESS-NAME,com.google.android.youtube.tvmusicroot
   - PROCESS-NAME,com.hbo.hbonow
   - PROCESS-NAME,com.hulu.plus
   - PROCESS-NAME,com.italkbbtv.phone
@@ -34949,7 +34947,6 @@ payload:
   - PROCESS-NAME,com.tencent.ibg.joox
   - PROCESS-NAME,com.tencent.qqlivei18n
   - PROCESS-NAME,com.tencent.qqlivei18n.us
-  - PROCESS-NAME,com.vanced.android.apps.youtube.music
   - PROCESS-NAME,com.viu.pad
   - PROCESS-NAME,com.viu.phone
   - PROCESS-NAME,com.vuclip.viu

@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 17:42:06
+# UPDATED: 2021-11-29 02:10:00
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 32275
+# DOMAIN-SUFFIX: 32276
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
-# TOTAL: 32435
+# TOTAL: 32436
 amp.akamaized.net
 api-p.videomarket.jp
 blizzard.nefficient.co.kr
@@ -17985,6 +17985,7 @@ widgets.stripst.com
 .mystrikingly.com
 .mysupervisor.org
 .mytalkbox.com
+.myteamspeak.com
 .mytesa.org
 .mythicentertainment.com
 .mythicentertainment.net

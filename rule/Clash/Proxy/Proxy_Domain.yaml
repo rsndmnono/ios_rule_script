@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 17:42:01
+# UPDATED: 2021-11-29 02:09:59
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 32275
+# DOMAIN-SUFFIX: 32276
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 32427
+# TOTAL: 32428
 payload:
   - 'amp.akamaized.net'
   - 'api-p.videomarket.jp'
@@ -17986,6 +17986,7 @@ payload:
   - '+.mystrikingly.com'
   - '+.mysupervisor.org'
   - '+.mytalkbox.com'
+  - '+.myteamspeak.com'
   - '+.mytesa.org'
   - '+.mythicentertainment.com'
   - '+.mythicentertainment.net'

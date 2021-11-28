@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-25 17:42:02
+# UPDATED: 2021-11-29 02:09:59
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 32057
+# DOMAIN-SUFFIX: 32058
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32264
+# TOTAL: 32265
 payload:
   - 'amp.akamaized.net'
   - 'api-p.videomarket.jp'
@@ -17854,6 +17854,7 @@ payload:
   - '+.mystrikingly.com'
   - '+.mysupervisor.org'
   - '+.mytalkbox.com'
+  - '+.myteamspeak.com'
   - '+.mytesa.org'
   - '+.mythicentertainment.com'
   - '+.mythicentertainment.net'
