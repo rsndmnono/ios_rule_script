@@ -1,16 +1,16 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-29 16:28:49
+# UPDATED: 2021-11-30 02:16:41
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 11
-# DOMAIN-SUFFIX: 33313
+# DOMAIN-SUFFIX: 33361
 # USER-AGENT: 77
 # DOMAIN-KEYWORD: 71
 # IP-CIDR: 1196
 # IP-CIDR6: 31
 # URL-REGEX: 8
-# TOTAL: 34707
+# TOTAL: 34755
 blizzard.nefficient.co.kr
 cdn77.scoreuniverse.com
 clubhouse.pubnubapi.com
@@ -213,6 +213,7 @@ widgets.stripst.com
 .0rz.tw
 .1-10.fr
 .1-apple.com.tw
+.1-cl0ud.com
 .1-dk.cg-dialup.net
 .1.bb5522.ws
 .1.buyu213.com
@@ -727,6 +728,9 @@ widgets.stripst.com
 .20jack.com
 .20manx.com
 .20minutes.fr
+.20thcenturystudios.com.au
+.20thcenturystudios.com.br
+.20thcenturystudios.jp
 .20xam.com
 .2100bitcoins.com
 .2115424.com
@@ -2746,6 +2750,7 @@ widgets.stripst.com
 .adcp002.com
 .addictedtocoffee.de
 .addison-wesley.ch
+.addthiscdn.com
 .adelaidebbs.com
 .adepoju.org
 .adevar.net
@@ -3718,6 +3723,7 @@ widgets.stripst.com
 .apple.com.pr
 .apple.com.pt
 .apple.com.py
+.apple.comscoreresearch.com
 .apple.ee
 .apple.hamburg
 .apple.hr
@@ -3888,6 +3894,7 @@ widgets.stripst.com
 .apress.com
 .apsense.com
 .aptoide.com
+.apture.com
 .apuestasdemurcia.es
 .apyle.com
 .aq
@@ -4969,6 +4976,7 @@ widgets.stripst.com
 .beatswirelesscuffie.com
 .beatthatquote.com
 .beauty.md
+.beautyandthebeastmusical.co.uk
 .bebinin.com
 .bebo.com
 .becketfund.org
@@ -5061,6 +5069,7 @@ widgets.stripst.com
 .bestbuyus.com
 .bestfastfood.freehostia.com
 .bestforchina.org
+.bestgore.com
 .besthentaitube.com
 .bestiphonestuff.com
 .bestmalevideos.com
@@ -7299,6 +7308,7 @@ widgets.stripst.com
 .chicagolandbmw.com
 .chicagoncmtv.com
 .chickenbarrel.org
+.chickenkiller.com
 .chickstagram.com
 .chiemtinhviet.com
 .chihair-straightener.com
@@ -8120,6 +8130,7 @@ widgets.stripst.com
 .crisp.chat
 .cristyli.com
 .crit-staging.com
+.crittercism.com
 .crmdynint-gcc.com
 .crmdynint.com
 .crocotube.com
@@ -8996,6 +9007,7 @@ widgets.stripst.com
 .dirgaip.com
 .dirpy.com
 .dirtymilfclub.com
+.dirtyrhino.com
 .discfan.net
 .disco-api.com
 .discoins.com
@@ -9035,12 +9047,16 @@ widgets.stripst.com
 .disney.ca
 .disney.ch
 .disney.co.il
+.disney.co.jp
+.disney.co.kr
 .disney.co.th
 .disney.co.uk
 .disney.co.za
 .disney.com
 .disney.com.au
 .disney.com.br
+.disney.com.hk
+.disney.com.tw
 .disney.cz
 .disney.de
 .disney.dk
@@ -9060,6 +9076,7 @@ widgets.stripst.com
 .disney.pl
 .disney.pt
 .disney.ro
+.disney.ru
 .disney.se
 .disney.sg
 .disneyadsales.com
@@ -9102,6 +9119,7 @@ widgets.stripst.com
 .disneystore.com
 .disneystreaming.com
 .disneysubscription.com
+.disneytickets.co.uk
 .disneyturkiye.com.tr
 .disneytvajobs.com
 .disneyworld-go.com
@@ -10155,6 +10173,7 @@ widgets.stripst.com
 .embr.in
 .embs.org
 .emcs.org
+.emediate.eu
 .emerck
 .emerson
 .emersonbrookforest.org
@@ -10548,6 +10567,7 @@ widgets.stripst.com
 .faacebook.com
 .faapy.com
 .faasbook.com
+.fabric.io
 .fabsk.eu
 .facbebook.com
 .facbeok.com
@@ -10879,6 +10899,7 @@ widgets.stripst.com
 .fbsbx.com
 .fbsbx.net
 .fbsupport-covid.net
+.fbthirdpartypixel.com
 .fbthirdpartypixel.net
 .fbthirdpartypixel.org
 .fburl.com
@@ -11969,6 +11990,7 @@ widgets.stripst.com
 .galegroup.com
 .galenwu.com
 .galfione.com.ar
+.galleries.pimproll.com
 .galletasparati.cl
 .gallo
 .gallup
@@ -12222,6 +12244,7 @@ widgets.stripst.com
 .gesgxsj.com
 .gesundteam.se
 .get-a-fuck-tonight.com
+.get-express-vpn.com
 .get-out.co
 .get-tune.net
 .get.app
@@ -14116,6 +14139,7 @@ widgets.stripst.com
 .icecast.org
 .icerocket.com
 .icevil.webege.com
+.icgirls.com
 .icij.org
 .icili.net
 .icisleri.gov.tr
@@ -14493,6 +14517,7 @@ widgets.stripst.com
 .infoseek.co.jp
 .infosys
 .infotmj.com
+.infotop.jp
 .infowars.com
 .infowarsmedia.com
 .infrapedia.com
@@ -14893,6 +14918,7 @@ widgets.stripst.com
 .ipjetable.net
 .ipjlvpn.com
 .ipleadership.org
+.iplogger.org
 .ipn.li
 .ipo-90.maaii.com
 .ipobar.com
@@ -14997,6 +15023,7 @@ widgets.stripst.com
 .isa-hockeynut.com
 .isaacmao.com
 .isalnikov.com
+.isanalyze.com
 .isasecret.com
 .isca-speech.org
 .ischool.com
@@ -16480,6 +16507,8 @@ widgets.stripst.com
 .lifestylegroup.hk
 .lifetimeshares.com
 .lifewire.com
+.liftoff.io
+.lightboxcdn.com
 .lightbridge.com
 .lighten.org.tw
 .lighti.me
@@ -16650,6 +16679,7 @@ widgets.stripst.com
 .lobsangwangyal.com
 .lobsterbay.hk
 .lobstertube.com
+.localbitcoins.com
 .localbitcoins.net
 .localbitcoinschain.com
 .localdomain.ws
@@ -16899,6 +16929,7 @@ widgets.stripst.com
 .m.1eighty8.com
 .m.1eighty8bet.com
 .m.4tube.com
+.m.520xiaojin.com
 .m.577012.com
 .m.6hch001.com
 .m.797vip.com
@@ -17470,6 +17501,7 @@ widgets.stripst.com
 .meetfasttrack.com
 .meeting.yunghsuan.me
 .meetme.com
+.meetsexygirls.org
 .meetsmartbook.com
 .meetup.com
 .meetyourdevices.com
@@ -18306,6 +18338,7 @@ widgets.stripst.com
 .mratme.com
 .mratyou.com
 .mray.club
+.mrbasic.com
 .mrbonus.com
 .mrc01.com
 .mrc02.com
@@ -19904,6 +19937,7 @@ widgets.stripst.com
 .onmoon.net
 .onmypc.biz
 .onmypc.info
+.onmypc.net
 .onmypc.org
 .onmypc.us
 .onsalekey.com
@@ -21306,6 +21340,7 @@ widgets.stripst.com
 .pwned.com
 .pwnedpasswords.com
 .pwnwiki.org
+.pwnz.org
 .px.mystakidis.gr
 .pximg.net
 .pxt.io
@@ -21480,6 +21515,7 @@ widgets.stripst.com
 .qualcommventures.com
 .quality-electronics.com
 .qualphone.com
+.qualtrics.com
 .quanben-xiaoshuo.com
 .quannengshen.org
 .quantumbooter.net
@@ -21663,6 +21699,7 @@ widgets.stripst.com
 .rationalwiki.org
 .ratujtybet.org
 .rauchmeldershop.ch
+.ravm.tv
 .raw.githack.com
 .rawcdn.githack.com
 .rawdirect.com
@@ -22555,6 +22592,7 @@ widgets.stripst.com
 .sebe.fairuse.org
 .seccionamarilla.com.mx
 .secomtrust.net
+.secretchina.com
 .secretgarden.no
 .secretofluck.com
 .secretproxy.org
@@ -25235,6 +25273,7 @@ widgets.stripst.com
 .trontv.com
 .trouw.nl
 .trove.trionworlds.com
+.trovi.com
 .trovigo.com
 .trt.net.tr
 .trtc.com.tw
@@ -27034,6 +27073,7 @@ widgets.stripst.com
 .w88124.com
 .w888055.com
 .w888066.com
+.w88club.com
 .w88info.com
 .w88w989.com
 .w9155.com
@@ -27120,6 +27160,7 @@ widgets.stripst.com
 .watchdisneyfe.com
 .watchespn.com
 .watchinese.com
+.watchmygf.com
 .watchmygf.net
 .watchout.tw
 .watchtowerdocuments.com
@@ -27472,6 +27513,7 @@ widgets.stripst.com
 .williamhiggins.com
 .williamhill
 .williamhill.com
+.williamhill.es
 .williamhill.it
 .williamhill138.com
 .williamlong.jaiku.com
@@ -28988,6 +29030,7 @@ widgets.stripst.com
 .www.comdotgame.com
 .www.complex.com
 .www.conceptdoppler.org
+.www.conduit.com
 .www.coned.com
 .www.congressrental.asia
 .www.congressrental.com.au
@@ -30430,6 +30473,7 @@ widgets.stripst.com
 .www.moyuvpn.net
 .www.mp3quran.net
 .www.mr006.com
+.www.ms3388.com
 .www.ms569.com
 .www.mskolshuk.com
 .www.mtac.gov.tw
@@ -30804,6 +30848,7 @@ widgets.stripst.com
 .www.pucocn.com
 .www.puff-store.com
 .www.pugetsound.edu
+.www.purechat.com
 .www.pureland-buddhism.org
 .www.purevpn.net
 .www.purifymind.com
@@ -30913,6 +30958,7 @@ widgets.stripst.com
 .www.rsf.fr
 .www.ruanf.com
 .www.rubio.senate.gov
+.www.rubyfortune.com
 .www.rue89.com
 .www.runnerinn.com
 .www.runos.us
@@ -31846,6 +31892,7 @@ widgets.stripst.com
 .www.yopmail.com
 .www.york.ac.uk
 .www.youbiyao.xyz
+.www.youfck.com
 .www.youngleak.com
 .www.youngmm.com
 .www.your-freedom.de
@@ -32230,6 +32277,7 @@ widgets.stripst.com
 .xm.com
 .xmaduras.com
 .xmasxtv.com
+.xmatch.com
 .xmbs1.xyz
 .xmbs2.xyz
 .xmbs3.xyz
