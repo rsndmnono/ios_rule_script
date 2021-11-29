@@ -15,13 +15,13 @@
 | 类型 | 数量(条) |
 | ---- | ---- |
 | mitm | 552 |
-| force_http_engine_hosts | 36 |
-| DOMAIN | 10 |
-| DOMAIN-SUFFIX | 4 |
+| force_http_engine_hosts | 12 |
+| DOMAIN | 6 |
 | URL-REGEX | 7 |
 | IP-CIDR | 1 |
 | IP-CIDR6 | 1 |
 | USER-AGENT | 1 |
+| DOMAIN-SUFFIX | 2 |
 | reject | 748 |
 | http-response | 33 |
 | http-request | 3 |

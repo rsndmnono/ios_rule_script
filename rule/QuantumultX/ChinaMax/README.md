@@ -11,20 +11,24 @@
 ## 规则说明
 包含所有China、ChinaIPs、Mainland等类型的规则，定义为已收集的国内网站/IP合集。
 
+排除Advertising规则，便于和去广告规则搭配使用。
+
 引用此规则后，不要再引用其他的国内规则，否则可能造成大量规则重复。
+
+实验性规则，效果待观察，请谨慎评估后使用。
 
 ## 规则统计
 
-总计规则：85871 条。
+总计规则：84558 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | USER-AGENT | 65 |
-| HOST-SUFFIX | 73966 |
-| HOST | 79 |
-| IP-CIDR | 6156 |
+| HOST-SUFFIX | 72679 |
+| HOST | 54 |
+| IP-CIDR | 6155 |
 | HOST-KEYWORD | 14 |
 | IP6-CIDR | 5591 |
 ## 配置说明
@@ -461,6 +465,16 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 - ifanr
 
 除非特殊需求，否则不建议重复引用。
+
+当前分流规则，已排除以下规则：
+
+- Advertising
+
+- AdvertisingLite
+
+- AdvertisingMiTV
+
+- AdvertisingTest
 
 ## 数据来源
 

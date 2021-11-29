@@ -15,18 +15,20 @@
 
 目前把所有的China类型规则进行了排除，但是并不能确保国内所有的网站和服务都已被移除。例如包含McDonalds的子规则，可能会将麦当劳中国的域名mcdonalds.com.cn包括进去。
 
-实验性规则，谨慎选择使用！！
+排除Advertising规则，便于和去广告规则搭配使用。
+
+实验性规则，效果待观察，请谨慎评估后使用。
 
 ## 规则统计
 
-总计规则：34991 条。
+总计规则：34699 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | HOST | 11 |
-| HOST-SUFFIX | 33605 |
+| HOST-SUFFIX | 33313 |
 | USER-AGENT | 77 |
 | HOST-KEYWORD | 71 |
 | IP-CIDR | 1196 |
@@ -539,6 +541,14 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 除非特殊需求，否则不建议重复引用。
 
 当前分流规则，已排除以下规则：
+
+- Advertising
+
+- AdvertisingLite
+
+- AdvertisingMiTV
+
+- AdvertisingTest
 
 - ChinaMax
 

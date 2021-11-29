@@ -15,18 +15,20 @@
 
 目前把所有的China类型规则进行了排除，但是并不能确保国内所有的网站和服务都已被移除。例如包含McDonalds的子规则，可能会将麦当劳中国的域名mcdonalds.com.cn包括进去。
 
-实验性规则，谨慎选择使用！！
+排除Advertising规则，便于和去广告规则搭配使用。
+
+实验性规则，效果待观察，请谨慎评估后使用。
 
 ## 规则统计
 
-总计规则：34970 条。
+总计规则：34678 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | DOMAIN | 11 |
-| DOMAIN-SUFFIX | 33605 |
+| DOMAIN-SUFFIX | 33313 |
 | DOMAIN-KEYWORD | 71 |
 | IP-CIDR | 1196 |
 | IP-CIDR6 | 31 |
@@ -563,6 +565,14 @@ GlobalMax_Classical.yaml 可以单独使用，其他规则必须同时使用。
 除非特殊需求，否则不建议重复引用。
 
 当前分流规则，已排除以下规则：
+
+- Advertising
+
+- AdvertisingLite
+
+- AdvertisingMiTV
+
+- AdvertisingTest
 
 - ChinaMax
 

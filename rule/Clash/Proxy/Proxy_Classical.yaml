@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-29 02:09:59
+# UPDATED: 2021-11-29 16:28:50
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 32276
+# DOMAIN-SUFFIX: 32288
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 32428
+# TOTAL: 32440
 payload:
   - DOMAIN,amp.akamaized.net
   - DOMAIN,api-p.videomarket.jp
@@ -2537,6 +2537,8 @@ payload:
   - DOMAIN-SUFFIX,9afd1.com
   - DOMAIN-SUFFIX,9agz1.com
   - DOMAIN-SUFFIX,9aje1.com
+  - DOMAIN-SUFFIX,9anime.id
+  - DOMAIN-SUFFIX,9anime.ws
   - DOMAIN-SUFFIX,9bac1.com
   - DOMAIN-SUFFIX,9bam1.com
   - DOMAIN-SUFFIX,9bas1.com
@@ -3494,6 +3496,7 @@ payload:
   - DOMAIN-SUFFIX,anidom.com
   - DOMAIN-SUFFIX,anime-sharing.com
   - DOMAIN-SUFFIX,animecrazy.net
+  - DOMAIN-SUFFIX,animedao-tv.com
   - DOMAIN-SUFFIX,animedreaming.tv
   - DOMAIN-SUFFIX,animeshippuuden.com
   - DOMAIN-SUFFIX,animezilla.com
@@ -5875,6 +5878,7 @@ payload:
   - DOMAIN-SUFFIX,boomssr.com
   - DOMAIN-SUFFIX,boomtrain.com
   - DOMAIN-SUFFIX,boostmobile.com
+  - DOMAIN-SUFFIX,booth.pm
   - DOMAIN-SUFFIX,boots
   - DOMAIN-SUFFIX,bootstrapcdn.com
   - DOMAIN-SUFFIX,borderexperience.weebly.com
@@ -8733,6 +8737,7 @@ payload:
   - DOMAIN-SUFFIX,disney-asia.com
   - DOMAIN-SUFFIX,disney-discount.com
   - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,disney-portal.my.onetrust.com
   - DOMAIN-SUFFIX,disney-studio.com
   - DOMAIN-SUFFIX,disney-studio.net
   - DOMAIN-SUFFIX,disney.asia
@@ -8742,6 +8747,7 @@ payload:
   - DOMAIN-SUFFIX,disney.id
   - DOMAIN-SUFFIX,disney.io
   - DOMAIN-SUFFIX,disney.it
+  - DOMAIN-SUFFIX,disney.my.sentry.io
   - DOMAIN-SUFFIX,disney.pt
   - DOMAIN-SUFFIX,disneyadsales.com
   - DOMAIN-SUFFIX,disneyarena.com
@@ -8768,6 +8774,7 @@ payload:
   - DOMAIN-SUFFIX,disneynewseries.com
   - DOMAIN-SUFFIX,disneynow.com
   - DOMAIN-SUFFIX,disneypeoplesurveys.com
+  - DOMAIN-SUFFIX,disneyplus.bn5x.net
   - DOMAIN-SUFFIX,disneyplus.com
   - DOMAIN-SUFFIX,disneyredirects.com
   - DOMAIN-SUFFIX,disneysrivieraresort.com
@@ -10370,6 +10377,7 @@ payload:
   - DOMAIN-SUFFIX,fan-qiang.com
   - DOMAIN-SUFFIX,fanarchive.campfirenow.com
   - DOMAIN-SUFFIX,fanatical.com
+  - DOMAIN-SUFFIX,fanbox.cc
   - DOMAIN-SUFFIX,fancy7.com
   - DOMAIN-SUFFIX,fandango.com
   - DOMAIN-SUFFIX,fandom.com
@@ -11447,6 +11455,7 @@ payload:
   - DOMAIN-SUFFIX,fundaiphone5s.com
   - DOMAIN-SUFFIX,fundfire.com
   - DOMAIN-SUFFIX,funf.tw
+  - DOMAIN-SUFFIX,funimation.com
   - DOMAIN-SUFFIX,funkyimg.com
   - DOMAIN-SUFFIX,funny-games.biz
   - DOMAIN-SUFFIX,funnyordie.com
@@ -12866,6 +12875,7 @@ payload:
   - DOMAIN-SUFFIX,hidess.com
   - DOMAIN-SUFFIX,hidester.com
   - DOMAIN-SUFFIX,hidethisip.net
+  - DOMAIN-SUFFIX,hidive.com
   - DOMAIN-SUFFIX,higfw.com
   - DOMAIN-SUFFIX,higginbotham.name
   - DOMAIN-SUFFIX,highbolt.net
@@ -14737,6 +14747,7 @@ payload:
   - DOMAIN-SUFFIX,jesus-army.com
   - DOMAIN-SUFFIX,jetbrains.com
   - DOMAIN-SUFFIX,jetbrains.net
+  - DOMAIN-SUFFIX,jetbrains.space
   - DOMAIN-SUFFIX,jetbrains.team
   - DOMAIN-SUFFIX,jetfuelapp.com
   - DOMAIN-SUFFIX,jetfuelapps.com
@@ -25914,6 +25925,7 @@ payload:
   - DOMAIN-SUFFIX,vrmtr.com
   - DOMAIN-SUFFIX,vrsmash.com
   - DOMAIN-SUFFIX,vrt.be
+  - DOMAIN-SUFFIX,vrv.co
   - DOMAIN-SUFFIX,vs.com
   - DOMAIN-SUFFIX,vs8866.com
   - DOMAIN-SUFFIX,vs8989.com

@@ -1,40 +1,34 @@
 #!name=AllInOne
-#!desc=最后更新时间 2021-11-25 17:44:09
+#!desc=最后更新时间 2021-11-29 16:29:09
 #!author=blackmatrix7
 #!repo=https://github.com/blackmatrix7/ios_rule_script
 #!rewrite=797
 #!script=36
-#!force_http_engine_hosts=36
+#!force_http_engine_hosts=12
 #!mitm=552
 
 [General]
-force-http-engine-hosts = %APPEND% *.cp31.ott.cibntv.net,*.cp31.ott.cibntv.net,*.cp31.ott.cibntv.net,*.ott.cibntv.net,*.ott.cibntv.net,*.ott.cibntv.net,119.79*,119.79*,119.79*,124.14*,124.14*,124.14*,124.193*,124.193*,124.193*,211.162*,211.162*,211.162*,220.112*,220.112*,220.112*,intl.iqiyi.com,intl.iqiyi.com,intl.iqiyi.com,maicai.api.ddxq.mobi,maicai.api.ddxq.mobi,maicai.api.ddxq.mobi,mobileapi-v6.elong.com,mobileapi-v6.elong.com,mobileapi-v6.elong.com,weibointl.api.weibo.cn,weibointl.api.weibo.cn,weibointl.api.weibo.cn,wmapi.meituan.com,wmapi.meituan.com,wmapi.meituan.com
+force-http-engine-hosts = %APPEND% *.cp31.ott.cibntv.net,*.ott.cibntv.net,119.79*,124.14*,124.193*,211.162*,220.112*,intl.iqiyi.com,maicai.api.ddxq.mobi,mobileapi-v6.elong.com,weibointl.api.weibo.cn,wmapi.meituan.com
 
 [Rule]
-DOMAIN,118.89.204.198,None
-DOMAIN,api.cupid.dns.iqiyi.com,None
-DOMAIN,api.cupid.dns.iqiyi.com,None
-DOMAIN,api.cupid.dns.iqiyi.com,None
-DOMAIN,appcloud2.in.zhihu.com,None
-DOMAIN,mqtt.zhihu.com,None
-DOMAIN,sugar.zhihu.com,None
-DOMAIN,video-ad.sm.cn,None
-DOMAIN,video-ad.sm.cn,None
-DOMAIN,video-ad.sm.cn,None
-DOMAIN-SUFFIX,cm.bilibili.com,None
-DOMAIN-SUFFIX,cupid.iqiyi.com,None
-DOMAIN-SUFFIX,cupid.iqiyi.com,None
-DOMAIN-SUFFIX,cupid.iqiyi.com,None
-IP-CIDR,118.89.204.198/32,None,no-resolve
-IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,None,no-resolve
-URL-REGEX,^https?:\/\/api\.bilibili\.com\/pgc\/season\/app\/related\/recommend\?,None
-URL-REGEX,^https?:\/\/api\.bilibili\.com\/x\/v2\/dm\/ad,None
-URL-REGEX,^https?:\/\/api\.zhihu\.com\/brand\/question\/\d+/card\?,None
-URL-REGEX,^https?:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash,None
-URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v4\/answers\/\d+\/recommendations,None
-URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v\d+\/brand\/question/\d+/card\?,None
-URL-REGEX,^https?:\/\/www\.zhihu\.com\/appview\/(p|v2\/answer|zvideo)\/.*entry=(preload-topstory|preload-search|preload-subscription),None
-USER-AGENT,AVOS*,None
+DOMAIN,118.89.204.198,REJECT
+DOMAIN,api.cupid.dns.iqiyi.com,REJECT
+DOMAIN,appcloud2.in.zhihu.com,REJECT
+DOMAIN,mqtt.zhihu.com,REJECT
+DOMAIN,sugar.zhihu.com,REJECT
+DOMAIN,video-ad.sm.cn,REJECT
+DOMAIN-SUFFIX,cm.bilibili.com,REJECT
+DOMAIN-SUFFIX,cupid.iqiyi.com,REJECT
+IP-CIDR,118.89.204.198/32,REJECT,no-resolve
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,REJECT,no-resolve
+URL-REGEX,^https?:\/\/api\.bilibili\.com\/pgc\/season\/app\/related\/recommend\?,REJECT
+URL-REGEX,^https?:\/\/api\.bilibili\.com\/x\/v2\/dm\/ad,REJECT
+URL-REGEX,^https?:\/\/api\.zhihu\.com\/brand\/question\/\d+/card\?,REJECT
+URL-REGEX,^https?:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash,REJECT
+URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v4\/answers\/\d+\/recommendations,REJECT
+URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v\d+\/brand\/question/\d+/card\?,REJECT
+URL-REGEX,^https?:\/\/www\.zhihu\.com\/appview\/(p|v2\/answer|zvideo)\/.*entry=(preload-topstory|preload-search|preload-subscription),REJECT
+USER-AGENT,AVOS*,REJECT
 
 [URL Rewrite]
 ^https?:\/\/(?>heic|gw)\.alicdn\.com\/tfs\/TB1.+?-\d{4}-\d{4}\.jpg_1200x1200q90\.jpg_\.\w{3,4}+$ - reject

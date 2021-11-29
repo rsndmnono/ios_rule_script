@@ -1,17 +1,17 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-29 02:09:56
+# UPDATED: 2021-11-29 16:28:47
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 11
-# DOMAIN-SUFFIX: 33605
+# DOMAIN-SUFFIX: 33313
 # USER-AGENT: 77
 # DOMAIN-KEYWORD: 71
 # IP-CIDR: 1196
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
 # URL-REGEX: 8
-# TOTAL: 35055
+# TOTAL: 34763
 blizzard.nefficient.co.kr
 cdn77.scoreuniverse.com
 clubhouse.pubnubapi.com
@@ -209,13 +209,11 @@ widgets.stripst.com
 .095968.com
 .0989488.com
 .098ld.com
-.0emm.com
 .0js333.com
 .0plkijj.vip
 .0rz.tw
 .1-10.fr
 .1-apple.com.tw
-.1-cl0ud.com
 .1-dk.cg-dialup.net
 .1.bb5522.ws
 .1.buyu213.com
@@ -927,10 +925,8 @@ widgets.stripst.com
 .2lib.org
 .2lipstube.com
 .2ljz.14.iamallama.com
-.2mdn.net
 .2nine.net
 .2ninesm.net
-.2o7.net
 .2ortv.com
 .2proxy.de
 .2proxy.pw
@@ -1562,7 +1558,6 @@ widgets.stripst.com
 .5kli.r5.cr.rs
 .5ll.am
 .5lml.com
-.5lu8.com
 .5lzb.com
 .5maodang.com
 .5mm.am
@@ -2199,7 +2194,6 @@ widgets.stripst.com
 .888dde.com
 .888diao.com
 .888funcity.net
-.888poker.com
 .888rch.com
 .888xjs.net
 .888ylg.com
@@ -2268,7 +2262,6 @@ widgets.stripst.com
 .908taiwan.org
 .90983.com
 .90kxw.com
-.91.51rmc.com
 .91.9p91.com
 .9101010.com
 .911776.com
@@ -2524,6 +2517,8 @@ widgets.stripst.com
 .9afd1.com
 .9agz1.com
 .9aje1.com
+.9anime.id
+.9anime.ws
 .9bac1.com
 .9bam1.com
 .9bas1.com
@@ -2664,7 +2659,6 @@ widgets.stripst.com
 .abem.org
 .able
 .ablwang.com
-.aboluowang.com
 .about.co.kr
 .about.me
 .aboutgfw.com
@@ -2716,7 +2710,6 @@ widgets.stripst.com
 .acgnx.se
 .acgpy.com
 .acgpy.net
-.achievementanalytics.com
 .aclweb.org
 .acmedia365.com
 .acmetoy.com
@@ -2748,17 +2741,12 @@ widgets.stripst.com
 .adam-modellbau.pl
 .adanwebnet.site44.com
 .adaptivecards.io
-.adbecrsl.com
 .adblockplus.org
 .adcex.com
 .adcommerce.tv
 .adcp002.com
 .addictedtocoffee.de
 .addison-wesley.ch
-.addthis.com
-.addthiscdn.com
-.addthisedge.com
-.addtoany.com
 .adelaidebbs.com
 .adepoju.org
 .adevar.net
@@ -2787,27 +2775,22 @@ widgets.stripst.com
 .adidas.se
 .adipascu.ro
 .adityabhushan.com
-.admeld.com
 .admin-newyork1.bloxcms.com
 .admin.bodog18.com
 .admissionsessayhelp.com
-.admob.com
 .adonispauli.com
 .adoos.com
 .ador.sg
 .adpl.org.hk
 .adriannapapell.com
 .adrianos.org
-.ads-a.juicyads.com
 .adsa2.9acz1.com
 .adsense.com
-.adshoppeevents.com
 .adss.asia
 .adult-cartoon-sex.com
 .adult-empire.com
 .adult-sex-games.com
 .adult.com
-.adultfriendfinder.com
 .adultism.com
 .adultkeep.net
 .advancediddetection.com
@@ -2815,9 +2798,6 @@ widgets.stripst.com
 .advanscene.com
 .adventist.org
 .adventuresbydisney.com
-.advertfan.com
-.advertisercommunity.com
-.advertising.com
 .adx.promo
 .ae
 .ae.org
@@ -3387,10 +3367,8 @@ widgets.stripst.com
 .ampj662.com
 .ampj665.com
 .ampj90.com
-.amplify.outbrain.com
 .amplifyapp.com
 .amplifyframework.com
-.amplitude.com
 .amplusmarketing.com
 .ampproject.com
 .ampproject.net
@@ -3490,6 +3468,7 @@ widgets.stripst.com
 .anidom.com
 .anime-sharing.com
 .animecrazy.net
+.animedao-tv.com
 .animedreaming.tv
 .animeshippuuden.com
 .animezilla.com
@@ -3527,7 +3506,6 @@ widgets.stripst.com
 .anotherstep.pt
 .anpopo.com
 .anqingshi.xyz
-.anrdoezrs.net
 .ansons
 .answering-islam.org
 .ant.comm.ccu.edu.tw
@@ -3609,13 +3587,11 @@ widgets.stripst.com
 .api.feedbin.com
 .api.jomego.com
 .api.lm1188.com
-.api.mixpanel.com
 .api.news
 .api.ott.pm
 .api.phantom.avira-vpn.com
 .api.pncle8.com
 .api.rongzhouxing.com
-.api.segment.io
 .api.sugram.chat
 .api.threema.ch
 .api.trajectore.com
@@ -3669,7 +3645,6 @@ widgets.stripst.com
 .apole.com
 .app-cdn.minepi.com
 .app-dynamics.com
-.app-measurement.com
 .app-measurement.net
 .app-sdylqipai3917.com
 .app-store.wang
@@ -3694,7 +3669,6 @@ widgets.stripst.com
 .appadvice.com
 .appali.hnlsht.com
 .appboxes.co
-.appbrain.com
 .appbridge.io
 .appbridge.it
 .appcenter.ms
@@ -3745,7 +3719,6 @@ widgets.stripst.com
 .apple.com.pr
 .apple.com.pt
 .apple.com.py
-.apple.comscoreresearch.com
 .apple.ee
 .apple.hamburg
 .apple.hr
@@ -3916,7 +3889,6 @@ widgets.stripst.com
 .apress.com
 .apsense.com
 .aptoide.com
-.apture.com
 .apuestasdemurcia.es
 .apyle.com
 .aq
@@ -4013,7 +3985,6 @@ widgets.stripst.com
 .asia.dnscepat.id
 .asiabet168.com
 .asiafrc.com
-.asiafriendfinder.com
 .asiaharvest.org
 .asiamoviepass.com
 .asian-boy-models.com
@@ -4069,7 +4040,6 @@ widgets.stripst.com
 .atandt.com
 .atc.org.au
 .atchinese.com
-.atdmt.com
 .atdmt2.com
 .ateam-oracle.com
 .atgfw.org
@@ -4309,7 +4279,6 @@ widgets.stripst.com
 .awssecworkshops.com
 .awsstatic.com
 .awsthinkbox.com
-.awstrack.me
 .awstrust.com
 .ax
 .axa
@@ -4381,7 +4350,6 @@ widgets.stripst.com
 .b-ok.cc
 .b.cowoo.win
 .b.cr.rs
-.b.hatena.ne.jp
 .b.hd36.win
 .b.hoob.us
 .b.mb2.host
@@ -4504,7 +4472,6 @@ widgets.stripst.com
 .baldrigelewris.com
 .ballbet5.com
 .baltimorebmw.com
-.bam.nr-data.net
 .bamgrid.com
 .banamex
 .banamex.com.mx
@@ -4535,7 +4502,6 @@ widgets.stripst.com
 .bankmandiri.co.id
 .bankmobilevibe.com
 .banned.video
-.bannedbook.org
 .bannednews.org
 .banorte.com
 .bansheerocks.com
@@ -4672,7 +4638,6 @@ widgets.stripst.com
 .bbsone.com
 .bbt
 .bbtchurch.com
-.bbthat.com
 .bbtoystore.com
 .bbva
 .bbwei818.com
@@ -5097,7 +5062,6 @@ widgets.stripst.com
 .bestbuyus.com
 .bestfastfood.freehostia.com
 .bestforchina.org
-.bestgore.com
 .besthentaitube.com
 .bestiphonestuff.com
 .bestmalevideos.com
@@ -5380,7 +5344,6 @@ widgets.stripst.com
 .bkk168.com
 .bkk178.com
 .bkpi666.com
-.bkrtx.com
 .bl-doujinsouko.com
 .bl090.com
 .blackberean.com
@@ -5470,7 +5433,6 @@ widgets.stripst.com
 .blog.radi.ws
 .blog.revillweb.com
 .blog.seesaa.jp
-.blog.sessionstack.com
 .blog.sitcomsonline.com
 .blog.soft.idv.tw
 .blog.sufeng.org
@@ -5492,7 +5454,6 @@ widgets.stripst.com
 .blog5.xlfmguanyin.com
 .blogarama.com
 .blogblog.com
-.blogcatalog.com
 .blogcdn.com
 .blogcity.me
 .blogdelnarco.com
@@ -5504,7 +5465,6 @@ widgets.stripst.com
 .blogimg.jp
 .blogkeen.com
 .blogku.us
-.bloglines.com
 .bloglovin.com
 .blogos.com
 .blogoverflow.com
@@ -5588,7 +5548,6 @@ widgets.stripst.com
 .bluefootcms.com
 .bluehatil.com
 .bluehatnights.com
-.bluekai.com
 .bluekoff.net
 .bluelight.link
 .bluemix.com
@@ -6094,7 +6053,6 @@ widgets.stripst.com
 .bondage.com
 .bondageblog.com
 .bonfoundation.org
-.bongacams.com
 .bonjourshanghai.fr
 .boobpedia.com
 .boobstagram.com
@@ -6123,8 +6081,8 @@ widgets.stripst.com
 .booms.cc
 .boomss.cc
 .boomssr.com
-.boomtrain.com
 .boostmobile.com
+.booth.pm
 .boots
 .bootstrapcdn.com
 .borderlandindustry.ml
@@ -6210,7 +6168,6 @@ widgets.stripst.com
 .bravotube.com
 .bravotube.net
 .bravotv.com
-.braze.com
 .brazilpartneruniversity.com
 .brazzers.com
 .brazzersnetwork.com
@@ -6280,7 +6237,6 @@ widgets.stripst.com
 .brocaproject.com
 .brockbbs.com
 .bronks.net
-.bronto.com
 .bronzfederation.org.nz
 .bronzwellington.org.nz
 .brookings.edu
@@ -6507,7 +6463,6 @@ widgets.stripst.com
 .buyu6677.com
 .buyu6699.com
 .buyu7755.com
-.buyu8001.com
 .buyu8007.com
 .buyu861.com
 .buyu862.com
@@ -6604,7 +6559,6 @@ widgets.stripst.com
 .bytextv.com
 .byyzgtapp.com
 .bz
-.bz.igg.biz
 .bzm456.me
 .bzmg.exc168.com
 .c-dellis.com
@@ -6783,7 +6737,6 @@ widgets.stripst.com
 .cambridgedigital.net
 .cambridgemaths.org
 .cambridgeschoolshakespeare.com
-.camdough.com
 .cameleo.ru
 .camelot-europe.com
 .camelotherald.com
@@ -6975,7 +6928,6 @@ widgets.stripst.com
 .casinoriva.com
 .casoneexchange.com
 .casperbeauty.com
-.caspion.com
 .casque-fr.com
 .casquebeatsbydrdresolohd.com
 .casquebeatsdocteurdre.com
@@ -7156,7 +7108,6 @@ widgets.stripst.com
 .cef.jkocname.com
 .celavi.ch
 .celebgramme.com
-.celebjihad.com
 .celebritymovieblog.com
 .celebsplay.com
 .celeron.com
@@ -7214,7 +7165,6 @@ widgets.stripst.com
 .ch23.ga
 .ch5.cc
 .ch9.ms
-.chadsherrell.com
 .chaikair.cc
 .chain.net
 .chalungu.cn
@@ -7350,7 +7300,6 @@ widgets.stripst.com
 .chicagolandbmw.com
 .chicagoncmtv.com
 .chickenbarrel.org
-.chickenkiller.com
 .chickstagram.com
 .chiemtinhviet.com
 .chihair-straightener.com
@@ -7570,7 +7519,6 @@ widgets.stripst.com
 .cisco.cn
 .cisco.com
 .cisco.com.cn
-.cisco.evergage.com
 .cisco.mobi
 .ciscoccservice.com
 .ciscoconnectcloud.com
@@ -7648,7 +7596,6 @@ widgets.stripst.com
 .cj0968.com
 .cjb.net
 .ck.css5.bid
-.ck.juicyads.com
 .ck.spacetechnology.net
 .ck10019.cc
 .ck101.com
@@ -7680,10 +7627,8 @@ widgets.stripst.com
 .clearwisdom.net
 .clementine-player.org
 .clgperformance.com
-.click-url.com
 .clickindex.com
 .clickprompt.com
-.clicksgear.com
 .clicksia.com
 .clien.net
 .client.meethue.com
@@ -7698,7 +7643,6 @@ widgets.stripst.com
 .clips4sale.com
 .clipsyndicate.com
 .cliti.com
-.clkads.com
 .cloaker.us
 .cloakpoint.com
 .cloclo14.cldmail.ru
@@ -7730,7 +7674,6 @@ widgets.stripst.com
 .cloudflareapps.com
 .cloudflarebolt.com
 .cloudflareclient.com
-.cloudflareinsights.com
 .cloudflareok.com
 .cloudflareresolve.com
 .cloudflaressl.com
@@ -7818,7 +7761,6 @@ widgets.stripst.com
 .cn.goophone.hk
 .cn.hiroseuk.com
 .cn.hwazan.org
-.cn.jimdo.com
 .cn.letou118.net
 .cn.man255.com
 .cn.man426.com
@@ -8041,14 +7983,11 @@ widgets.stripst.com
 .content.wuala.com
 .contentful.com
 .contest.com
-.control.kochava.com
 .convegnonazionalegeotecnica.it
 .convertfiles.com
 .convio.net
-.conviva.com
 .convrgencegame.com
 .coobay.com
-.cookiechoices.org
 .cookierecht.nl
 .cookingchannel
 .cool18.com
@@ -8085,7 +8024,6 @@ widgets.stripst.com
 .coronavirusnow.com
 .corporatecashpassport.com
 .corriere.it
-.cortanaanalytics.com
 .cortanaskills.com
 .corumcollege.com
 .cos-moe.com
@@ -8158,7 +8096,6 @@ widgets.stripst.com
 .craigslist.org
 .crates.io
 .crazedtechs.com
-.crazymike.tw
 .crazys.cc
 .crazyshit.com
 .crbug.com
@@ -8171,7 +8108,6 @@ widgets.stripst.com
 .createspace.com
 .creativecloud.com
 .creativecommons.engineering
-.creativecommons.org
 .creativelab5.com
 .creativesdk.com
 .crececonebay.com
@@ -8185,7 +8121,6 @@ widgets.stripst.com
 .crisp.chat
 .cristyli.com
 .crit-staging.com
-.crittercism.com
 .crmdynint-gcc.com
 .crmdynint.com
 .crocotube.com
@@ -8318,7 +8253,6 @@ widgets.stripst.com
 .csiro.au
 .csis.org
 .cslpldyb.me
-.csmonitor.com
 .csnn.osha.gov.tw
 .cspan.org
 .css.now-ip.net
@@ -8487,7 +8421,6 @@ widgets.stripst.com
 .d7666.com
 .d8118.com
 .d8689.com
-.d9.flashtalking.com
 .d9696.com
 .d989d989.com
 .d9965.com
@@ -8510,7 +8443,6 @@ widgets.stripst.com
 .dafabet.com
 .dafacloud.com
 .dafagood.com
-.dafahao.com
 .dafoh.org
 .dagelijksestandaard.nl
 .dagospia.com
@@ -8548,7 +8480,6 @@ widgets.stripst.com
 .dainikpost.com
 .daiphapinfo.net
 .daizi888.com
-.dajiyuan.com
 .dajiyuan.de
 .dajiyuan.eu
 .dakaba.club
@@ -8579,7 +8510,6 @@ widgets.stripst.com
 .dalailamavillage.it
 .dalailamavisit.org.nz
 .dalailamaworld.com
-.dalianmeng.org
 .daliulian.org
 .dallasobserver.com
 .damanpost.com
@@ -8760,7 +8690,6 @@ widgets.stripst.com
 .ddns.me.uk
 .ddns.mobi
 .ddns.ms
-.ddns.name
 .ddns.net
 .ddns.us
 .ddnsfree.com
@@ -8849,9 +8778,7 @@ widgets.stripst.com
 .delta-homes.com
 .delvenetworks.com
 .demabeauty.com
-.demandbase.com
 .demandware.com
-.demdex.net
 .demo.ai4t.com
 .demo.newworld666.com
 .demo.nyris.io
@@ -9051,7 +8978,6 @@ widgets.stripst.com
 .directvlebanontn.com
 .directvlosangeles.com
 .directvmetropolisil.com
-.directvmonitoring.com
 .directvmurfreesborotn.com
 .directvnewhampshire.com
 .directvnow.com
@@ -9071,7 +8997,6 @@ widgets.stripst.com
 .dirgaip.com
 .dirpy.com
 .dirtymilfclub.com
-.dirtyrhino.com
 .discfan.net
 .disco-api.com
 .discoins.com
@@ -9103,7 +9028,6 @@ widgets.stripst.com
 .disney-asia.com
 .disney-discount.com
 .disney-plus.net
-.disney-portal.my.onetrust.com
 .disney-studio.com
 .disney-studio.net
 .disney.asia
@@ -9173,7 +9097,6 @@ widgets.stripst.com
 .disneynewseries.com
 .disneynow.com
 .disneypeoplesurveys.com
-.disneyplus.bn5x.net
 .disneyplus.com
 .disneyredirects.com
 .disneysrivieraresort.com
@@ -9225,7 +9148,6 @@ widgets.stripst.com
 .dlive.tv
 .dlsite.com
 .dlsite.jp
-.dm-event.net
 .dm530.net
 .dmas.com.au
 .dmc.nico
@@ -9233,7 +9155,6 @@ widgets.stripst.com
 .dmed.technology
 .dmesg.app
 .dmgbet.com
-.dmgmediaprivacy.co.uk
 .dmhy.org
 .dmixtv.com
 .dmm-extension.com
@@ -9242,7 +9163,6 @@ widgets.stripst.com
 .dmm.hk
 .dmmapis.com
 .dmmbus.com
-.dmxleo.com
 .dnai.in
 .dnaindia.com
 .dnaspaces.io
@@ -9297,7 +9217,6 @@ widgets.stripst.com
 .dnsdojo.net
 .dnsdojo.org
 .dnses.alekberg.net
-.dnset.com
 .dnsforge.de
 .dnsfre.xyz
 .dnsfree.xyz
@@ -9319,7 +9238,6 @@ widgets.stripst.com
 .dnsvisa.com
 .dnsweb.xyz
 .dnswho.xyz
-.dnvod.tv
 .do-essential-oils.com
 .do25.gq
 .doc.ivy2.nu
@@ -9396,7 +9314,6 @@ widgets.stripst.com
 .donga.com
 .dongbei731.com
 .dongdamen.com.tw
-.dongtaiwang.com
 .dongtaiwang.net
 .dongyangjing.com
 .donkeykongcountryreturns.com
@@ -9439,8 +9356,6 @@ widgets.stripst.com
 .doubibackup.com
 .doubiyunbackup.com
 .doublechins.ca
-.doubleclick.com
-.doubleclick.net
 .doublehop.me
 .doublemoney.site
 .doubmirror.cf
@@ -9745,7 +9660,6 @@ widgets.stripst.com
 .dynacw.com
 .dynafleetonline.com
 .dynalias.com
-.dynamic-dns.net
 .dynamicdns.biz
 .dynamicdns.co.uk
 .dynamicdns.me.uk
@@ -9923,7 +9837,6 @@ widgets.stripst.com
 .ebaya.com
 .ebayads.com
 .ebayads.net
-.ebayadvertising.com
 .ebayanunsios.net
 .ebayauction.com
 .ebayaustralia.com
@@ -9942,7 +9855,6 @@ widgets.stripst.com
 .ebayclassifieds.info
 .ebayclassifieds.org
 .ebayclassifieds.tv
-.ebayclassifiedsgroup.com
 .ebayclassifiedsgroup.info
 .ebayclassifiedsgroup.org
 .ebayclassifies.com
@@ -10244,7 +10156,6 @@ widgets.stripst.com
 .embr.in
 .embs.org
 .emcs.org
-.emediate.eu
 .emerck
 .emerson
 .emersonbrookforest.org
@@ -10315,7 +10226,6 @@ widgets.stripst.com
 .enia.net
 .enihsyou.com
 .enlighten.org.tw
-.enlnks.com
 .enoughschool.com
 .enpirion.com
 .enq.nzhantec.com
@@ -10368,7 +10278,6 @@ widgets.stripst.com
 .epochtimes-romania.com
 .epochtimes.co.il
 .epochtimes.co.kr
-.epochtimes.com
 .epochtimes.com.au
 .epochtimes.com.br
 .epochtimes.com.sg
@@ -10384,7 +10293,6 @@ widgets.stripst.com
 .epochtimeshk.org
 .epochtimestr.com
 .epochweek.com
-.epochweekly.com
 .epodunk.com
 .epost
 .epotala.com
@@ -10395,7 +10303,6 @@ widgets.stripst.com
 .equinenow.com
 .er
 .er-webs.com
-.erabaru.net
 .eracom.com.tw
 .eraysoft.com.tr
 .erenta.ru
@@ -10545,7 +10452,6 @@ widgets.stripst.com
 .eworld.com
 .ex-cloud.jp
 .exactom.com
-.exacttarget.com
 .examity.com
 .exascale-tech.com
 .exblog.co.jp
@@ -10643,7 +10549,6 @@ widgets.stripst.com
 .faacebook.com
 .faapy.com
 .faasbook.com
-.fabric.io
 .fabsk.eu
 .facbebook.com
 .facbeok.com
@@ -10975,7 +10880,6 @@ widgets.stripst.com
 .fbsbx.com
 .fbsbx.net
 .fbsupport-covid.net
-.fbthirdpartypixel.com
 .fbthirdpartypixel.net
 .fbthirdpartypixel.org
 .fburl.com
@@ -11031,7 +10935,6 @@ widgets.stripst.com
 .fedoraproject.org
 .feebee.com.tw
 .feed43.com
-.feedblitz.com
 .feedburner.com
 .feeder.co
 .feeder.com
@@ -11094,7 +10997,6 @@ widgets.stripst.com
 .fg9000.com
 .fgacebook.com
 .fgmtv.net
-.fgmtv.org
 .fgq5.com
 .fh5.ld22222.com
 .fh5.ldvip34.com
@@ -11135,7 +11037,6 @@ widgets.stripst.com
 .filesend.jp
 .fileserve.com
 .filesor.com
-.filestube.com
 .filezilla.com
 .filglobe.com
 .filipino-music.net
@@ -11223,7 +11124,6 @@ widgets.stripst.com
 .fivefacesofxi.org
 .fix-well.com
 .fixit.com
-.fixtracking.com
 .fixtradingcommunity.org
 .fizzik.com
 .fj
@@ -11270,7 +11170,6 @@ widgets.stripst.com
 .flipshare.com
 .flipwithsurface.com
 .flir
-.flirt4free.com
 .flitto.com
 .fll.cc
 .flnet.org
@@ -11284,7 +11183,6 @@ widgets.stripst.com
 .flsmidth
 .fluidpreview.com
 .fluimec.com.br
-.flurry.com
 .flushingcn.com
 .flutter.dev
 .flutterapp.com
@@ -11715,7 +11613,6 @@ widgets.stripst.com
 .freeproxy.cz
 .freeproxy.it
 .freeproxy.net
-.freeproxy.ro
 .freeproxylists.net
 .freeproxyserver.net
 .freepst.com
@@ -11914,7 +11811,6 @@ widgets.stripst.com
 .fulixtv.com
 .fullcoveronline.com
 .fullerconsideration.com
-.fullstory.com
 .fulltubemovies.com
 .fulton555.com
 .fulue.com
@@ -11956,6 +11852,7 @@ widgets.stripst.com
 .fundaiphone5s.com
 .fundfire.com
 .funf.tw
+.funimation.com
 .funkyimg.com
 .funny-games.biz
 .funnyordie.com
@@ -11990,7 +11887,6 @@ widgets.stripst.com
 .fv6y.com
 .fw.cm
 .fwafa.org
-.fwmrm.net
 .fxcm-chinese.com
 .fxcm.co
 .fxcm.com
@@ -12026,7 +11922,6 @@ widgets.stripst.com
 .fzlm.com
 .fzlm.net
 .g-area.org
-.g-cash.biz
 .g-queen.com
 .g-technology.com
 .g-tun.com
@@ -12075,7 +11970,6 @@ widgets.stripst.com
 .galegroup.com
 .galenwu.com
 .galfione.com.ar
-.galleries.pimproll.com
 .galletasparati.cl
 .gallo
 .gallup
@@ -12090,7 +11984,6 @@ widgets.stripst.com
 .game.kwm.com
 .game.ky195.com
 .game321.com
-.game3737.com
 .game735.com
 .gamebase.com.tw
 .gamebeforethegame.com
@@ -12183,7 +12076,6 @@ widgets.stripst.com
 .gazecafe.com
 .gazotube.com
 .gb
-.gb.igg.biz
 .gb.net
 .gb.wanyi111.com
 .gb508.com
@@ -12279,7 +12171,6 @@ widgets.stripst.com
 .geeksquadforums.com
 .geeksquadonline.com
 .geeksquadprotectionplan.org
-.geeksquadservices.org
 .geeksquadwebroot.org
 .geektang.com
 .geekz0ne.fr
@@ -12332,7 +12223,6 @@ widgets.stripst.com
 .gesgxsj.com
 .gesundteam.se
 .get-a-fuck-tonight.com
-.get-express-vpn.com
 .get-out.co
 .get-tune.net
 .get.app
@@ -12342,7 +12232,6 @@ widgets.stripst.com
 .getadblock.com
 .getastrill.com
 .getbitcoin.pw
-.getblueshift.com
 .getbootstrap.com
 .getboxer.com
 .getbraintree.com
@@ -12364,7 +12253,6 @@ widgets.stripst.com
 .gethotspotshield.com
 .geti2p.net
 .getipintel.net
-.getiton.com
 .getjetso.com
 .getlantern.cn
 .getlantern.com
@@ -12672,7 +12560,6 @@ widgets.stripst.com
 .gogocdn.net
 .gogole.com
 .gogotunnel.com
-.gohappy.com.tw
 .goihoa.com
 .gojdu91.ro
 .gokbayrak.com
@@ -12762,7 +12649,6 @@ widgets.stripst.com
 .gotdns.ch
 .gotgeeks.com
 .gotquestions.com
-.gotraffic.net
 .gotrusted.com
 .gotv
 .gotw.ca
@@ -12823,7 +12709,6 @@ widgets.stripst.com
 .greatergothammini.com
 .greatestfreeproxy.com
 .greatfire.org
-.greatfire.uservoice.com
 .greatfirewall.biz
 .greatfirewallofchina.net
 .greatfirewallofchina.org
@@ -12919,7 +12804,6 @@ widgets.stripst.com
 .guancha.org
 .guaneryu.com
 .guangming.com.my
-.guangming.org
 .guangnianvpn.com
 .guanliyuan.org
 .guanyincitta.com
@@ -12964,7 +12848,6 @@ widgets.stripst.com
 .gvmodel.com
 .gvt0.com
 .gvt1.com
-.gvt2.com
 .gvt3.com
 .gvt5.com
 .gvt6.com
@@ -13449,6 +13332,7 @@ widgets.stripst.com
 .hidess.com
 .hidester.com
 .hidethisip.net
+.hidive.com
 .higfw.com
 .higginbotham.name
 .highbolt.net
@@ -14233,7 +14117,6 @@ widgets.stripst.com
 .icecast.org
 .icerocket.com
 .icevil.webege.com
-.icgirls.com
 .icij.org
 .icili.net
 .icisleri.gov.tr
@@ -14271,7 +14154,6 @@ widgets.stripst.com
 .icsin.org
 .ictsupport.com.pe
 .icu-project.org
-.id.rlcdn.com
 .id.t28.net
 .idaili.club
 .idaiwan.com
@@ -14560,7 +14442,6 @@ widgets.stripst.com
 .incentivetravelgifts.com
 .incezt.net
 .incibe.es
-.incloak.com
 .incloak.es
 .inclusivegrowthscore.com
 .incotal.cl
@@ -14613,7 +14494,6 @@ widgets.stripst.com
 .infoseek.co.jp
 .infosys
 .infotmj.com
-.infotop.jp
 .infowars.com
 .infowarsmedia.com
 .infrapedia.com
@@ -14630,7 +14510,6 @@ widgets.stripst.com
 .inis.iaea.org
 .init.shop
 .initiativesforchina.org
-.initium-analytics.initiumlab.com
 .initiummall.com
 .initproducts.com
 .inix.net
@@ -14903,7 +14782,6 @@ widgets.stripst.com
 .internepedia.tk
 .internet.org
 .internetarchive.org
-.internetdefenseleague.org
 .internetdownloadmanager.com
 .internetexplorer.co
 .internetexplorer.com
@@ -15016,7 +14894,6 @@ widgets.stripst.com
 .ipjetable.net
 .ipjlvpn.com
 .ipleadership.org
-.iplogger.org
 .ipn.li
 .ipo-90.maaii.com
 .ipobar.com
@@ -15121,7 +14998,6 @@ widgets.stripst.com
 .isa-hockeynut.com
 .isaacmao.com
 .isalnikov.com
-.isanalyze.com
 .isasecret.com
 .isca-speech.org
 .ischool.com
@@ -15407,6 +15283,7 @@ widgets.stripst.com
 .jesus-army.com
 .jetbrains.com
 .jetbrains.net
+.jetbrains.space
 .jetbrains.team
 .jetfuelapp.com
 .jetfuelapps.com
@@ -15429,7 +15306,6 @@ widgets.stripst.com
 .jf2216.com
 .jf3303.com
 .jf5.app
-.jf71qh5v14.com
 .jf8833.com
 .jf8866.com
 .jf8877.com
@@ -15464,7 +15340,6 @@ widgets.stripst.com
 .jiezhi888.com
 .jigglegifs.com
 .jigong1024.com
-.jigsawthirsty.com
 .jigsy.com
 .jihadology.net
 .jiji.com
@@ -15604,7 +15479,6 @@ widgets.stripst.com
 .joyhd.net
 .joymii.com
 .joymiihub.com
-.joyourself.com
 .joys999.com
 .jp
 .jp-sex.com
@@ -15622,7 +15496,6 @@ widgets.stripst.com
 .jqueryui.com
 .jria.jpn.com
 .js.org
-.js.revsci.net
 .js00045.com
 .js00047.com
 .js00089.com
@@ -15714,7 +15587,6 @@ widgets.stripst.com
 .jwpcdn.com
 .jwplatform.com
 .jwplayer.com
-.jwpltx.com
 .jwpsrv.com
 .jwt.ms
 .jwzzgw6.com
@@ -16150,7 +16022,6 @@ widgets.stripst.com
 .kucoin.com
 .kuese.com
 .kugadai.com
-.kugo.cc
 .kui.name
 .kujsq.com
 .kuki.idv.tw
@@ -16593,7 +16464,6 @@ widgets.stripst.com
 .libreswan.org
 .librox.co.za
 .libsyn.com
-.licensebuttons.net
 .liceosantaclara.cl
 .lidecheng.com
 .lidl
@@ -16611,8 +16481,6 @@ widgets.stripst.com
 .lifestylegroup.hk
 .lifetimeshares.com
 .lifewire.com
-.liftoff.io
-.lightboxcdn.com
 .lightbridge.com
 .lighten.org.tw
 .lighti.me
@@ -16671,7 +16539,6 @@ widgets.stripst.com
 .linkideo.com
 .linkmetube.com
 .links.org.au
-.linksalpha.com
 .linksysinfo.org
 .linkuswell.com
 .linode.com
@@ -16699,14 +16566,12 @@ widgets.stripst.com
 .list-manage.com
 .listen.radioking.com
 .listennotes.com
-.listinganalytics.net
 .listorious.com
 .litaliaindigitale.it
 .litbus-anime.com
 .litenews.hk
 .literatumonline.com
 .lithium.com
-.litix.io
 .litquake.org
 .little-gang.jp
 .littlehj.com
@@ -16732,13 +16597,11 @@ widgets.stripst.com
 .livecoin.net
 .livedoor.jp
 .livefilestore.com
-.livejasmin.com
 .liveleak.com
 .livemint.com
 .liveperson.com
 .liveperson.net
 .livephotos.tv
-.liverail.com
 .liverail.tv
 .livestation.com
 .livestream.com
@@ -16771,7 +16634,6 @@ widgets.stripst.com
 .lll773.net
 .llnw-trials.com
 .llnw.com
-.llnw.net
 .llnwd.net
 .llnwi.net
 .llss.me
@@ -16789,14 +16651,12 @@ widgets.stripst.com
 .lobsangwangyal.com
 .lobsterbay.hk
 .lobstertube.com
-.localbitcoins.com
 .localbitcoins.net
 .localbitcoinschain.com
 .localdomain.ws
 .localizejs.com
 .localizestatus.com
 .localmedia.org
-.localnetwork.uop
 .localnews8.com
 .localpresshk.com
 .locker
@@ -17040,7 +16900,6 @@ widgets.stripst.com
 .m.1eighty8.com
 .m.1eighty8bet.com
 .m.4tube.com
-.m.520xiaojin.com
 .m.577012.com
 .m.6hch001.com
 .m.797vip.com
@@ -17208,13 +17067,10 @@ widgets.stripst.com
 .madewithcode.com
 .madonna-av.com
 .madrau.com
-.madshi.net
 .madthumbs.com
 .madvr.com
 .madvr.net
 .madvrlabs.llc
-.mafiaatt43.thejierou.net
-.mafiaatt77.thejierou.net
 .mafiagame.ml
 .mag2.com
 .magazine.godsdirectcontact.net
@@ -17391,8 +17247,6 @@ widgets.stripst.com
 .marketing-nirvana.com
 .marketingcloud.com
 .marketo.co.uk
-.marketo.com
-.marketo.net
 .marketo.tv
 .marketodesigner.com
 .marketolive.com
@@ -17570,7 +17424,6 @@ widgets.stripst.com
 .md-t.org
 .md.pub
 .mdhspices.com
-.mdialog.com
 .mdj02.com
 .mdlf.xyz
 .mdn.mozillademos.org
@@ -17604,7 +17457,6 @@ widgets.stripst.com
 .mediapart.fr
 .mediapatra.com
 .mediaplaynow.com
-.mediasp.kir.jp.hypestat.com
 .mediawiki.org
 .medical-reference.net
 .medicalcheckup.web.id
@@ -17613,14 +17465,12 @@ widgets.stripst.com
 .medium.systems
 .medley.com
 .medrxiv.org
-.meebo.com
 .meet.new
 .meetav.com
 .meetchat.club
 .meetfasttrack.com
 .meeting.yunghsuan.me
 .meetme.com
-.meetsexygirls.org
 .meetsmartbook.com
 .meetup.com
 .meetyourdevices.com
@@ -17762,7 +17612,6 @@ widgets.stripst.com
 .mh23.tk
 .mh4u.org
 .mhao123.com
-.mhradio.org
 .mhshosting.com
 .mhub.dafapoker.com
 .mhzj.xyz
@@ -17847,7 +17696,6 @@ widgets.stripst.com
 .minghui.ca
 .minghui.cc
 .minghui.or.kr
-.minghui.org
 .mingjinglishi.com
 .mingjingnews.com
 .mingjingtimes.com
@@ -18168,14 +18016,12 @@ widgets.stripst.com
 .mlzs.work
 .mm-11.com
 .mm-cg.com
-.mm-cgnews.com
 .mm.net.my
 .mm168.xyz
 .mm366.net
 .mm831.com
 .mm94168.com
 .mma
-.mmaaxx.com
 .mmacademyedu.com
 .mmdnn.com
 .mmgal.com
@@ -18186,7 +18032,6 @@ widgets.stripst.com
 .mmmglobal.org
 .mmmoffice.com
 .mmonsterheadphones.net
-.mmotraffic.com
 .mms333.ga
 .mms333.gq
 .mmsishow.com
@@ -18279,8 +18124,6 @@ widgets.stripst.com
 .moneynet.tw
 .mongodb.com
 .mongodb.org
-.monitorchina.org
-.monitorware.com
 .monitrix.net
 .monkeywerks.net
 .monlamit.org
@@ -18414,7 +18257,6 @@ widgets.stripst.com
 .movidius.com
 .movidius.net
 .movie-jamrock.com
-.movie.eroterest.net
 .moviefap.com
 .movienthusiast.com
 .movieproxy.com
@@ -18465,7 +18307,6 @@ widgets.stripst.com
 .mratme.com
 .mratyou.com
 .mray.club
-.mrbasic.com
 .mrbonus.com
 .mrc01.com
 .mrc02.com
@@ -18509,7 +18350,6 @@ widgets.stripst.com
 .ms52.ga
 .ms6588.com
 .msa-it.org
-.msads.net
 .msb.strikewin.com
 .mschallenge2018.com
 .msd
@@ -18892,7 +18732,6 @@ widgets.stripst.com
 .nadex
 .nadjabrun.ch
 .nageltech.net
-.naiadsystems.com
 .nailedhard.com
 .naitik.net
 .nakedhosting.com
@@ -19093,7 +18932,6 @@ widgets.stripst.com
 .netvigator.com
 .network-auth.cn
 .network54.com
-.networkedblogs.com
 .networktunnel.net
 .networldsolutions.org
 .netxtv.site
@@ -19149,7 +18987,6 @@ widgets.stripst.com
 .newportcircuit.net16.net
 .newpowerparty.tw
 .newrealmstudios.ca
-.newrelic.com
 .newrepublic.com
 .news.atebits.com
 .news.com.au
@@ -19185,7 +19022,6 @@ widgets.stripst.com
 .newsinc.com
 .newsmagazine.asia
 .newsmax.com
-.newsmaxfeednetwork.com
 .newsmaxhealth.com
 .newsmaxtv.com
 .newsminer.com
@@ -19434,7 +19270,6 @@ widgets.stripst.com
 .nikestyles.com
 .nikeswim.com
 .niketaiwan.net
-.niketracking.com
 .niketradeweb.com
 .niketrainer.com
 .niketrainers.com
@@ -19526,7 +19361,6 @@ widgets.stripst.com
 .nm1314.com
 .nmail.com.ar
 .nmbmw.com
-.nmcdn.us
 .nmdetenghj.com
 .nmsl.website
 .nmslzlgbe5xbag6t.onion.ly
@@ -19686,7 +19520,6 @@ widgets.stripst.com
 .nsfwgifs.com
 .nsimg.net
 .nspcc.org.uk
-.nsstatic.net
 .nstagram.com
 .ntbk.gov.tw
 .ntbna.gov.tw
@@ -19699,10 +19532,8 @@ widgets.stripst.com
 .ntdimg.com
 .ntdtv.ca
 .ntdtv.co.kr
-.ntdtv.com
 .ntdtv.com.tw
 .ntdtv.cz
-.ntdtv.org
 .ntdtv.ru
 .ntdtv.tk
 .ntdtvla.com
@@ -19833,7 +19664,6 @@ widgets.stripst.com
 .nytimes.org
 .nytimg.com
 .nytlabs.com
-.nytlog.com
 .nytstyle.com
 .nytsyn.com
 .nz
@@ -20012,11 +19842,9 @@ widgets.stripst.com
 .omnitalk.com
 .omnitalk.org
 .omnitek.tv
-.omniture.com
 .omny.fm
 .omoplanet.com
 .omscr.com
-.omtrdc.net
 .omy.sg
 .on-sir.tk
 .on-the-web.tv
@@ -20077,7 +19905,6 @@ widgets.stripst.com
 .onmoon.net
 .onmypc.biz
 .onmypc.info
-.onmypc.net
 .onmypc.org
 .onmypc.us
 .onsalekey.com
@@ -20173,7 +20000,6 @@ widgets.stripst.com
 .optibrium.co.uk
 .opticalize.com
 .opticsforthecloud.net
-.optimizely.com
 .optimumssl.com
 .opus-gaming.com
 .oracle
@@ -20435,8 +20261,6 @@ widgets.stripst.com
 .paganwiccan.about.com
 .page.freett.com
 .page.link
-.page.tl
-.page2rss.com
 .page3.com
 .pagecdn.com
 .pagecdn.io
@@ -20480,7 +20304,6 @@ widgets.stripst.com
 .panikal.com
 .panjk.com
 .panluan.net
-.panoramio.com
 .pao-pao.net
 .pao66.com
 .paofu.cloud
@@ -20505,7 +20328,6 @@ widgets.stripst.com
 .paramountplus.com
 .parastorage.com
 .parcocolosseo.it
-.pardot.com
 .parenting.com
 .park-now.com
 .parkansky.com
@@ -20520,9 +20342,7 @@ widgets.stripst.com
 .parstream.net
 .parstream.org
 .partizy.com
-.partycasino.com
 .partylikeits1986.org
-.partypoker.com
 .pascalau.ro
 .pascherbeatsmonster.com
 .pashtovoa.com
@@ -20798,7 +20618,6 @@ widgets.stripst.com
 .picasaweb.com
 .picasaweb.net
 .picasaweb.org
-.picbucks.com
 .pichunter.com
 .picidae.net
 .picknicekicks.net
@@ -20862,7 +20681,6 @@ widgets.stripst.com
 .pittpatt.com
 .pivotalinitiative.com
 .pivx.com
-.pixanalytics.com
 .pixandvideo.com
 .pixapp.net
 .pixate.com
@@ -20875,7 +20693,6 @@ widgets.stripst.com
 .pixiv.com
 .pixiv.me
 .pixiv.net
-.pixiv.org
 .pixivsketch.net
 .pixnet.cc
 .pixnet.in
@@ -21056,7 +20873,6 @@ widgets.stripst.com
 .pop.com.br
 .popbox.com
 .popcap.com
-.popcash.net
 .popcornsupply.com
 .popo.tw
 .poppen.de
@@ -21172,7 +20988,6 @@ widgets.stripst.com
 .prettyvirgin.com
 .preview.activateyourpass.com
 .prexchanger.com
-.prfct.co
 .pri.org
 .priceless.com
 .priceless.org
@@ -21263,7 +21078,6 @@ widgets.stripst.com
 .pron.tv
 .pronhub.com
 .pronstore.com
-.propellerads.com
 .proptiger.com
 .propub.li
 .pros.ee
@@ -21437,10 +21251,7 @@ widgets.stripst.com
 .publicaffairsbooks.com
 .publicagent.com
 .publicdomainreview.org
-.publicidees.com
 .publishproxy.com
-.pubmatic.com
-.pubnub.com
 .pubu.com.tw
 .pubu.tw
 .puddlehunters.net
@@ -21473,7 +21284,6 @@ widgets.stripst.com
 .pusacg.org
 .pushbullet.com
 .pushchinawall.com
-.pushwoosh.com
 .pussy.com
 .pussyspace.com
 .putacupinit.com
@@ -21497,7 +21307,6 @@ widgets.stripst.com
 .pwned.com
 .pwnedpasswords.com
 .pwnwiki.org
-.pwnz.org
 .px.mystakidis.gr
 .pximg.net
 .pxt.io
@@ -21672,7 +21481,6 @@ widgets.stripst.com
 .qualcommventures.com
 .quality-electronics.com
 .qualphone.com
-.qualtrics.com
 .quanben-xiaoshuo.com
 .quannengshen.org
 .quantumbooter.net
@@ -21856,7 +21664,6 @@ widgets.stripst.com
 .rationalwiki.org
 .ratujtybet.org
 .rauchmeldershop.ch
-.ravm.tv
 .raw.githack.com
 .rawcdn.githack.com
 .rawdirect.com
@@ -22026,7 +21833,6 @@ widgets.stripst.com
 .redislabs.com
 .redken
 .redkix.com
-.redlightcenter.com
 .redmaplenews.com
 .redstone
 .redtube.com
@@ -22074,7 +21880,6 @@ widgets.stripst.com
 .renalnutrition.org
 .renchead.com
 .renkrip.com
-.renminbao.com
 .renminjiandu.com
 .renovacionoffice.com
 .renovacionxboxlive.com
@@ -22095,7 +21900,6 @@ widgets.stripst.com
 .res.web.id
 .researchandcare.org
 .researchgate.net
-.researchintel.com
 .researchkit.net
 .researchkit.org
 .researchkit.tv
@@ -22240,7 +22044,6 @@ widgets.stripst.com
 .rnzi.com
 .ro
 .road-crew.com
-.roadshow.hk
 .roadtv.nl
 .robfuscate.com
 .robinlintec.com
@@ -22315,7 +22118,6 @@ widgets.stripst.com
 .rryqp.cc
 .rscihoops.com
 .rscredito.com.br
-.rsdlmonitor.com
 .rsf-chinese.org
 .rsf.org
 .rsgamen.org
@@ -22355,7 +22157,6 @@ widgets.stripst.com
 .rule34.xxx
 .rumah123.com
 .rumahsabiq.com
-.rumble.com
 .run.app
 .runbtx.com
 .runescape.com
@@ -22755,7 +22556,6 @@ widgets.stripst.com
 .sebe.fairuse.org
 .seccionamarilla.com.mx
 .secomtrust.net
-.secretchina.com
 .secretgarden.no
 .secretofluck.com
 .secretproxy.org
@@ -22785,13 +22585,11 @@ widgets.stripst.com
 .seehua.com
 .seeineed.top
 .seek
-.seekbang.com
 .seeshijie.com
 .seesmic.com
 .seevpn.com
 .seezone.net
 .sef.idv.tw
-.segment.com
 .segunet.com.mx
 .segurovidacredito.com
 .sehuatang.net
@@ -22820,7 +22618,6 @@ widgets.stripst.com
 .sensolnet.com
 .sensortower.com
 .sensorynetworks.com
-.sentry.io
 .sentry.prod.mozaws.net
 .sephora.com
 .seqingx.com
@@ -22835,7 +22632,6 @@ widgets.stripst.com
 .servantwolf.ca
 .servebbs.com
 .servebeer.com
-.servebom.com
 .servecentral.org
 .serveftp.com
 .servehttp.com
@@ -23000,7 +22796,6 @@ widgets.stripst.com
 .shareit247.com
 .sharepointonline.com
 .sharesix.com
-.sharethis.com
 .shark-chinaz.com
 .sharks-lagoon.fr
 .sharky.co.uk
@@ -23025,11 +22820,7 @@ widgets.stripst.com
 .shenlaoxi.com
 .shenpoker.com
 .shenshou.org
-.shenyun.com
-.shenyun.org
-.shenyunperformingarts.org
 .shenyunshop.com
-.shenzhoufilm.com
 .shenzhouzhengdao.org
 .sherabgyaltsen.com
 .sherig.org
@@ -23168,7 +22959,6 @@ widgets.stripst.com
 .simcity.com
 .simg.jp
 .simgbb.com
-.simility.com
 .simonsharp.ch
 .simonshen.blog
 .simp.ly
@@ -23241,16 +23031,12 @@ widgets.stripst.com
 .site.com
 .site2unblock.com
 .site90.net
-.sitebro.tw
 .sitegetter.net
 .sitekreator.com
 .sitemaps.org
-.sitemeter.com
 .sitenable.org
 .sitepoint.com
 .sites.iscvt.org
-.sitescout.com
-.sitetag.us
 .siwa.com
 .six-degrees.io
 .sixdollarclick.com
@@ -23334,7 +23120,6 @@ widgets.stripst.com
 .slideshare.net
 .slidesharecdn.com
 .slime.com.tw
-.slimspots.com
 .sling
 .sling.com
 .slinginternational.com
@@ -23379,7 +23164,6 @@ widgets.stripst.com
 .smhric.org
 .sminted.com
 .smith.edu
-.smowtion.com
 .smpte.org
 .smt.live
 .smtp
@@ -23395,8 +23179,6 @@ widgets.stripst.com
 .snai.it
 .snap-dev.net
 .snap-telemetry.io
-.snap.com
-.snapads.com
 .snapchat.com
 .snapcraft.io
 .snapdragon.cn
@@ -23425,7 +23207,6 @@ widgets.stripst.com
 .socaltibet.org
 .soccer18.com
 .soccermatchpass.com
-.socdm.com
 .social.caa-ins.org
 .social.com
 .socialblade.com
@@ -23636,7 +23417,6 @@ widgets.stripst.com
 .soundcloud.com
 .soundcloud.org
 .soundofhope.kr
-.soundofhope.org
 .soup.io
 .soupofmedia.com
 .sourceforge.com
@@ -23758,7 +23538,6 @@ widgets.stripst.com
 .spravca.net
 .spraynwash.com
 .spreadprivacy.com
-.spreadshirt.es
 .spring.io
 .spring.net
 .spring4u.info
@@ -24084,11 +23863,9 @@ widgets.stripst.com
 .straplessdildo.com
 .strapline.org
 .strart.art
-.strategyanalytics.com
 .strawberrynet.com
 .streaks.jp
 .streamable.com
-.streamate.com
 .streamer.radio.co
 .streamie.org
 .streamingdisney.net
@@ -24274,7 +24051,6 @@ widgets.stripst.com
 .suppig.net
 .supplybestjerseys.com
 .supplyrussia.com
-.support.appsflyer.com
 .supremacy.com
 .supremacy.net
 .suprememastertv.com
@@ -24442,7 +24218,6 @@ widgets.stripst.com
 .tab
 .tablesgenerator.com
 .tabletmag.com
-.taboola.com
 .tabtter.jp
 .tabxzp.com
 .tacem.org
@@ -24531,7 +24306,6 @@ widgets.stripst.com
 .tapatalk.com
 .tapbots.com
 .tapbots.net
-.tapestry.tapad.com
 .taptap.tw
 .taptotokyo.com
 .tara-medium.com
@@ -24641,7 +24415,6 @@ widgets.stripst.com
 .technics.com
 .technik-specials.de
 .technologyandsociety.org
-.technorati.com
 .techrepublic.com
 .techsmith.com
 .techspot.com
@@ -24692,7 +24465,6 @@ widgets.stripst.com
 .teletrade-asia.com
 .telex.cc
 .telkom.co.id
-.tellapart.com
 .tellme.pw
 .tellmewhygame.com
 .temasek
@@ -25273,7 +25045,6 @@ widgets.stripst.com
 .toc-online.ch
 .todatienda.com
 .today.code4.hk
-.todayapp.tv
 .todayonline.com
 .todoist.com
 .todytps.com
@@ -25308,7 +25079,6 @@ widgets.stripst.com
 .toomics.com
 .toonel.net
 .top-express.ro
-.top.fadama.com
 .top.sll16.com
 .top.tv
 .top10vpn.com
@@ -25333,7 +25103,6 @@ widgets.stripst.com
 .topshareware.com
 .topshop.al
 .topshop.sk
-.topsy.com
 .toptip.ca
 .toptoon.net
 .topukvpn.com
@@ -25398,11 +25167,7 @@ widgets.stripst.com
 .tra.tvbjjj.com
 .trace.org
 .tracfone.com
-.tracking-location.com
-.tracking.rb88.com
-.trackingclick.net
 .trade.kgieworld.com
-.tradeadexchange.com
 .trader.lcg.com
 .trader711.com
 .tradershotels
@@ -25411,8 +25176,6 @@ widgets.stripst.com
 .trading212.com
 .tradingview.com
 .traeumtgerade.de
-.traffichaus.com
-.trafficmanager.net
 .trakt.tv
 .transformers
 .translate.goog
@@ -25473,7 +25236,6 @@ widgets.stripst.com
 .trontv.com
 .trouw.nl
 .trove.trionworlds.com
-.trovi.com
 .trovigo.com
 .trt.net.tr
 .trtc.com.tw
@@ -25484,11 +25246,8 @@ widgets.stripst.com
 .truebuddha-md.org
 .truedepth3d.com
 .trulyergonomic.com
-.trust.zone
 .trustasiassl.com
 .trustdoc.ch
-.trustedanalytics.com
-.trustedanalytics.net
 .trustedreviews.com
 .trustsign.ch
 .trustwave.com
@@ -25586,7 +25345,6 @@ widgets.stripst.com
 .tui
 .tuibeitu.net
 .tuidang.net
-.tuidang.org
 .tuidang.se
 .tuintuin.nl
 .tuite.im
@@ -25745,13 +25503,11 @@ widgets.stripst.com
 .tweepmag.com
 .tweepml.org
 .tweetbackup.com
-.tweetboard.com
 .tweetboner.biz
 .tweetcs.com
 .tweetdeck.com
 .tweetedtimes.com
 .tweetmarker.net
-.tweetmeme.com
 .tweetmylast.fm
 .tweetphoto.com
 .tweetrans.com
@@ -25785,7 +25541,6 @@ widgets.stripst.com
 .twiffo.com
 .twiggit.org
 .twilightparadox.com
-.twilightsex.com
 .twilio.com
 .twilog.org
 .twimbow.com
@@ -25894,7 +25649,6 @@ widgets.stripst.com
 .tycool.com
 .tycylc.fans
 .tylerclary.com
-.tynt.com
 .typcn.com
 .typeisbeautiful.com
 .typekit.com
@@ -25925,7 +25679,6 @@ widgets.stripst.com
 .uber.com
 .ubereats.com
 .uberproxy.net
-.ubertags.com
 .ubf.kr
 .ubi.com
 .ubint.net
@@ -26168,7 +25921,6 @@ widgets.stripst.com
 .urasob.com
 .urast.com
 .urban14.net
-.urbanairship.com
 .urbandictionary.com
 .urbandove.org
 .urbanspoon.com
@@ -26460,9 +26212,7 @@ widgets.stripst.com
 .veoh.com
 .veooz.com
 .vercammen.org
-.vercel-analytics.com
 .vercel-dns.com
-.vercel-insights.com
 .vercel-status.com
 .vercel.app
 .vercel.com
@@ -26523,7 +26273,6 @@ widgets.stripst.com
 .veryshortintroductions.com
 .vesnawestbrook.com
 .vetdoctor.lv
-.vettas.jimdo.com
 .vevo.com
 .vewas.net
 .vf.domain888.pw
@@ -26563,7 +26312,6 @@ widgets.stripst.com
 .vicbaszt.cl
 .victimsofcommunism.org
 .victoriassecret.com
-.vid.me
 .vid2c.com
 .vidarural.com.br
 .vidble.com
@@ -26598,7 +26346,6 @@ widgets.stripst.com
 .videosz.com
 .videouri.com
 .videovor.com
-.vidible.tv
 .vidinfo.org
 .vidly.com
 .vidmax.com
@@ -26682,7 +26429,6 @@ widgets.stripst.com
 .virginia.edu
 .virginia.gov
 .virginislandsdailynews.com
-.virginmobileusa.com
 .viria.com.au
 .virsto.com
 .virsto.net
@@ -27040,7 +26786,6 @@ widgets.stripst.com
 .voxmedia.com
 .voxops.net
 .voy.com
-.voyeurhit.com
 .vozvos.com
 .vp.hkwesi1.xyz
 .vpn-accounts.com
@@ -27057,7 +26802,6 @@ widgets.stripst.com
 .vpn.net
 .vpn.sesameworkshop.org
 .vpn.xephi.fr
-.vpn001.jimdo.com
 .vpn4all.com
 .vpn99.net
 .vpnaccount.com
@@ -27132,7 +26876,6 @@ widgets.stripst.com
 .vpnspecial.com
 .vpntaiwan.com
 .vpntool.com
-.vpntraffic.com
 .vpntunnel.com
 .vpnuk.info
 .vpnunlimitedapp.com
@@ -27152,6 +26895,7 @@ widgets.stripst.com
 .vrmtr.com
 .vrsmash.com
 .vrt.be
+.vrv.co
 .vs.com
 .vs8866.com
 .vs8989.com
@@ -27291,7 +27035,6 @@ widgets.stripst.com
 .w88124.com
 .w888055.com
 .w888066.com
-.w88club.com
 .w88info.com
 .w88w989.com
 .w9155.com
@@ -27378,7 +27121,6 @@ widgets.stripst.com
 .watchdisneyfe.com
 .watchespn.com
 .watchinese.com
-.watchmygf.com
 .watchmygf.net
 .watchout.tw
 .watchtowerdocuments.com
@@ -27421,7 +27163,6 @@ widgets.stripst.com
 .wdly077.com
 .wdly096.com
 .wdwoodworking.com
-.we.igg.biz
 .we.minecraftnoob.com
 .we22.ga
 .wealth4allteam.com
@@ -27732,7 +27473,6 @@ widgets.stripst.com
 .williamhiggins.com
 .williamhill
 .williamhill.com
-.williamhill.es
 .williamhill.it
 .williamhill138.com
 .williamlong.jaiku.com
@@ -27823,7 +27563,6 @@ widgets.stripst.com
 .wmcloud.org
 .wme
 .wmfield.idv.tw
-.wmflabs.org
 .wmfusercontent.org
 .wmiii.com
 .wmkredit.ru
@@ -28076,7 +27815,6 @@ widgets.stripst.com
 .wufi.org.tw
 .wuguoguang.com
 .wujie.net
-.wujieliulan.com
 .wukangrui.net
 .wuliaovpn.com
 .wursten.com.ar
@@ -28629,12 +28367,9 @@ widgets.stripst.com
 .www.adcp105.com
 .www.adidas-group.com
 .www.adj.idv.tw
-.www.adkongjian.com
 .www.admissionadviser.com
 .www.adult168.com
 .www.adultcamweb.com
-.www.advertisergleam.com
-.www.advertstream.com
 .www.advisen.com
 .www.aec.gov.tw
 .www.aei.org
@@ -28998,7 +28733,6 @@ widgets.stripst.com
 .www.bookrep.com.tw
 .www.bookwalker.com.tw
 .www.bookzone.com.tw
-.www.bordercountiesadvertizer.co.uk
 .www.bottomlinestudios.net
 .www.botxtv.site
 .www.boyi188.com
@@ -29255,7 +28989,6 @@ widgets.stripst.com
 .www.comdotgame.com
 .www.complex.com
 .www.conceptdoppler.org
-.www.conduit.com
 .www.coned.com
 .www.congressrental.asia
 .www.congressrental.com.au
@@ -30331,7 +30064,6 @@ widgets.stripst.com
 .www.juantambayan.com
 .www.judicial.gov.tw
 .www.jufu.bet
-.www.juicyads.com
 .www.juliuscentrum.nl
 .www.jump2see.net
 .www.justbestvpn.com
@@ -30699,7 +30431,6 @@ widgets.stripst.com
 .www.moyuvpn.net
 .www.mp3quran.net
 .www.mr006.com
-.www.ms3388.com
 .www.ms569.com
 .www.mskolshuk.com
 .www.mtac.gov.tw
@@ -31074,7 +30805,6 @@ widgets.stripst.com
 .www.pucocn.com
 .www.puff-store.com
 .www.pugetsound.edu
-.www.purechat.com
 .www.pureland-buddhism.org
 .www.purevpn.net
 .www.purifymind.com
@@ -31184,7 +30914,6 @@ widgets.stripst.com
 .www.rsf.fr
 .www.ruanf.com
 .www.rubio.senate.gov
-.www.rubyfortune.com
 .www.rue89.com
 .www.runnerinn.com
 .www.runos.us
@@ -31367,11 +31096,9 @@ widgets.stripst.com
 .www.spin969.com
 .www.sport988.com
 .www.sports998.net
-.www.spreadshirt.com
 .www.spreaker.com
 .www.spreely.com
 .www.springpadit.com
-.www.spyoff.com
 .www.sqlspace.com
 .www.sr-71.org
 .www.srkoo.com
@@ -31573,7 +31300,6 @@ widgets.stripst.com
 .www.timesofisrael.com
 .www.tinhte.vn
 .www.tinydate.net
-.www.tivysideadvertiser.co.uk
 .www.tiyu118.com
 .www.tjc.gov.tw
 .www.tjshy.com
@@ -31645,7 +31371,6 @@ widgets.stripst.com
 .www.tpw-tw.com
 .www.tqc.idv.tw
 .www.tqdc000.com
-.www.trackingterrorism.org
 .www.trademax.com.au
 .www.tradewithjacky.com
 .www.traininn.com
@@ -32122,7 +31847,6 @@ widgets.stripst.com
 .www.yopmail.com
 .www.york.ac.uk
 .www.youbiyao.xyz
-.www.youfck.com
 .www.youngleak.com
 .www.youngmm.com
 .www.your-freedom.de
@@ -32338,7 +32062,6 @@ widgets.stripst.com
 .xcams4u.com
 .xcg123.com
 .xcity.jp
-.xclicks.net
 .xclient.info
 .xcream.net
 .xcritic.com
@@ -32460,7 +32183,6 @@ widgets.stripst.com
 .xinlingfamen.org
 .xinmiao.com.hk
 .xinmicredit.com
-.xinsheng.net
 .xinshijue.com
 .xinweide.com
 .xinyubbs.net
@@ -32469,7 +32191,6 @@ widgets.stripst.com
 .xiongpian.com
 .xiph.org
 .xite.ws
-.xiti.com
 .xiuren.org
 .xiuxiqu.org
 .xixicui.icu
@@ -32506,12 +32227,10 @@ widgets.stripst.com
 .xlfmcity.com
 .xlfmtalk.com
 .xlfmwz.info
-.xlovecam.com
 .xlstudio.com
 .xm.com
 .xmaduras.com
 .xmasxtv.com
-.xmatch.com
 .xmbs1.xyz
 .xmbs2.xyz
 .xmbs3.xyz
@@ -32623,7 +32342,6 @@ widgets.stripst.com
 .xp301.com
 .xp303.com
 .xpdo.net
-.xpeeps.com
 .xperia
 .xpgbj.com
 .xpintl.com
@@ -32634,9 +32352,6 @@ widgets.stripst.com
 .xpud.org
 .xqmobile.po888.net
 .xqmobile2.po888.net
-.xratt4.thejierou.net
-.xratt77.thejierou.net
-.xratt88.thejierou.net
 .xrayjoe.com
 .xrentdvd.com
 .xs.domain888.pw
@@ -32670,7 +32385,6 @@ widgets.stripst.com
 .xuzhiyong.net
 .xv1.cc
 .xv9.cc
-.xvbelink.com
 .xvdada.com
 .xvideo-jp.com
 .xvideo.cc
@@ -33011,7 +32725,6 @@ widgets.stripst.com
 .yb.ldld3.me
 .yb.ldld5.me
 .yb.qwmnbaa.com
-.yb.uncn.jp
 .yb1111.com
 .yb1666.com
 .yb188.emc388.com
@@ -33158,7 +32871,6 @@ widgets.stripst.com
 .youav.com
 .youbeli.com
 .youbiyao.net
-.youboranqs01.com
 .youcaring.com
 .youdian.in
 .youdontcare.com
@@ -33244,7 +32956,6 @@ widgets.stripst.com
 .ytvpn.com
 .yu33.net
 .yuan.idv.tw
-.yuanming.net
 .yuanzhengtang.org
 .yuanzone.no-ip.net
 .yubew.com
@@ -33451,8 +33162,6 @@ widgets.stripst.com
 .zhengdao.org
 .zhenghui.org
 .zhengjian.or.kr
-.zhengjian.org
-.zhengwunet.org
 .zhengxiang.ml
 .zhengzexin.com
 .zhengzhi888.com
@@ -33477,7 +33186,6 @@ widgets.stripst.com
 .zhuangbi.me
 .zhuanxing.cn
 .zhuatieba.com
-.zhuichaguoji.org
 .zhwp.org
 .zi.media
 .zi5.me

@@ -15,7 +15,9 @@
 
 目前把所有的China类型规则进行了排除，但是并不能确保国内所有的网站和服务都已被移除。例如包含McDonalds的子规则，可能会将麦当劳中国的域名mcdonalds.com.cn包括进去。
 
-实验性规则，谨慎选择使用！！
+排除Advertising规则，便于和去广告规则搭配使用。
+
+实验性规则，效果待观察，请谨慎评估后使用。
 
 ## MITM
 境外网站/IP合集分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要使用MITM才能生效。
@@ -24,14 +26,14 @@
 
 ## 规则统计
 
-总计规则：34999 条。
+总计规则：34707 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | DOMAIN | 11 |
-| DOMAIN-SUFFIX | 33605 |
+| DOMAIN-SUFFIX | 33313 |
 | USER-AGENT | 77 |
 | DOMAIN-KEYWORD | 71 |
 | IP-CIDR | 1196 |
@@ -549,6 +551,14 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 除非特殊需求，否则不建议重复引用。
 
 当前分流规则，已排除以下规则：
+
+- Advertising
+
+- AdvertisingLite
+
+- AdvertisingMiTV
+
+- AdvertisingTest
 
 - ChinaMax
 

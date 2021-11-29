@@ -11,20 +11,24 @@
 ## 规则说明
 包含所有China、ChinaIPs、Mainland等类型的规则，定义为已收集的国内网站/IP合集。
 
+排除Advertising规则，便于和去广告规则搭配使用。
+
 引用此规则后，不要再引用其他的国内规则，否则可能造成大量规则重复。
+
+实验性规则，效果待观察，请谨慎评估后使用。
 
 ## 规则统计
 
-总计规则：85812 条。
+总计规则：84499 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 73966 |
+| DOMAIN-SUFFIX | 72679 |
 | PROCESS-NAME | 6 |
-| DOMAIN | 79 |
-| IP-CIDR | 6156 |
+| DOMAIN | 54 |
+| IP-CIDR | 6155 |
 | DOMAIN-KEYWORD | 14 |
 | IP-CIDR6 | 5591 |
 ## 配置说明
@@ -485,6 +489,16 @@ ChinaMax_Classical.yaml 可以单独使用，其他规则必须同时使用。
 - ifanr
 
 除非特殊需求，否则不建议重复引用。
+
+当前分流规则，已排除以下规则：
+
+- Advertising
+
+- AdvertisingLite
+
+- AdvertisingMiTV
+
+- AdvertisingTest
 
 ## 数据来源
 

@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-29 02:09:55
+# UPDATED: 2021-11-29 16:28:47
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 15108
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 84152
+# DOMAIN-SUFFIX: 84180
 # IP-CIDR: 256
 # IP-CIDR6: 1
 # URL-REGEX: 317
-# TOTAL: 99922
+# TOTAL: 99950
 0001.2waky.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -16826,6 +16826,7 @@ zzz.clickbank.net
 .51yhzp.com
 .51zdwy.cn
 .51zhanzhuang.cn
+.51zrtx.com
 .5207470.com
 .520886.xyz
 .520meirenyu.com
@@ -18921,7 +18922,7 @@ zzz.clickbank.net
 .ablatesgascon.cam
 .ablebodiedcool.com
 .ablehed.pro
-.ablen12.tk
+.ablen10.tk
 .ablenctionalle.info
 .ablerivetdoubted.com
 .ablida-rotation.com
@@ -23684,7 +23685,6 @@ zzz.clickbank.net
 .afd.l.google.com
 .afdads.com
 .afdbande.cn
-.afdjljiyagf.ru
 .afdyfxfrwbfy.com
 .afefw.com
 .afekiryj.xyz
@@ -24064,7 +24064,6 @@ zzz.clickbank.net
 .ahoigzbodtcd.com
 .ahojer.com
 .ahoyhyperbay.com
-.ahoypirate.in
 .ahoypiratebaai.eu
 .ahqlx.top
 .ahqpqpdjpj.com
@@ -25495,6 +25494,7 @@ zzz.clickbank.net
 .api.waptest.taobao.com
 .api.weltevree.eu
 .api.whizzone.com
+.api.widget.zalo.me
 .api.wipmania.com
 .api.wootric.com.herokudns.com
 .api.xiaohuxi.cn
@@ -27129,6 +27129,7 @@ zzz.clickbank.net
 .b00.xyz
 .b014381c95cb.com
 .b02byun5xc3s.com
+.b0432.cn
 .b07b29ceb5c.com
 .b07f916388fc6e06847.com
 .b0d3ea12ec1b93f7af9.com
@@ -28700,6 +28701,7 @@ zzz.clickbank.net
 .bet3000partners.com
 .bet36500050.com
 .bet365affiliates.com
+.bet66.com
 .beta-m.net.zooplus.it
 .beta-news.org
 .beta-wwwmarketing.net.zooplus.es
@@ -32843,6 +32845,7 @@ zzz.clickbank.net
 .cjsdtj.com
 .cjsossrbji.xyz
 .cjt1.net
+.cjtsnykfedv.top
 .cjv2gt.cn
 .cjvdfw.com
 .cjyjqw.cn
@@ -36653,6 +36656,7 @@ zzz.clickbank.net
 .d39ion77s0ucuz.cloudfront.net
 .d39xxywi4dmut5.cloudfront.net
 .d39yds8oe4n4jq.cloudfront.net
+.d3a00ifauhjdp.cloudfront.net
 .d3a2okcloueqyx.cloudfront.net
 .d3a42c7xs4vn3.cloudfront.net
 .d3a49eam5ump99.cloudfront.net
@@ -36985,6 +36989,7 @@ zzz.clickbank.net
 .dal.d.la
 .dal9hkyfi0m0n.cloudfront.net
 .dalecta.com
+.daleriki.com
 .dalianhengtai.com
 .dalianruosen.com
 .daliantong.com.cn
@@ -40887,6 +40892,7 @@ zzz.clickbank.net
 .ee.zq13n.cn
 .ee035.cn
 .ee4kdushuba.com
+.ee66.com
 .ee6a35c1eeee.com
 .ee8a4dd81b.com
 .eebcbdca7331314.com
@@ -42221,7 +42227,6 @@ zzz.clickbank.net
 .etioh.com
 .etk.locusrobotics.com
 .etlcrfkkfl.com
-.etlrsq.ru
 .etoads.net
 .etology.com
 .etop.ro
@@ -43065,6 +43070,7 @@ zzz.clickbank.net
 .fadvindictive.com
 .fae46gussylvatica.com
 .faeecb0ock.info
+.fafafa1.com
 .fafc5ra5.ru
 .fafc5ra6.ru
 .fagaxesea.com
@@ -47048,6 +47054,7 @@ zzz.clickbank.net
 .gongshangwang.top
 .gongshu168.cn
 .gongxifacai21.top
+.gongxifc.com
 .gonosz-majom.com
 .gontent.steamplay.me
 .goo2anywhere.com
@@ -47517,6 +47524,7 @@ zzz.clickbank.net
 .groupian.io
 .groupiklan.com
 .groupm.com
+.grours.cn
 .grouse.devopsnewsletters.com
 .grouse.i21.co
 .grouse.textile.io
@@ -55338,10 +55346,15 @@ zzz.clickbank.net
 .kubient.com
 .kucent.com
 .kuchebraska.com
+.kuclub9.com
 .kudifish.com
 .kudrafa.ru
 .kudzuphloemgunk.tech
 .kueofwt.cn
+.kufun.live
+.kufun.me
+.kufun.site
+.kufun.win
 .kugo.cc
 .kuguopush.com
 .kuhaswuwaiting.xyz
@@ -55530,7 +55543,6 @@ zzz.clickbank.net
 .l2wisd9g5d9u.com
 .l3.evidon.com
 .l30od.cn
-.l33tsite.info
 .l3g3media.com
 .l3op.info
 .l4elb.cn
@@ -63252,6 +63264,7 @@ zzz.clickbank.net
 .modernus.is
 .modescrips.info
 .modesesameway.com
+.modestsunf.com
 .modgirtspod.work
 .modificant.club
 .modificantra.club
@@ -67022,6 +67035,7 @@ zzz.clickbank.net
 .ogicatius.com
 .oglasi.posjetnica.com
 .ogle-0740lb.com
+.ogmghzpyq.com
 .ognybevu.com
 .ognyvo-topnews.ru
 .ognyvo.ru
@@ -68682,6 +68696,7 @@ zzz.clickbank.net
 .page.santc.cn
 .page.sslmetric.net.zooplus.es
 .page.tl
+.page.widget.zalo.me
 .page.xywy.com
 .page1monk.com
 .page2rss.com
@@ -70144,6 +70159,7 @@ zzz.clickbank.net
 .piranha.jsmobiledev.com
 .piranha.minnmyatsoe.com
 .piranida.com
+.pirat2.cl
 .pirata.pw
 .pirataibay.in
 .piratbaypirate.li
@@ -70572,6 +70588,7 @@ zzz.clickbank.net
 .player.insuranceandhealth.com
 .player.kmpmedia.net
 .player.quankan.tv
+.player.sendtonews.com
 .player.stats.live-video.net
 .playerassets.info
 .playercdn.net
@@ -71524,6 +71541,7 @@ zzz.clickbank.net
 .prioritybeforehand.com
 .priorityinvaderinflation.com
 .prioritytrail.net
+.priry.com
 .prisedeluge.com
 .prism.app-us1.com
 .prism.noordermeer.ch
@@ -72668,6 +72686,7 @@ zzz.clickbank.net
 .putstairboor.com
 .puttrotgob.com
 .puttylearning.com
+.puturebraving.com
 .puush.in
 .puuvpsveaskxzb.com
 .puwpush.com
@@ -72976,6 +72995,7 @@ zzz.clickbank.net
 .qetup12.com
 .qevcxo.cn
 .qewisoti.com
+.qewoysy.cn
 .qexbcx.olx.kz
 .qexegqtytk.bid
 .qeyps.com
@@ -74386,7 +74406,6 @@ zzz.clickbank.net
 .refractionius.com
 .refraidinterva.xyz
 .refraintupaiid.com
-.refreshnerer27rb.info
 .refreshscoundreltendon.com
 .reftagger.com
 .reftedlettiny.info
@@ -85313,6 +85332,7 @@ zzz.clickbank.net
 .ta.toprework.vn
 .ta.yangkeduo.com
 .ta80.com
+.ta88.com
 .taat00889.com
 .tabici.com
 .tablebehav.club
@@ -87022,6 +87042,7 @@ zzz.clickbank.net
 .tjj.com
 .tjjs.km.com
 .tjlms.cn
+.tjluxuu.cn
 .tjmzzk.com
 .tjoomo.com
 .tjq.com
@@ -87098,6 +87119,8 @@ zzz.clickbank.net
 .tkn.porntube.com
 .tkonyrkc.com
 .tkpi.delta.com
+.tkpopup.asia
+.tkpopup.vn
 .tkportal.aotter.net
 .tkqjii.tokyu-resort.co.jp
 .tkqlhce.com
@@ -90646,6 +90669,7 @@ zzz.clickbank.net
 .uqfot.com
 .uqidian.com
 .uqie4nzy.com
+.uqoxh.icu
 .uqpfh.cn
 .uqystk.com
 .uqz.com
@@ -92344,7 +92368,6 @@ zzz.clickbank.net
 .vouhecem.net
 .voukouvy.net
 .vouky.com
-.voumxy.ru
 .vounaipu.net
 .voupkdprug.com
 .vovhiwr.com
@@ -93729,6 +93752,7 @@ zzz.clickbank.net
 .whatcanidowithbirds.com
 .whatcl.ru
 .whathuvopu.com
+.whathyx.com
 .whatishotnow.net
 .whatismyip.win
 .whatisuptodaynow.com
@@ -93914,6 +93938,7 @@ zzz.clickbank.net
 .widget.beesender.com
 .widget.beop.io
 .widget.breakingburner.com
+.widget.chat.zalo.me
 .widget.chatbullet.com
 .widget.cheki.com.ng
 .widget.clipix.com
@@ -96334,6 +96359,7 @@ zzz.clickbank.net
 .xiqvza.dickblick.com
 .xisea.top
 .xitao3.com
+.xitazf.cn
 .xiti.com
 .xitongku.cc
 .xitongqingli.com
@@ -96948,6 +96974,7 @@ zzz.clickbank.net
 .xzidjitondzt.com
 .xzipy.com
 .xzixbirtfo.com
+.xzjgzpw.cn
 .xzjqlg.marella.com
 .xzlnews.info
 .xznykf.org
@@ -97200,6 +97227,7 @@ zzz.clickbank.net
 .yebadu.com
 .yebmyp.com
 .yedikthslvl.xyz
+.yedimedia.net
 .yee.js.cn
 .yeegsxcwbnn.com
 .yeeok.com.cn

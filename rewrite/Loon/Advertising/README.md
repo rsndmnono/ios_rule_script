@@ -17,8 +17,8 @@
 | 类型 | 数量(条) |
 | ---- | ---- |
 | mitm | 602 |
-| DOMAIN | 4 |
-| DOMAIN-SUFFIX | 2 |
+| DOMAIN | 2 |
+| DOMAIN-SUFFIX | 1 |
 | reject | 803 |
 ## 配置说明
 
