@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-30 02:16:42
+# UPDATED: 2021-12-01 02:11:05
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # USER-AGENT: 65
-# DOMAIN-SUFFIX: 72709
+# DOMAIN-SUFFIX: 72679
 # DOMAIN: 54
-# IP-CIDR: 6155
+# IP-CIDR: 6154
 # DOMAIN-KEYWORD: 14
 # URL-REGEX: 1
-# TOTAL: 78998
+# TOTAL: 78967
 265.com
 blzddist1-a.akamaihd.net
 c.android.clients.google.com
@@ -1626,7 +1626,6 @@ www4-static.gog-statics.com
 .166cdn.com
 .166dns.com
 .166ks.net
-.166sh.com
 .166xs.cc
 .166xs.com
 .166zw.com
@@ -2302,7 +2301,6 @@ www4-static.gog-statics.com
 .1zsoft.com
 .1zu.com
 .1zw.com
-.2-01-5830-0005.cdx.cedexis.net
 .2-class.com
 .2-mm.net
 .2.gy
@@ -2516,7 +2514,6 @@ www4-static.gog-statics.com
 .224922.com
 .225721.com
 .2258.com
-.22588888.com
 .2264125.com
 .2264197.com
 .2265.com
@@ -2640,7 +2637,6 @@ www4-static.gog-statics.com
 .246546.com
 .2478.com
 .248.com
-.2481e.com
 .248xyx.com
 .249581.com
 .2496.cn
@@ -4339,7 +4335,6 @@ www4-static.gog-statics.com
 .5187g.com
 .5188.com
 .5188ab.com
-.518ad.com
 .518h48fwg6.com
 .519.best
 .51969.com
@@ -6148,7 +6143,6 @@ www4-static.gog-statics.com
 .6903.com
 .69260.com
 .6934.net
-.693836.com
 .693975.com
 .6949.com
 .695157.com
@@ -6719,7 +6713,6 @@ www4-static.gog-statics.com
 .7wenku.com
 .7wenta.com
 .7wenyi.com
-.7wkw.com
 .7wnews.com
 .7wsh.com
 .7wsh.net
@@ -8184,7 +8177,6 @@ www4-static.gog-statics.com
 .a1166.com
 .a135.net
 .a166.com
-.a1714.com
 .a1a.me
 .a1t2w1lzfr.com
 .a2048.com
@@ -12747,7 +12739,6 @@ www4-static.gog-statics.com
 .bm777777.com
 .bm8.tv
 .bm8885.com
-.bm999999.com
 .bmadx.com
 .bmatch.tech
 .bmc-medical.com
@@ -19919,7 +19910,6 @@ www4-static.gog-statics.com
 .ddepin.com
 .ddfans.com
 .ddfchina.com
-.ddgjjj.com
 .ddguanhuai.com
 .ddiaas.com
 .ddianle.com
@@ -20245,7 +20235,6 @@ www4-static.gog-statics.com
 .dfss-club.com
 .dfstw.com
 .dfsyjm.com
-.dftoutiao.com
 .dftq.net
 .dftzj.com
 .dfv5.net
@@ -21718,7 +21707,6 @@ www4-static.gog-statics.com
 .duhao.net
 .dui.ai
 .dui1dui.com
-.dui88.com
 .duia.com
 .duiai.com
 .duihuan123.com
@@ -21866,7 +21854,6 @@ www4-static.gog-statics.com
 .dushu365.com
 .dushu369.com
 .dushudaren.com
-.dushuge.net
 .dushuzhe.com
 .dushuzhong.com
 .dushw.com
@@ -22224,7 +22211,6 @@ www4-static.gog-statics.com
 .e546.net
 .e5618.com
 .e5n.com
-.e5yx.com
 .e66666.com
 .e68cname.com
 .e6dk1.cn
@@ -27265,7 +27251,6 @@ www4-static.gog-statics.com
 .gotoip2.com
 .gotoip3.com
 .gotoip4.com
-.gotoip55.com
 .gotojp.net
 .gotokeep.com
 .gotonets.com
@@ -28332,7 +28317,6 @@ www4-static.gog-statics.com
 .h5war.com
 .h5youxi.com
 .h5yunban.com
-.h6295.com
 .h6688.com
 .h6969.com
 .h6app.com
@@ -28949,7 +28933,6 @@ www4-static.gog-statics.com
 .haoxiyou.com
 .haoxue.com
 .haoxuetang99.com
-.haoxxwang.com
 .haoxyx.com
 .haoyangmao8.com
 .haoyao.com
@@ -31392,7 +31375,6 @@ www4-static.gog-statics.com
 .hubeixuekao.com
 .hubeiyanjiusheng.com
 .hubeiyongtai.com
-.hubpd.com
 .hubu.com
 .hububbs.com
 .hubulab.com
@@ -36492,7 +36474,6 @@ www4-static.gog-statics.com
 .jschengta.com
 .jschunxing.com
 .jscj.com
-.jsckjqr.com
 .jsclearing.com
 .jscmjt.com
 .jscnc.net
@@ -38550,7 +38531,6 @@ www4-static.gog-statics.com
 .kuaiwan01.com
 .kuaiwanwo.com
 .kuaixiazai.com
-.kuaiyan.com
 .kuaiyiad.com
 .kuaiyilicai.com
 .kuaiyingxiao88.com
@@ -38912,7 +38892,6 @@ www4-static.gog-statics.com
 .ladiyoga.com
 .ladjzs.com
 .ladouban.com
-.lady177.com
 .lady361.com
 .lady8844.com
 .lady98.com
@@ -44062,7 +44041,6 @@ www4-static.gog-statics.com
 .msddp.com
 .msdelectron.com
 .msecnd.net
-.msedge.net
 .msfpay.com
 .msgcarry.com
 .msgtjj.com
@@ -48405,7 +48383,6 @@ www4-static.gog-statics.com
 .puzeyf.com
 .pv001.net
 .pv265.com
-.pv4b.com
 .pvacegurmbz3e.com
 .pvc123.com
 .pvkj.com
@@ -51653,7 +51630,6 @@ www4-static.gog-statics.com
 .scbyx.net
 .scbz.org
 .scbz120.com
-.scc.ssacdn.com
 .scccyts.com
 .sccin.com
 .sccm.cc
@@ -56641,11 +56617,8 @@ www4-static.gog-statics.com
 .taozaisheng.com
 .taozhutu.com
 .tapapis.com
-.tapas.net
 .tapd.cn
 .tapdata.net
-.tapdb.com
-.tapdb.net
 .tapechat.net
 .tapenjoy.com
 .tapimg.com
@@ -60141,7 +60114,6 @@ www4-static.gog-statics.com
 .videougc.com
 .videoyi.com
 .videoyx.com
-.videozhishi.com
 .vidoadsplus.xyz
 .vienblog.com
 .viewones.com
@@ -62110,7 +62082,6 @@ www4-static.gog-statics.com
 .whnatural.com
 .whnfc.com
 .whngd.org
-.whoami.akamai.net
 .whoceansys.com
 .whocool.com
 .whoil.net
@@ -63947,7 +63918,6 @@ www4-static.gog-statics.com
 .xdfpr.com
 .xdgalaxy.com
 .xdgogogo.com
-.xdh0808.com
 .xdhbs.com
 .xdhcn.com
 .xdj-sz.com

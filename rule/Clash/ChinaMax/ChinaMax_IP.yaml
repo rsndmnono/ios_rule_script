@@ -1,14 +1,14 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-30 02:16:41
-# DOMAIN-SUFFIX: 72709
+# UPDATED: 2021-12-01 02:11:03
+# DOMAIN-SUFFIX: 72679
 # PROCESS-NAME: 6
 # DOMAIN: 54
-# IP-CIDR: 6155
+# IP-CIDR: 6154
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5591
-# TOTAL: 84529
+# TOTAL: 84498
 payload:
   - '1.0.1.0/24'
   - '1.0.2.0/23'
@@ -3043,7 +3043,6 @@ payload:
   - '153.36.0.0/15'
   - '153.99.0.0/16'
   - '154.209.251.0/24'
-  - '154.22.124.0/24'
   - '154.72.44.0/24'
   - '154.8.128.0/17'
   - '155.102.0.0/16'

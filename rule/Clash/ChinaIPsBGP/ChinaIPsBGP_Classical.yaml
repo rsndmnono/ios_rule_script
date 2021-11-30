@@ -1,9 +1,9 @@
 # NAME: ChinaIPsBGP
 # AUTHOR: misakaio
 # REPO: https://github.com/misakaio/chnroutes2
-# UPDATED: 2021-11-29 16:28:50
-# IP-CIDR: 3355
-# TOTAL: 3355
+# UPDATED: 2021-12-01 02:11:03
+# IP-CIDR: 3356
+# TOTAL: 3356
 payload:
   - IP-CIDR,1.1.8.0/24,no-resolve
   - IP-CIDR,1.116.0.0/15,no-resolve
@@ -1565,6 +1565,7 @@ payload:
   - IP-CIDR,124.71.128.0/18,no-resolve
   - IP-CIDR,124.71.192.0/19,no-resolve
   - IP-CIDR,124.71.224.0/20,no-resolve
+  - IP-CIDR,124.71.250.0/24,no-resolve
   - IP-CIDR,124.71.254.0/23,no-resolve
   - IP-CIDR,124.72.0.0/13,no-resolve
   - IP-CIDR,124.88.0.0/13,no-resolve
@@ -1652,6 +1653,7 @@ payload:
   - IP-CIDR,139.9.248.0/22,no-resolve
   - IP-CIDR,139.9.64.0/19,no-resolve
   - IP-CIDR,139.9.96.0/23,no-resolve
+  - IP-CIDR,139.9.98.0/24,no-resolve
   - IP-CIDR,14.104.0.0/13,no-resolve
   - IP-CIDR,14.112.0.0/12,no-resolve
   - IP-CIDR,14.134.0.0/15,no-resolve
@@ -1725,7 +1727,6 @@ payload:
   - IP-CIDR,153.34.0.0/15,no-resolve
   - IP-CIDR,153.36.0.0/15,no-resolve
   - IP-CIDR,153.99.0.0/16,no-resolve
-  - IP-CIDR,154.22.124.0/24,no-resolve
   - IP-CIDR,154.72.44.0/24,no-resolve
   - IP-CIDR,154.8.128.0/17,no-resolve
   - IP-CIDR,155.126.176.0/23,no-resolve
