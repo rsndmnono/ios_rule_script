@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-29 16:28:51
+# UPDATED: 2021-12-03 02:10:53
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 32070
+# DOMAIN-SUFFIX: 32075
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32277
+# TOTAL: 32282
 payload:
   - DOMAIN,amp.akamaized.net
   - DOMAIN,api-p.videomarket.jp
@@ -6618,6 +6618,7 @@ payload:
   - DOMAIN-SUFFIX,cashpassportglobe.com
   - DOMAIN-SUFFIX,cashwork.kangdi-pay.com
   - DOMAIN-SUFFIX,casi998.com
+  - DOMAIN-SUFFIX,casimages.com
   - DOMAIN-SUFFIX,casino.kto.asia
   - DOMAIN-SUFFIX,casinobellini.com
   - DOMAIN-SUFFIX,casinoking.com
@@ -7381,6 +7382,8 @@ payload:
   - DOMAIN-SUFFIX,cloudhealthtech.com
   - DOMAIN-SUFFIX,cloudimage.io
   - DOMAIN-SUFFIX,cloudimg.io
+  - DOMAIN-SUFFIX,cloudinary.com
+  - DOMAIN-SUFFIX,cloudinary.net
   - DOMAIN-SUFFIX,cloudinsights.com
   - DOMAIN-SUFFIX,cloudlive.com
   - DOMAIN-SUFFIX,cloudlock.com
@@ -20041,6 +20044,8 @@ payload:
   - DOMAIN-SUFFIX,postandcourier.com
   - DOMAIN-SUFFIX,postgresql.org
   - DOMAIN-SUFFIX,posthentai.com
+  - DOMAIN-SUFFIX,postimages.org
+  - DOMAIN-SUFFIX,postimg.cc
   - DOMAIN-SUFFIX,postimg.org
   - DOMAIN-SUFFIX,postini.com
   - DOMAIN-SUFFIX,postnl.nl

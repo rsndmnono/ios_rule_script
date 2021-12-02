@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-01 02:11:01
+# UPDATED: 2021-12-03 02:10:49
 # HOST: 11
-# HOST-SUFFIX: 33323
+# HOST-SUFFIX: 33328
 # USER-AGENT: 77
 # HOST-KEYWORD: 71
 # IP-CIDR: 1196
 # IP6-CIDR: 31
-# TOTAL: 34709
+# TOTAL: 34714
 HOST,blizzard.nefficient.co.kr,GlobalMax
 HOST,cdn77.scoreuniverse.com,GlobalMax
 HOST,clubhouse.pubnubapi.com,GlobalMax
@@ -6921,6 +6921,7 @@ HOST-SUFFIX,cashpassport.net,GlobalMax
 HOST-SUFFIX,cashpassportglobe.com,GlobalMax
 HOST-SUFFIX,cashwork.kangdi-pay.com,GlobalMax
 HOST-SUFFIX,casi998.com,GlobalMax
+HOST-SUFFIX,casimages.com,GlobalMax
 HOST-SUFFIX,casino.kto.asia,GlobalMax
 HOST-SUFFIX,casinobellini.com,GlobalMax
 HOST-SUFFIX,casinoking.com,GlobalMax
@@ -7690,6 +7691,8 @@ HOST-SUFFIX,cloudgarage.jp,GlobalMax
 HOST-SUFFIX,cloudhealthtech.com,GlobalMax
 HOST-SUFFIX,cloudimage.io,GlobalMax
 HOST-SUFFIX,cloudimg.io,GlobalMax
+HOST-SUFFIX,cloudinary.com,GlobalMax
+HOST-SUFFIX,cloudinary.net,GlobalMax
 HOST-SUFFIX,cloudinsights.com,GlobalMax
 HOST-SUFFIX,cloudlive.com,GlobalMax
 HOST-SUFFIX,cloudlock.com,GlobalMax
@@ -20918,6 +20921,8 @@ HOST-SUFFIX,postadult.com,GlobalMax
 HOST-SUFFIX,postandcourier.com,GlobalMax
 HOST-SUFFIX,postgresql.org,GlobalMax
 HOST-SUFFIX,posthentai.com,GlobalMax
+HOST-SUFFIX,postimages.org,GlobalMax
+HOST-SUFFIX,postimg.cc,GlobalMax
 HOST-SUFFIX,postimg.org,GlobalMax
 HOST-SUFFIX,postini.com,GlobalMax
 HOST-SUFFIX,postnl.nl,GlobalMax

@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-29 16:28:47
+# UPDATED: 2021-12-03 02:10:48
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 32288
+# DOMAIN-SUFFIX: 32293
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 32451
+# TOTAL: 32456
 amp.akamaized.net
 api-p.videomarket.jp
 blizzard.nefficient.co.kr
@@ -6659,6 +6659,7 @@ widgets.stripst.com
 .cashpassportglobe.com
 .cashwork.kangdi-pay.com
 .casi998.com
+.casimages.com
 .casino.kto.asia
 .casinobellini.com
 .casinoking.com
@@ -7424,6 +7425,8 @@ widgets.stripst.com
 .cloudhealthtech.com
 .cloudimage.io
 .cloudimg.io
+.cloudinary.com
+.cloudinary.net
 .cloudinsights.com
 .cloudlive.com
 .cloudlock.com
@@ -20197,6 +20200,8 @@ widgets.stripst.com
 .postandcourier.com
 .postgresql.org
 .posthentai.com
+.postimages.org
+.postimg.cc
 .postimg.org
 .postini.com
 .postnl.nl

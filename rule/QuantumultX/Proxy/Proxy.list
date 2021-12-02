@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-29 16:28:48
+# UPDATED: 2021-12-03 02:10:49
 # HOST: 32
-# HOST-SUFFIX: 32288
+# HOST-SUFFIX: 32293
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 32451
+# TOTAL: 32456
 HOST,amp.akamaized.net,Proxy
 HOST,api-p.videomarket.jp,Proxy
 HOST,blizzard.nefficient.co.kr,Proxy
@@ -6659,6 +6659,7 @@ HOST-SUFFIX,cashpassport.net,Proxy
 HOST-SUFFIX,cashpassportglobe.com,Proxy
 HOST-SUFFIX,cashwork.kangdi-pay.com,Proxy
 HOST-SUFFIX,casi998.com,Proxy
+HOST-SUFFIX,casimages.com,Proxy
 HOST-SUFFIX,casino.kto.asia,Proxy
 HOST-SUFFIX,casinobellini.com,Proxy
 HOST-SUFFIX,casinoking.com,Proxy
@@ -7424,6 +7425,8 @@ HOST-SUFFIX,cloudgarage.jp,Proxy
 HOST-SUFFIX,cloudhealthtech.com,Proxy
 HOST-SUFFIX,cloudimage.io,Proxy
 HOST-SUFFIX,cloudimg.io,Proxy
+HOST-SUFFIX,cloudinary.com,Proxy
+HOST-SUFFIX,cloudinary.net,Proxy
 HOST-SUFFIX,cloudinsights.com,Proxy
 HOST-SUFFIX,cloudlive.com,Proxy
 HOST-SUFFIX,cloudlock.com,Proxy
@@ -20197,6 +20200,8 @@ HOST-SUFFIX,postadult.com,Proxy
 HOST-SUFFIX,postandcourier.com,Proxy
 HOST-SUFFIX,postgresql.org,Proxy
 HOST-SUFFIX,posthentai.com,Proxy
+HOST-SUFFIX,postimages.org,Proxy
+HOST-SUFFIX,postimg.cc,Proxy
 HOST-SUFFIX,postimg.org,Proxy
 HOST-SUFFIX,postini.com,Proxy
 HOST-SUFFIX,postnl.nl,Proxy
