@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-03 02:10:54
+# UPDATED: 2021-12-04 02:10:17
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 32293
+# DOMAIN-SUFFIX: 32296
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
-# TOTAL: 32453
+# TOTAL: 32456
 amp.akamaized.net
 api-p.videomarket.jp
 blizzard.nefficient.co.kr
@@ -14142,6 +14142,9 @@ widgets.stripst.com
 .inteliotmarketplace.com
 .intell.com
 .intellearningseries.com
+.intellij.com
+.intellij.net
+.intellij.org
 .intellinuxgraphics.com
 .intellinuxgraphics.net
 .intellinuxwireless.net
@@ -20327,6 +20330,7 @@ widgets.stripst.com
 .privatoria.net
 .privein.com
 .privnote.com
+.privoxy.org
 .prntube.com
 .pro.eimi.vip
 .pro.tribeofnoise.com
@@ -29863,7 +29867,6 @@ widgets.stripst.com
 .www.pressrepublican.com
 .www.privatecams.com
 .www.privatvpn.se
-.www.privoxy.org
 .www.prochan.com
 .www.programthinkmirror.xyz
 .www.projectfreetv.ch

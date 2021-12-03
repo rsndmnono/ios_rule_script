@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-03 02:10:52
+# UPDATED: 2021-12-04 02:10:16
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 32293
+# DOMAIN-SUFFIX: 32296
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 32445
+# TOTAL: 32448
 payload:
   - DOMAIN,amp.akamaized.net
   - DOMAIN,api-p.videomarket.jp
@@ -14143,6 +14143,9 @@ payload:
   - DOMAIN-SUFFIX,inteliotmarketplace.com
   - DOMAIN-SUFFIX,intell.com
   - DOMAIN-SUFFIX,intellearningseries.com
+  - DOMAIN-SUFFIX,intellij.com
+  - DOMAIN-SUFFIX,intellij.net
+  - DOMAIN-SUFFIX,intellij.org
   - DOMAIN-SUFFIX,intellinuxgraphics.com
   - DOMAIN-SUFFIX,intellinuxgraphics.net
   - DOMAIN-SUFFIX,intellinuxwireless.net
@@ -20328,6 +20331,7 @@ payload:
   - DOMAIN-SUFFIX,privatoria.net
   - DOMAIN-SUFFIX,privein.com
   - DOMAIN-SUFFIX,privnote.com
+  - DOMAIN-SUFFIX,privoxy.org
   - DOMAIN-SUFFIX,prntube.com
   - DOMAIN-SUFFIX,pro.eimi.vip
   - DOMAIN-SUFFIX,pro.tribeofnoise.com
@@ -29864,7 +29868,6 @@ payload:
   - DOMAIN-SUFFIX,www.pressrepublican.com
   - DOMAIN-SUFFIX,www.privatecams.com
   - DOMAIN-SUFFIX,www.privatvpn.se
-  - DOMAIN-SUFFIX,www.privoxy.org
   - DOMAIN-SUFFIX,www.prochan.com
   - DOMAIN-SUFFIX,www.programthinkmirror.xyz
   - DOMAIN-SUFFIX,www.projectfreetv.ch

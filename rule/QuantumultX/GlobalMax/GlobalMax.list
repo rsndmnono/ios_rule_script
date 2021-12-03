@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-03 02:10:49
+# UPDATED: 2021-12-04 02:10:14
 # HOST: 11
-# HOST-SUFFIX: 33328
+# HOST-SUFFIX: 33331
 # USER-AGENT: 77
 # HOST-KEYWORD: 71
 # IP-CIDR: 1196
 # IP6-CIDR: 31
-# TOTAL: 34714
+# TOTAL: 34717
 HOST,blizzard.nefficient.co.kr,GlobalMax
 HOST,cdn77.scoreuniverse.com,GlobalMax
 HOST,clubhouse.pubnubapi.com,GlobalMax
@@ -14760,6 +14760,9 @@ HOST-SUFFIX,intelinsight.com,GlobalMax
 HOST-SUFFIX,inteliotmarketplace.com,GlobalMax
 HOST-SUFFIX,intell.com,GlobalMax
 HOST-SUFFIX,intellearningseries.com,GlobalMax
+HOST-SUFFIX,intellij.com,GlobalMax
+HOST-SUFFIX,intellij.net,GlobalMax
+HOST-SUFFIX,intellij.org,GlobalMax
 HOST-SUFFIX,intellinuxgraphics.com,GlobalMax
 HOST-SUFFIX,intellinuxgraphics.net,GlobalMax
 HOST-SUFFIX,intellinuxwireless.net,GlobalMax
@@ -21055,6 +21058,7 @@ HOST-SUFFIX,privatix.com,GlobalMax
 HOST-SUFFIX,privatoria.net,GlobalMax
 HOST-SUFFIX,privein.com,GlobalMax
 HOST-SUFFIX,privnote.com,GlobalMax
+HOST-SUFFIX,privoxy.org,GlobalMax
 HOST-SUFFIX,prntube.com,GlobalMax
 HOST-SUFFIX,pro.eimi.vip,GlobalMax
 HOST-SUFFIX,pro.tribeofnoise.com,GlobalMax
@@ -30777,7 +30781,6 @@ HOST-SUFFIX,www.president.gov.tw,GlobalMax
 HOST-SUFFIX,www.pressrepublican.com,GlobalMax
 HOST-SUFFIX,www.privatecams.com,GlobalMax
 HOST-SUFFIX,www.privatvpn.se,GlobalMax
-HOST-SUFFIX,www.privoxy.org,GlobalMax
 HOST-SUFFIX,www.prochan.com,GlobalMax
 HOST-SUFFIX,www.programthinkmirror.xyz,GlobalMax
 HOST-SUFFIX,www.projectfreetv.ch,GlobalMax

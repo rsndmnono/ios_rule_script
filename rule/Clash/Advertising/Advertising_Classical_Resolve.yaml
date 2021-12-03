@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-03 02:10:51
-# DOMAIN: 47385
+# UPDATED: 2021-12-04 02:10:15
+# DOMAIN: 47407
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 53991
 # IP-CIDR: 256
 # IP-CIDR6: 1
-# TOTAL: 101721
+# TOTAL: 101743
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0000mps.webpreview.dsl.net
@@ -6277,6 +6277,7 @@ payload:
   - DOMAIN,bbullard.com
   - DOMAIN,bbuyirgucsbfwt.com
   - DOMAIN,bbxaumvpzqpunx.com
+  - DOMAIN,bbyhjamzpkenvm.com
   - DOMAIN,bbzassociates.com
   - DOMAIN,bbzwbxchqgph.com
   - DOMAIN,bc0a.com
@@ -13857,6 +13858,7 @@ payload:
   - DOMAIN,ellisonsite.com
   - DOMAIN,ellisplanningassociates.com
   - DOMAIN,ellusakit.000webhostapp.com
+  - DOMAIN,elmfnadgg.com
   - DOMAIN,elmifarhangi.com
   - DOMAIN,elmissouri.fr
   - DOMAIN,elninotips.com
@@ -16132,6 +16134,7 @@ payload:
   - DOMAIN,founehie.com
   - DOMAIN,four999.webredirect.org
   - DOMAIN,fourgonsrivesud.com
+  - DOMAIN,fourmtagservices.com
   - DOMAIN,fourthgate.org
   - DOMAIN,fouwazou.net
   - DOMAIN,foxcounter.com
@@ -16674,6 +16677,7 @@ payload:
   - DOMAIN,frontiertradegroup.com
   - DOMAIN,frontpagecash.com
   - DOMAIN,frosgame.com
+  - DOMAIN,frpguidmetp.com
   - DOMAIN,frqmnrlqk.com
   - DOMAIN,frsqgvwmzjnun.com
   - DOMAIN,frt2354.wixsite.com
@@ -24039,6 +24043,7 @@ payload:
   - DOMAIN,kyowarob.com
   - DOMAIN,kypisecmxzhaww.com
   - DOMAIN,kyqacdtrmwwy.com
+  - DOMAIN,kyqvwwyjmrhl.com
   - DOMAIN,kyreyweczxj.com
   - DOMAIN,kysimxpwd.com
   - DOMAIN,kyugaiei.com
@@ -24207,6 +24212,7 @@ payload:
   - DOMAIN,laslomaspta.com
   - DOMAIN,lasosheriff.org
   - DOMAIN,lassincafe.com
+  - DOMAIN,last-zone.com
   - DOMAIN,lasthacks.com
   - DOMAIN,lastmeasure.zoy.org
   - DOMAIN,lastorb.com
@@ -24705,6 +24711,7 @@ payload:
   - DOMAIN,ligueconso.org
   - DOMAIN,liiaannwhite.com
   - DOMAIN,lijapan.com
+  - DOMAIN,lijzkjtk.com
   - DOMAIN,likasbayprecinct.com
   - DOMAIN,like.likewut.net
   - DOMAIN,likefreehack.com
@@ -24947,6 +24954,7 @@ payload:
   - DOMAIN,lljtgiwhqtue.com
   - DOMAIN,llletfipicprkvmp.xyz
   - DOMAIN,lllgavbgnmcbf.com
+  - DOMAIN,lllkotiocpjfb.com
   - DOMAIN,llluzqrvfyrbt.com
   - DOMAIN,llnxfuxszevf.com
   - DOMAIN,lloydbnk-uk.com
@@ -26224,6 +26232,7 @@ payload:
   - DOMAIN,mds.xmgsjd.com
   - DOMAIN,mdsignsbog.com
   - DOMAIN,mdstrat.actonsoftware.com
+  - DOMAIN,mduinqxgi.com
   - DOMAIN,mdulmrphzsnvw.com
   - DOMAIN,mdurqeiydegwzy.com
   - DOMAIN,mdvrxmzofurvkm.com
@@ -30276,6 +30285,7 @@ payload:
   - DOMAIN,opjfqjlfdxup.com
   - DOMAIN,opner.co
   - DOMAIN,oppcgcqytazs.com
+  - DOMAIN,oprahsearch.com
   - DOMAIN,oprivi.info
   - DOMAIN,ops-screen.com
   - DOMAIN,ops.zibov.com
@@ -30551,6 +30561,7 @@ payload:
   - DOMAIN,ovomexido.com
   - DOMAIN,ovqsyawrm.com
   - DOMAIN,ovrdkhamiljt.com
+  - DOMAIN,ovtkwzyowci.com
   - DOMAIN,ovtopli.ru
   - DOMAIN,ovvddcpjqndfv.com
   - DOMAIN,ovzmelkxgtgf.com
@@ -30917,6 +30928,7 @@ payload:
   - DOMAIN,panel.followcampaign.com
   - DOMAIN,paneshomes.com
   - DOMAIN,panimooladevi.org
+  - DOMAIN,panthawas.com
   - DOMAIN,pantsflag.net
   - DOMAIN,panyeri.info
   - DOMAIN,paoifkboubreres.com
@@ -33063,6 +33075,7 @@ payload:
   - DOMAIN,putrr5.com
   - DOMAIN,putrr6.com
   - DOMAIN,putunlogstashdma.net
+  - DOMAIN,puwvuscm.com
   - DOMAIN,puzzlesgaming.com
   - DOMAIN,puzzlingfall.com
   - DOMAIN,pv.csdn.net
@@ -36855,6 +36868,7 @@ payload:
   - DOMAIN,sizinbankaniz-ziraat.com
   - DOMAIN,sizinggude1.com
   - DOMAIN,sjboc.dreamhosters.com
+  - DOMAIN,sjgcswrvltrx.com
   - DOMAIN,sjgttcfj.com
   - DOMAIN,sjhedgefunds.com
   - DOMAIN,sjjazrfvzbkt.com
@@ -39271,6 +39285,7 @@ payload:
   - DOMAIN,tecnocuer.com
   - DOMAIN,tecnovags.com
   - DOMAIN,tecoassociation.org
+  - DOMAIN,tecslide.com
   - DOMAIN,tedlrouwixqq.com
   - DOMAIN,teefpagayhb.com
   - DOMAIN,teendestruction.com
@@ -39956,6 +39971,7 @@ payload:
   - DOMAIN,tlhadcbtntr.com
   - DOMAIN,tlhiatdhw.com
   - DOMAIN,tljikqcijttf.com
+  - DOMAIN,tlkhzqmrg.com
   - DOMAIN,tlkqzjvyujb.com
   - DOMAIN,tlnoffpocjud.com
   - DOMAIN,tloqqquh.lnnrw.top
@@ -40678,6 +40694,7 @@ payload:
   - DOMAIN,trbucgmbren.com
   - DOMAIN,trcbxjusetvc.com
   - DOMAIN,trck.sixt.com
+  - DOMAIN,trclfonj.com
   - DOMAIN,trcrkykttaila.com
   - DOMAIN,trdhjlszfbwk.com
   - DOMAIN,trdmnpklszd.com
@@ -42357,6 +42374,7 @@ payload:
   - DOMAIN,ventite.com
   - DOMAIN,venudre.000webhostapp.com
   - DOMAIN,venusbux.com
+  - DOMAIN,venusparkridge.com
   - DOMAIN,veodxsimctsgs.com
   - DOMAIN,veoujrnenng.com
   - DOMAIN,vepatyei.com
@@ -43387,6 +43405,7 @@ payload:
   - DOMAIN,watchingmovie21.com
   - DOMAIN,watchitallnow.com
   - DOMAIN,watchmovieonlinefull.com
+  - DOMAIN,watchmovies.just4umedia.com
   - DOMAIN,watchrag.com
   - DOMAIN,watchrugbystream.com
   - DOMAIN,watchthesenow.com
@@ -44286,6 +44305,7 @@ payload:
   - DOMAIN,wozltvfxtntaqk.com
   - DOMAIN,wp-cdn.cityads.com
   - DOMAIN,wp-club.net
+  - DOMAIN,wp-monero-miner.de
   - DOMAIN,wp-stat.s3.amazonasw.com
   - DOMAIN,wp-stat.s3.amazonaws.com
   - DOMAIN,wp-test.unbounce.com
@@ -44887,6 +44907,7 @@ payload:
   - DOMAIN,wwwbluemoutain.com
   - DOMAIN,wwwbluzelle.com
   - DOMAIN,wwwbudget.com
+  - DOMAIN,wwwcallwave.com
   - DOMAIN,wwwcareerpath.com
   - DOMAIN,wwwcdnow.com
   - DOMAIN,wwwcheaptickets.com
@@ -45687,6 +45708,7 @@ payload:
   - DOMAIN,xporontube.tripod.com
   - DOMAIN,xpostmail.com
   - DOMAIN,xprurfeoarxz.com
+  - DOMAIN,xpwwqbkezdr.com
   - DOMAIN,xpywzbxjwbxafv.com
   - DOMAIN,xpyyrkwpcpwf.com
   - DOMAIN,xq.7489rwxacx.xyz

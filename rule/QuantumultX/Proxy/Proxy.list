@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-03 02:10:49
+# UPDATED: 2021-12-04 02:10:14
 # HOST: 32
-# HOST-SUFFIX: 32293
+# HOST-SUFFIX: 32296
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 32456
+# TOTAL: 32459
 HOST,amp.akamaized.net,Proxy
 HOST,api-p.videomarket.jp,Proxy
 HOST,blizzard.nefficient.co.kr,Proxy
@@ -14143,6 +14143,9 @@ HOST-SUFFIX,intelinsight.com,Proxy
 HOST-SUFFIX,inteliotmarketplace.com,Proxy
 HOST-SUFFIX,intell.com,Proxy
 HOST-SUFFIX,intellearningseries.com,Proxy
+HOST-SUFFIX,intellij.com,Proxy
+HOST-SUFFIX,intellij.net,Proxy
+HOST-SUFFIX,intellij.org,Proxy
 HOST-SUFFIX,intellinuxgraphics.com,Proxy
 HOST-SUFFIX,intellinuxgraphics.net,Proxy
 HOST-SUFFIX,intellinuxwireless.net,Proxy
@@ -20328,6 +20331,7 @@ HOST-SUFFIX,privatix.com,Proxy
 HOST-SUFFIX,privatoria.net,Proxy
 HOST-SUFFIX,privein.com,Proxy
 HOST-SUFFIX,privnote.com,Proxy
+HOST-SUFFIX,privoxy.org,Proxy
 HOST-SUFFIX,prntube.com,Proxy
 HOST-SUFFIX,pro.eimi.vip,Proxy
 HOST-SUFFIX,pro.tribeofnoise.com,Proxy
@@ -29864,7 +29868,6 @@ HOST-SUFFIX,www.president.gov.tw,Proxy
 HOST-SUFFIX,www.pressrepublican.com,Proxy
 HOST-SUFFIX,www.privatecams.com,Proxy
 HOST-SUFFIX,www.privatvpn.se,Proxy
-HOST-SUFFIX,www.privoxy.org,Proxy
 HOST-SUFFIX,www.prochan.com,Proxy
 HOST-SUFFIX,www.programthinkmirror.xyz,Proxy
 HOST-SUFFIX,www.projectfreetv.ch,Proxy

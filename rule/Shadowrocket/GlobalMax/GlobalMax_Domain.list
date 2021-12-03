@@ -1,15 +1,15 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-03 02:10:54
+# UPDATED: 2021-12-04 02:10:17
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN: 11
-# DOMAIN-SUFFIX: 33328
+# DOMAIN-SUFFIX: 33331
 # USER-AGENT: 77
 # DOMAIN-KEYWORD: 71
 # IP-CIDR: 1196
 # URL-REGEX: 8
-# TOTAL: 34691
+# TOTAL: 34694
 blizzard.nefficient.co.kr
 cdn77.scoreuniverse.com
 clubhouse.pubnubapi.com
@@ -14761,6 +14761,9 @@ widgets.stripst.com
 .inteliotmarketplace.com
 .intell.com
 .intellearningseries.com
+.intellij.com
+.intellij.net
+.intellij.org
 .intellinuxgraphics.com
 .intellinuxgraphics.net
 .intellinuxwireless.net
@@ -21056,6 +21059,7 @@ widgets.stripst.com
 .privatoria.net
 .privein.com
 .privnote.com
+.privoxy.org
 .prntube.com
 .pro.eimi.vip
 .pro.tribeofnoise.com
@@ -30778,7 +30782,6 @@ widgets.stripst.com
 .www.pressrepublican.com
 .www.privatecams.com
 .www.privatvpn.se
-.www.privoxy.org
 .www.prochan.com
 .www.programthinkmirror.xyz
 .www.projectfreetv.ch

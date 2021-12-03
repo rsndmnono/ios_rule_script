@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-03 02:10:52
+# UPDATED: 2021-12-04 02:10:16
 # DOMAIN: 32
-# DOMAIN-SUFFIX: 32075
+# DOMAIN-SUFFIX: 32078
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32282
+# TOTAL: 32285
 payload:
   - 'amp.akamaized.net'
   - 'api-p.videomarket.jp'
@@ -14098,6 +14098,9 @@ payload:
   - '+.inteliotmarketplace.com'
   - '+.intell.com'
   - '+.intellearningseries.com'
+  - '+.intellij.com'
+  - '+.intellij.net'
+  - '+.intellij.org'
   - '+.intellinuxgraphics.com'
   - '+.intellinuxgraphics.net'
   - '+.intellinuxwireless.net'
@@ -20172,6 +20175,7 @@ payload:
   - '+.privatoria.net'
   - '+.privein.com'
   - '+.privnote.com'
+  - '+.privoxy.org'
   - '+.prntube.com'
   - '+.pro.eimi.vip'
   - '+.pro.tribeofnoise.com'
@@ -29651,7 +29655,6 @@ payload:
   - '+.www.pressrepublican.com'
   - '+.www.privatecams.com'
   - '+.www.privatvpn.se'
-  - '+.www.privoxy.org'
   - '+.www.prochan.com'
   - '+.www.programthinkmirror.xyz'
   - '+.www.projectfreetv.ch'

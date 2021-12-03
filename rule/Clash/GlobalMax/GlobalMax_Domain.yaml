@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-03 02:10:53
+# UPDATED: 2021-12-04 02:10:17
 # DOMAIN: 11
-# DOMAIN-SUFFIX: 33328
+# DOMAIN-SUFFIX: 33331
 # DOMAIN-KEYWORD: 71
 # IP-CIDR: 1196
 # IP-CIDR6: 31
 # PROCESS-NAME: 56
-# TOTAL: 34693
+# TOTAL: 34696
 payload:
   - 'blizzard.nefficient.co.kr'
   - 'cdn77.scoreuniverse.com'
@@ -14761,6 +14761,9 @@ payload:
   - '+.inteliotmarketplace.com'
   - '+.intell.com'
   - '+.intellearningseries.com'
+  - '+.intellij.com'
+  - '+.intellij.net'
+  - '+.intellij.org'
   - '+.intellinuxgraphics.com'
   - '+.intellinuxgraphics.net'
   - '+.intellinuxwireless.net'
@@ -21056,6 +21059,7 @@ payload:
   - '+.privatoria.net'
   - '+.privein.com'
   - '+.privnote.com'
+  - '+.privoxy.org'
   - '+.prntube.com'
   - '+.pro.eimi.vip'
   - '+.pro.tribeofnoise.com'
@@ -30778,7 +30782,6 @@ payload:
   - '+.www.pressrepublican.com'
   - '+.www.privatecams.com'
   - '+.www.privatvpn.se'
-  - '+.www.privoxy.org'
   - '+.www.prochan.com'
   - '+.www.programthinkmirror.xyz'
   - '+.www.projectfreetv.ch'

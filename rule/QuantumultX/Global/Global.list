@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-03 02:10:49
+# UPDATED: 2021-12-04 02:10:14
 # HOST: 32
-# HOST-SUFFIX: 32075
+# HOST-SUFFIX: 32078
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 129
 # IP6-CIDR: 4
-# TOTAL: 32329
+# TOTAL: 32332
 HOST,amp.akamaized.net,Global
 HOST,api-p.videomarket.jp,Global
 HOST,blizzard.nefficient.co.kr,Global
@@ -14097,6 +14097,9 @@ HOST-SUFFIX,intelinsight.com,Global
 HOST-SUFFIX,inteliotmarketplace.com,Global
 HOST-SUFFIX,intell.com,Global
 HOST-SUFFIX,intellearningseries.com,Global
+HOST-SUFFIX,intellij.com,Global
+HOST-SUFFIX,intellij.net,Global
+HOST-SUFFIX,intellij.org,Global
 HOST-SUFFIX,intellinuxgraphics.com,Global
 HOST-SUFFIX,intellinuxgraphics.net,Global
 HOST-SUFFIX,intellinuxwireless.net,Global
@@ -20171,6 +20174,7 @@ HOST-SUFFIX,privatix.com,Global
 HOST-SUFFIX,privatoria.net,Global
 HOST-SUFFIX,privein.com,Global
 HOST-SUFFIX,privnote.com,Global
+HOST-SUFFIX,privoxy.org,Global
 HOST-SUFFIX,prntube.com,Global
 HOST-SUFFIX,pro.eimi.vip,Global
 HOST-SUFFIX,pro.tribeofnoise.com,Global
@@ -29650,7 +29654,6 @@ HOST-SUFFIX,www.president.gov.tw,Global
 HOST-SUFFIX,www.pressrepublican.com,Global
 HOST-SUFFIX,www.privatecams.com,Global
 HOST-SUFFIX,www.privatvpn.se,Global
-HOST-SUFFIX,www.privoxy.org,Global
 HOST-SUFFIX,www.prochan.com,Global
 HOST-SUFFIX,www.programthinkmirror.xyz,Global
 HOST-SUFFIX,www.projectfreetv.ch,Global
