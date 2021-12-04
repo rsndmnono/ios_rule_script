@@ -1,17 +1,17 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-04 02:10:13
+# UPDATED: 2021-12-05 02:10:09
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # USER-AGENT: 65
-# DOMAIN-SUFFIX: 72560
+# DOMAIN-SUFFIX: 72559
 # PROCESS-NAME: 6
 # DOMAIN: 54
-# IP-CIDR: 6197
+# IP-CIDR: 6210
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5591
 # URL-REGEX: 1
-# TOTAL: 84488
+# TOTAL: 84500
 265.com
 blzddist1-a.akamaihd.net
 c.android.clients.google.com
@@ -63231,7 +63231,6 @@ www4-static.gog-statics.com
 .wuximeidi.com
 .wuxin.info
 .wuxinban.com
-.wuxiqiangheng.com
 .wuxiwang.net
 .wuxizazhi.cn
 .wuxizazhi.com
