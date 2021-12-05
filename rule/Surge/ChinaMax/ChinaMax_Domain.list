@@ -1,17 +1,17 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-05 02:10:09
+# UPDATED: 2021-12-06 02:08:56
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # USER-AGENT: 65
-# DOMAIN-SUFFIX: 72559
+# DOMAIN-SUFFIX: 72574
 # PROCESS-NAME: 6
 # DOMAIN: 54
-# IP-CIDR: 6210
+# IP-CIDR: 6187
 # DOMAIN-KEYWORD: 14
 # IP-CIDR6: 5591
 # URL-REGEX: 1
-# TOTAL: 84500
+# TOTAL: 84492
 265.com
 blzddist1-a.akamaihd.net
 c.android.clients.google.com
@@ -8748,6 +8748,7 @@ www4-static.gog-statics.com
 .aibo123.com
 .aibooks.cc
 .aibosha.com
+.aibreeno.com
 .aibusy.com
 .aicai.com
 .aicaicdn.com
@@ -9370,6 +9371,7 @@ www4-static.gog-statics.com
 .all4seiya.net
 .allappapi.com
 .allawnfs.com
+.allawno.com
 .allawntech.com
 .allbrightlaw.com
 .allchinahardware.com
@@ -9530,6 +9532,7 @@ www4-static.gog-statics.com
 .andaike.com
 .andan.me
 .andefz.com
+.andes.tech
 .andeyi1688.com
 .andfx.cn
 .andfx.net
@@ -23743,6 +23746,7 @@ www4-static.gog-statics.com
 .famensi.com
 .famicn.com
 .famige.com
+.familyincloud.com
 .familykoloro.com
 .familylifemag.com
 .famiyou.com
@@ -29682,7 +29686,10 @@ www4-static.gog-statics.com
 .heyplus.com
 .heyreport.com
 .heyria.com
+.heytap.cn
 .heytap.com
+.heytapcloud.cn
+.heytapcloud.com
 .heytapcs.com
 .heytapdownload.com
 .heytapimage.com
@@ -32297,6 +32304,7 @@ www4-static.gog-statics.com
 .ibr.cc
 .ibrainproject.org
 .ibreader.com
+.ibreeno.com
 .ibroadlink.com
 .ibruce.info
 .ibscdn.com
@@ -46130,6 +46138,7 @@ www4-static.gog-statics.com
 .omchain.com
 .omd99.com
 .omdnchina.com
+.omeet.cc
 .omegatravel.net
 .omegaxyz.com
 .ometal.com
@@ -46355,6 +46364,7 @@ www4-static.gog-statics.com
 .opfibre.com
 .opjmw1.ren
 .oplay.net
+.oplustrust.com
 .opmaterial.com
 .opp2.com
 .oppein.com
@@ -46363,6 +46373,7 @@ www4-static.gog-statics.com
 .oppo.com
 .oppo.mobi
 .oppo518.net
+.oppodataintel.cn
 .oppodigital.com
 .oppodigital.com.cn
 .oppoer.cn
@@ -46453,6 +46464,7 @@ www4-static.gog-statics.com
 .orsoon.com
 .orspr.com
 .orsun.cc
+.ortc.cc
 .orvaegao.com
 .orvibo.com
 .orz.asia
@@ -59819,6 +59831,7 @@ www4-static.gog-statics.com
 .vasee.com
 .vasoon.com
 .vauoo.com
+.vayol.com
 .vbanzs.com
 .vbbobo.com
 .vbidc.com
@@ -64204,6 +64217,7 @@ www4-static.gog-statics.com
 .xiaobd.net
 .xiaobenzi.com
 .xiaobingxitong.com
+.xiaobool.com
 .xiaobu121.com
 .xiaocaoo.com
 .xiaocaoyun.com
@@ -69826,6 +69840,7 @@ www4-static.gog-statics.com
 .zeixihuan.com
 .zejiri.net
 .zeju.com
+.zeku.com
 .zelininfo.com
 .zelinonline.com
 .zemismart.com

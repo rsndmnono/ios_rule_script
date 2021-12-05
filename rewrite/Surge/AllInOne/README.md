@@ -18,10 +18,10 @@
 | force_http_engine_hosts | 12 |
 | URL-REGEX | 7 |
 | DOMAIN | 6 |
-| DOMAIN-SUFFIX | 2 |
 | USER-AGENT | 1 |
 | IP-CIDR6 | 1 |
 | IP-CIDR | 1 |
+| DOMAIN-SUFFIX | 2 |
 | reject | 748 |
 | http-response | 33 |
 | http-request | 3 |
