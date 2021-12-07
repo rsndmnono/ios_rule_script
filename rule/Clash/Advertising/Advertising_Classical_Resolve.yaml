@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-07 02:08:36
+# UPDATED: 2021-12-07 11:17:58
 # DOMAIN: 47816
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 54181
+# DOMAIN-SUFFIX: 54180
 # IP-CIDR: 256
 # IP-CIDR6: 1
-# TOTAL: 102342
+# TOTAL: 102341
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0000mps.webpreview.dsl.net
@@ -50996,7 +50996,6 @@ payload:
   - DOMAIN-SUFFIX,acs.agent.56.com
   - DOMAIN-SUFFIX,acs.agent.v-56.com
   - DOMAIN-SUFFIX,acs.wapa.taobao.com
-  - DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
   - DOMAIN-SUFFIX,acs86.com
   - DOMAIN-SUFFIX,acsbap.com
   - DOMAIN-SUFFIX,acscdn.com

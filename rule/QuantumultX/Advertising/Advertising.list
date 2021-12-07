@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-07 02:08:35
+# UPDATED: 2021-12-07 11:17:56
 # HOST: 47816
 # HOST-KEYWORD: 88
-# HOST-SUFFIX: 54181
+# HOST-SUFFIX: 54180
 # IP-CIDR: 256
 # IP6-CIDR: 1
-# TOTAL: 102342
+# TOTAL: 102341
 HOST,0.nextyourcontent.com,Advertising
 HOST,0000mps.webpreview.dsl.net,Advertising
 HOST,0001.2waky.com,Advertising
@@ -50995,7 +50995,6 @@ HOST-SUFFIX,acs.56.com,Advertising
 HOST-SUFFIX,acs.agent.56.com,Advertising
 HOST-SUFFIX,acs.agent.v-56.com,Advertising
 HOST-SUFFIX,acs.wapa.taobao.com,Advertising
-HOST-SUFFIX,acs4baichuan.m.taobao.com,Advertising
 HOST-SUFFIX,acs86.com,Advertising
 HOST-SUFFIX,acsbap.com,Advertising
 HOST-SUFFIX,acscdn.com,Advertising

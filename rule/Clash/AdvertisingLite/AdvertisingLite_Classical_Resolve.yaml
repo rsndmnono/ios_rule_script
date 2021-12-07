@@ -1,15 +1,16 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-29 02:09:57
-# DOMAIN: 70
+# UPDATED: 2021-12-07 11:17:58
+# DOMAIN: 72
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13218
+# DOMAIN-SUFFIX: 13217
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 13474
+# TOTAL: 13475
 payload:
   - DOMAIN,ad-cdn.qingting.fm
+  - DOMAIN,ad-channel.woyeahgo.tk
   - DOMAIN,ad-display.wikawika.xyz
   - DOMAIN,ad.21cn.com
   - DOMAIN,ad.hori-gz.com
@@ -28,6 +29,7 @@ payload:
   - DOMAIN,ads-marketing-vivofs.vivo.com.cn
   - DOMAIN,ads-video-al.xhscdn.com
   - DOMAIN,ads-video-qc.xhscdn.com
+  - DOMAIN,ads.aws.viber.com
   - DOMAIN,ads.chinadaily.com.cn
   - DOMAIN,ads.snapchat.com
   - DOMAIN,ads.viber.com
@@ -1231,7 +1233,6 @@ payload:
   - DOMAIN-SUFFIX,acookie.alibaba.com
   - DOMAIN-SUFFIX,acookie.alimama.com
   - DOMAIN-SUFFIX,acrabakasaka.com
-  - DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
   - DOMAIN-SUFFIX,acs86.com
   - DOMAIN-SUFFIX,acsystem.wasu.cn
   - DOMAIN-SUFFIX,acsystem.wasu.tv

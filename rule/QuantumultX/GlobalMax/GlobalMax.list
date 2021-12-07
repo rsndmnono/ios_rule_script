@@ -1,14 +1,14 @@
 # NAME: GlobalMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-04 02:10:14
+# UPDATED: 2021-12-07 11:17:57
 # HOST: 11
-# HOST-SUFFIX: 33331
+# HOST-SUFFIX: 33330
 # USER-AGENT: 77
 # HOST-KEYWORD: 71
 # IP-CIDR: 1196
 # IP6-CIDR: 31
-# TOTAL: 34717
+# TOTAL: 34716
 HOST,blizzard.nefficient.co.kr,GlobalMax
 HOST,cdn77.scoreuniverse.com,GlobalMax
 HOST,clubhouse.pubnubapi.com,GlobalMax
@@ -22724,7 +22724,6 @@ HOST-SUFFIX,sextube.com.tw,GlobalMax
 HOST-SUFFIX,sextubepromo.com,GlobalMax
 HOST-SUFFIX,sextvx.com,GlobalMax
 HOST-SUFFIX,sexu.com,GlobalMax
-HOST-SUFFIX,sexuhot.com,GlobalMax
 HOST-SUFFIX,sexxxy.biz,GlobalMax
 HOST-SUFFIX,sexy-lingerie.ws,GlobalMax
 HOST-SUFFIX,sexy-word.com,GlobalMax
